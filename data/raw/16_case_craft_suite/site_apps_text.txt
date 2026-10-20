@@ -1,0 +1,278 @@
+Crafting Apps: open-source creative tools — ArtCraft
+Home
+Image
+Video
+Resources
+Download
+Support
+Craft Apps
+Pricing
+Launch App
+Open main menu
+01
+/
+Crafting Apps
+Twelve apps · Open source · Pure Rust
+Twelve
+apps. One
+craft
+.
+Image editing, vector illustration, video, photography, PDFs, motion graphics, page layout, word processing, audio, presentations, CAD and spreadsheets. Native, open-source apps from the ArtCraft team, built in Rust and free to use.
+Download Launcher
+Join the Discord
+Browse on GitHub
+Recommended:
+ArtCraft Launcher
+installs every app below and keeps them all up to date. Each app also has its own installers on its page.
+Learn more
+Share
+Copy link
+X
+Reddit
+Bluesky
+LinkedIn
+PhotoCraft
+VectorCraft
+FilmCraft
+LightCraft
+PdfCraft
+EffectCraft
+DesignCraft
+WordCraft
+SoundCraft
+DeckCraft
+CADCraft
+GridCraft
+02
+/
+The lineup
+Pick a craft to explore
+01
+Image editor
+Photo
+Craft
+The open-source image editor you already know how to use.
+Early alpha
+Installers ready
+macOS
+Windows
+Linux
+Web
+Explore
+PhotoCraft
+02
+Vector illustration
+Vector
+Craft
+Fast, open-source vector illustration, reimagined in pure Rust.
+In development
+Installers ready
+macOS
+Windows
+Linux
+Web
+Explore
+VectorCraft
+03
+Video editor
+Film
+Craft
+Professional, open-source video editing, rebuilt from scratch in Rust.
+In development
+Installers ready
+macOS
+Windows
+Linux
+Explore
+FilmCraft
+04
+Photo library & raw developer
+Light
+Craft
+An open-source photo library and raw developer that runs on your machine.
+In development
+Installers ready
+macOS
+Windows
+Linux
+Web
+Explore
+LightCraft
+05
+PDF workbench
+Pdf
+Craft
+The open-source PDF workbench: read, organize, combine, split and secure.
+Early alpha
+Installers ready
+macOS
+Windows
+Linux
+Web
+Explore
+PdfCraft
+06
+Motion graphics & VFX
+Effect
+Craft
+Open-source motion graphics and visual effects, built in pure Rust.
+In development
+Installers ready
+macOS
+Windows
+Linux
+Web
+Explore
+EffectCraft
+07
+Page layout & publishing
+Design
+Craft
+Open-source page layout and publishing, rebuilt in pure Rust.
+In development
+Installers ready
+macOS
+Windows
+Linux
+Web
+Explore
+DesignCraft
+08
+Word processing
+Word
+Craft
+Fast, open-source word processing, rebuilt in pure Rust.
+In development
+Installers ready
+macOS
+Windows
+Linux
+Web
+Explore
+WordCraft
+09
+Digital audio workstation
+Sound
+Craft
+Professional audio recording, editing and mixing in pure Rust.
+In development
+Installers ready
+macOS
+Windows
+Linux
+Web
+Explore
+SoundCraft
+10
+Presentations & slide shows
+Deck
+Craft
+Build and deliver dynamic slide presentations, in pure Rust.
+In development
+Installers ready
+macOS
+Windows
+Linux
+Web
+Explore
+DeckCraft
+11
+Computer-aided design & drafting
+CAD
+Craft
+Fast, open-source computer-aided design and drafting in pure Rust.
+In development
+Installers ready
+macOS
+Windows
+Linux
+Web
+Explore
+CADCraft
+12
+Spreadsheets & data analysis
+Grid
+Craft
+Fast, open-source spreadsheets and data analysis, rebuilt in pure Rust.
+In development
+Installers ready
+macOS
+Windows
+Linux
+Web
+Explore
+GridCraft
+Next up
+More crafts
+on the way
+.
+Tell us what to rebuild next, test early builds and follow development with the team in the ArtCraft Discord.
+Join Discord
+03
+/
+Principles
+Shared by every craft
+Built the
+hard
+way.
+Every Crafting App is written from scratch in Rust and held to the same rules.
+01
+Open source
+Every line is on GitHub under permissive licenses. Read it, fork it, build on it.
+02
+Native, not wrapped
+Pure Rust compiled to real desktop apps for macOS, Windows and Linux. No Electron, no web views.
+03
+Familiar from day one
+Layouts, tools and shortcuts that working professionals already know, so there's nothing to relearn.
+04
+Your files, your machine
+Everything runs locally on your own files. No cloud round-trips between you and your work.
+05
+Agent-ready
+Drive every app from a CLI, a JSON control channel or an MCP server, built for automation and AI agents.
+06
+Also in your browser
+PhotoCraft, VectorCraft, LightCraft, PdfCraft, EffectCraft, DesignCraft, WordCraft, SoundCraft, DeckCraft, CADCraft, and GridCraft also compile to WebAssembly and run in a browser tab.
+Open source · Free
+Build it
+with us
+.
+Early builds, roadmaps and the people making the Crafting Apps all live in the ArtCraft Discord.
+Join the Discord
+The open-source studio for controllable AI image and video.
+hello@storyteller.ai
+Product
+Download
+Pricing
+Launch App
+Craft Apps
+All Craft Apps
+PhotoCraft
+VectorCraft
+FilmCraft
+LightCraft
+PdfCraft
+EffectCraft
+DesignCraft
+WordCraft
+SoundCraft
+DeckCraft
+CADCraft
+GridCraft
+Resources
+Tutorials
+News
+FAQ
+Press Kit
+Support
+Community
+Discord
+GitHub
+YouTube
+Instagram
+TikTok
+©
+2026
+ArtCraft
+Made by artists, for artists

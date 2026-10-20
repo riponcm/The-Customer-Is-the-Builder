@@ -1,0 +1,112 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "bobsingor"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "adobe",
+            "acrobat"
+          ],
+          "value": "I built EmbedPDF: an MIT-licensed, open-source PDF viewer that aims to match all of <em>Adobe</em> <em>Acrobat</em>’s paid features… for free.<p>Already working:<p>- Annotations (highlight, sticky notes, free text, ink)<p>- True redaction (content actually removed)<p>- Search, text selection, zoom, rotation<p>- Runs fully in the browser, no server needed<p>- Drop-in SDK for React, Vue, Preact, vanilla JS<p>Why? <em>Acrobat</em> is heavy, closed, and pricey. I wanted something lightweight, hackable, and embeddable anywhere.<p>Demo: <a href=\"https://app.embedpdf.com/\" rel=\"nofollow\">https://app.embedpdf.com/</a>\nWebsite: <a href=\"https://www.embedpdf.com/\" rel=\"nofollow\">https://www.embedpdf.com/</a>\nGitHub: <a href=\"https://github.com/embedpdf/embed-pdf-viewer\" rel=\"nofollow\">https://github.com/embedpdf/embed-pdf-viewer</a><p>Feedback, bug reports, and feature requests welcome!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "adobe",
+            "acrobat",
+            "alternative"
+          ],
+          "value": "Show HN: I built a free <em>alternative</em> to <em>Adobe</em> <em>Acrobat</em> PDF viewer"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/embedpdf/embed-pdf-viewer"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_bobsingor",
+        "story_44901683",
+        "show_hn"
+      ],
+      "author": "bobsingor",
+      "children": [
+        44901801,
+        44903031,
+        44903045,
+        44903248,
+        44903579,
+        44903880,
+        44904460,
+        44904528,
+        44904833,
+        44904960,
+        44905084,
+        44905502,
+        44905758,
+        44906364,
+        44907230,
+        44907952,
+        44908460,
+        44908790,
+        44908829,
+        44909259,
+        44910335,
+        44910414,
+        44910991,
+        44911041,
+        44911158,
+        44911470,
+        44912079,
+        44914164,
+        44915817,
+        44917599,
+        44929507
+      ],
+      "created_at": "2025-08-14T15:34:46Z",
+      "created_at_i": 1755185686,
+      "num_comments": 95,
+      "objectID": "44901683",
+      "points": 357,
+      "story_id": 44901683,
+      "story_text": "I built EmbedPDF: an MIT-licensed, open-source PDF viewer that aims to match all of Adobe Acrobat’s paid features… for free.<p>Already working:<p>- Annotations (highlight, sticky notes, free text, ink)<p>- True redaction (content actually removed)<p>- Search, text selection, zoom, rotation<p>- Runs fully in the browser, no server needed<p>- Drop-in SDK for React, Vue, Preact, vanilla JS<p>Why? Acrobat is heavy, closed, and pricey. I wanted something lightweight, hackable, and embeddable anywhere.<p>Demo: <a href=\"https:&#x2F;&#x2F;app.embedpdf.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;app.embedpdf.com&#x2F;</a>\nWebsite: <a href=\"https:&#x2F;&#x2F;www.embedpdf.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.embedpdf.com&#x2F;</a>\nGitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;embedpdf&#x2F;embed-pdf-viewer\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;embedpdf&#x2F;embed-pdf-viewer</a><p>Feedback, bug reports, and feature requests welcome!",
+      "title": "Show HN: I built a free alternative to Adobe Acrobat PDF viewer",
+      "updated_at": "2026-04-29T19:26:50Z",
+      "url": "https://github.com/embedpdf/embed-pdf-viewer"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 1,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=adobe+acrobat+alternative&tags=show_hn&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 16,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 45,
+      "roundTrip": 18
+    },
+    "fetch": {
+      "query": 14,
+      "total": 15
+    },
+    "total": 16
+  },
+  "query": "adobe acrobat alternative",
+  "serverTimeMS": 61
+}

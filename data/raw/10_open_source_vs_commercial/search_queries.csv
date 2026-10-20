@@ -1,0 +1,15 @@
+product,query,total_count,incomplete_results
+Screen Studio,"""Screen Studio alternative"" OR ""alternative to Screen Studio"" in:name,description,readme",186,False
+Loom,"""Loom alternative"" OR ""alternative to Loom"" in:name,description,readme",362,False
+Grammarly,"""Grammarly alternative"" OR ""alternative to Grammarly"" in:name,description,readme",382,False
+QuillBot,"""QuillBot alternative"" OR ""alternative to QuillBot"" in:name,description,readme",17,False
+Adobe Acrobat,"""Adobe Acrobat alternative"" OR ""alternative to Adobe Acrobat"" in:name,description,readme",73,False
+Adobe Acrobat,"""Acrobat alternative"" OR ""alternative to Acrobat"" in:name,description,readme",39,False
+Smallpdf,"""Smallpdf alternative"" OR ""alternative to Smallpdf"" in:name,description,readme",24,False
+Adobe Photoshop,"""Adobe Photoshop alternative"" OR ""alternative to Adobe Photoshop"" in:name,description,readme",159,False
+Adobe Photoshop,"""Photoshop alternative"" OR ""alternative to Photoshop"" in:name,description,readme",560,False
+Canva,"""Canva alternative"" OR ""alternative to Canva"" in:name,description,readme",97,False
+Notion,"""Notion alternative"" OR ""alternative to Notion"" in:name,description,readme",1394,False
+Trello,"""Trello alternative"" OR ""alternative to Trello"" in:name,description,readme",685,False
+Postman,"""Postman alternative"" OR ""alternative to Postman"" in:name,description,readme",1888,False
+Retool,"""Retool alternative"" OR ""alternative to Retool"" in:name,description,readme",233,False

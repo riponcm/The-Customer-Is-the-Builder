@@ -1,0 +1,477 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "chilipepperhott"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "grammarly",
+            "alternative"
+          ],
+          "value": "Show HN: Harper, an Offline <em>Grammarly</em> <em>Alternative</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://writewithharper.com/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_chilipepperhott",
+        "story_42042916",
+        "show_hn"
+      ],
+      "author": "chilipepperhott",
+      "children": [
+        42060233
+      ],
+      "created_at": "2024-11-04T16:12:37Z",
+      "created_at_i": 1730736757,
+      "num_comments": 1,
+      "objectID": "42042916",
+      "points": 14,
+      "story_id": 42042916,
+      "title": "Show HN: Harper, an Offline Grammarly Alternative",
+      "updated_at": "2025-04-03T03:38:28Z",
+      "url": "https://writewithharper.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "tiff"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "grammarly",
+            "alternative"
+          ],
+          "value": "Show HN: LanguageTool – <em>Grammarly</em> <em>Alternative</em> (open source, multilingual)"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://languagetool.org/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_tiff",
+        "story_19756772",
+        "show_hn"
+      ],
+      "author": "tiff",
+      "children": [
+        19756783
+      ],
+      "created_at": "2019-04-26T12:36:57Z",
+      "created_at_i": 1556282217,
+      "num_comments": 1,
+      "objectID": "19756772",
+      "points": 7,
+      "story_id": 19756772,
+      "title": "Show HN: LanguageTool – Grammarly Alternative (open source, multilingual)",
+      "updated_at": "2024-09-20T04:06:15Z",
+      "url": "https://languagetool.org/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "0x0003r"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "grammarly"
+          ],
+          "value": "OpenGrammar is a free, privacy-first browser extension that gives you <em>Grammarly</em>-like writing help everywhere (Gmail, Google Docs, Notion, Reddit, etc.) without sending your data anywhere.\nKey points:\n• Core engine runs 100% locally in your browser (rule-based detection of passive voice, repetition, long sentences, readability). No internet needed.\n• Optional AI power: just paste your own OpenAI/Groq/OpenRouter/Ollama key. You pay only pennies for what you use. Your key never leaves the browser.\n• Tone rewriting (Formal, Casual, Professional, etc.) with one right-click.\n• Writing stats dashboard (Flesch score, reading time, vocabulary diversity).\n• Underlines suggestions in red/yellow/blue — click to apply.\n• Fully self-hostable backend (Cloudflare Workers or Vercel, one-command deploy).<p>I built this because I was tired of <em>Grammarly</em> storing everything I write and charging $30/month. Everything is open source (Apache 2.0), no accounts, no telemetry.<p>Demo video &amp; screenshots coming soon. Right now you can try it in 2 minutes:\n1. Clone the repo\n2. Load the unpacked extension (chrome://extensions)\n3. (Optional) add your API key<p>GitHub: <a href=\"https://github.com/swadhinbiswas/opengrammar\" rel=\"nofollow\">https://github.com/swadhinbiswas/opengrammar</a><p>Would love feedback from writers, developers, and privacy enthusiasts. What grammar rules should I add next? Any features you miss from <em>Grammarly</em>?<p>(Also happy to take PRs — especially for more local rules!)"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "grammarly",
+            "alternative"
+          ],
+          "value": "Show HN: OpenGrammar Open-source, self-hostable <em>Grammarly</em> <em>alternative</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://swadhinbiswas.github.io/opengrammar/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_0x0003r",
+        "story_47291561",
+        "show_hn"
+      ],
+      "author": "0x0003r",
+      "children": [
+        47295424
+      ],
+      "created_at": "2026-03-07T21:15:55Z",
+      "created_at_i": 1772918155,
+      "num_comments": 2,
+      "objectID": "47291561",
+      "points": 3,
+      "story_id": 47291561,
+      "story_text": "OpenGrammar is a free, privacy-first browser extension that gives you Grammarly-like writing help everywhere (Gmail, Google Docs, Notion, Reddit, etc.) without sending your data anywhere.\nKey points:\n• Core engine runs 100% locally in your browser (rule-based detection of passive voice, repetition, long sentences, readability). No internet needed.\n• Optional AI power: just paste your own OpenAI&#x2F;Groq&#x2F;OpenRouter&#x2F;Ollama key. You pay only pennies for what you use. Your key never leaves the browser.\n• Tone rewriting (Formal, Casual, Professional, etc.) with one right-click.\n• Writing stats dashboard (Flesch score, reading time, vocabulary diversity).\n• Underlines suggestions in red&#x2F;yellow&#x2F;blue — click to apply.\n• Fully self-hostable backend (Cloudflare Workers or Vercel, one-command deploy).<p>I built this because I was tired of Grammarly storing everything I write and charging $30&#x2F;month. Everything is open source (Apache 2.0), no accounts, no telemetry.<p>Demo video &amp; screenshots coming soon. Right now you can try it in 2 minutes:\n1. Clone the repo\n2. Load the unpacked extension (chrome:&#x2F;&#x2F;extensions)\n3. (Optional) add your API key<p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;swadhinbiswas&#x2F;opengrammar\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;swadhinbiswas&#x2F;opengrammar</a><p>Would love feedback from writers, developers, and privacy enthusiasts. What grammar rules should I add next? Any features you miss from Grammarly?<p>(Also happy to take PRs — especially for more local rules!)",
+      "title": "Show HN: OpenGrammar Open-source, self-hostable Grammarly alternative",
+      "updated_at": "2026-03-15T06:01:32Z",
+      "url": "https://swadhinbiswas.github.io/opengrammar/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "aashishharishch"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Lexicon is a rich-text editor with grammar checking and AI writing tools (rewriting, tone shifting, and summarizing) that run entirely on your machine. No account, no API calls, and nothing uploaded. Grammar/spelling/punctuation checking runs through LanguageTool locally; the AI tools run through a small quantized model bundled with the app via llama.cpp, or your own Ollama server if you already run one. It's a desktop app installer for Windows and macOS on the releases page, with an in-app auto-updater.<p>Check it out: <a href=\"https://lexicon-writer.pages.dev/\" rel=\"nofollow\">https://lexicon-writer.pages.dev/</a>\nMIT licensed. Repo: <a href=\"https://github.com/AashishH15/Lexicon\" rel=\"nofollow\">https://github.com/AashishH15/Lexicon</a><p>Please let me know what you think of the app!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "grammarly",
+            "alternative"
+          ],
+          "value": "Show HN: Lexicon a free <em>Grammarly</em> <em>alternative</em>, local writing assistant"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://lexicon-writer.pages.dev/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_aashishharishch",
+        "story_49062897",
+        "show_hn"
+      ],
+      "author": "aashishharishch",
+      "children": [
+        49065297
+      ],
+      "created_at": "2026-07-26T22:03:09Z",
+      "created_at_i": 1785103389,
+      "num_comments": 2,
+      "objectID": "49062897",
+      "points": 1,
+      "story_id": 49062897,
+      "story_text": "Lexicon is a rich-text editor with grammar checking and AI writing tools (rewriting, tone shifting, and summarizing) that run entirely on your machine. No account, no API calls, and nothing uploaded. Grammar&#x2F;spelling&#x2F;punctuation checking runs through LanguageTool locally; the AI tools run through a small quantized model bundled with the app via llama.cpp, or your own Ollama server if you already run one. It&#x27;s a desktop app installer for Windows and macOS on the releases page, with an in-app auto-updater.<p>Check it out: <a href=\"https:&#x2F;&#x2F;lexicon-writer.pages.dev&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;lexicon-writer.pages.dev&#x2F;</a>\nMIT licensed. Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;AashishH15&#x2F;Lexicon\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;AashishH15&#x2F;Lexicon</a><p>Please let me know what you think of the app!",
+      "title": "Show HN: Lexicon a free Grammarly alternative, local writing assistant",
+      "updated_at": "2026-07-29T04:28:38Z",
+      "url": "https://lexicon-writer.pages.dev/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "riponcm"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "grammarly",
+            "alternative"
+          ],
+          "value": "Show HN: Gemtype – an open source <em>Grammarly</em> <em>alternative</em> Chrome extension"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/riponcm/GemType"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_riponcm",
+        "story_48852082",
+        "show_hn"
+      ],
+      "author": "riponcm",
+      "children": [
+        48852278
+      ],
+      "created_at": "2026-07-09T20:41:11Z",
+      "created_at_i": 1783629671,
+      "num_comments": 1,
+      "objectID": "48852082",
+      "points": 1,
+      "story_id": 48852082,
+      "title": "Show HN: Gemtype – an open source Grammarly alternative Chrome extension",
+      "updated_at": "2026-07-09T20:59:01Z",
+      "url": "https://github.com/riponcm/GemType"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "saasxyz"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "grammarly",
+            "alternative"
+          ],
+          "value": "Show HN: A distraction free <em>Grammarly</em> <em>alternative</em> for Chrome"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://chromewebstore.google.com/detail/wandpen-a-distraction-fre/macmkmchfoclhpbncclinhjflmdkaoom"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_saasxyz",
+        "story_40328452",
+        "show_hn"
+      ],
+      "author": "saasxyz",
+      "children": [
+        40328509
+      ],
+      "created_at": "2024-05-11T14:53:06Z",
+      "created_at_i": 1715439186,
+      "num_comments": 1,
+      "objectID": "40328452",
+      "points": 1,
+      "story_id": 40328452,
+      "title": "Show HN: A distraction free Grammarly alternative for Chrome",
+      "updated_at": "2024-09-20T17:01:16Z",
+      "url": "https://chromewebstore.google.com/detail/wandpen-a-distraction-fre/macmkmchfoclhpbncclinhjflmdkaoom"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "runjuu"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "grammarly",
+            "alternative"
+          ],
+          "value": "Show HN: Refine – A Local <em>Alternative</em> to <em>Grammarly</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://refine.sh"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_runjuu",
+        "story_44556684",
+        "show_hn"
+      ],
+      "author": "runjuu",
+      "children": [
+        44556685,
+        44556956,
+        44557101,
+        44557170,
+        44557183,
+        44557197,
+        44557341,
+        44557353,
+        44557400,
+        44557457,
+        44557483,
+        44557513,
+        44557542,
+        44557546,
+        44557572,
+        44557627,
+        44557708,
+        44557741,
+        44557780,
+        44557786,
+        44557995,
+        44558067,
+        44558169,
+        44558363,
+        44558430,
+        44558457,
+        44558481,
+        44558611,
+        44558691,
+        44558750,
+        44558995,
+        44559091,
+        44559771,
+        44559799,
+        44560053,
+        44560557,
+        44560995,
+        44561137,
+        44561228,
+        44561409,
+        44561606,
+        44561846,
+        44561876,
+        44564760,
+        44579310
+      ],
+      "created_at": "2025-07-14T05:12:18Z",
+      "created_at_i": 1752469938,
+      "num_comments": 210,
+      "objectID": "44556684",
+      "points": 408,
+      "story_id": 44556684,
+      "title": "Show HN: Refine – A Local Alternative to Grammarly",
+      "updated_at": "2026-05-31T13:48:59Z",
+      "url": "https://refine.sh"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "pedrok"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "grammarly",
+            "alternative"
+          ],
+          "value": "I created RewritePal, a tool that helps you generate clear, compelling writing while keeping your unique voice. It's completely free to use and requires no sign-up. My goal was to build a simple, yet powerful <em>alternative</em> to <em>Grammarly</em>, with an emphasis on ease of use and privacy. I'd love to hear your feedback and suggestions!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "grammarly",
+            "alternative"
+          ],
+          "value": "Show HN: I built an open source <em>alternative</em> to <em>Grammarly</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.rewritepal.com"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_pedrok",
+        "story_41629429",
+        "show_hn"
+      ],
+      "author": "pedrok",
+      "children": [
+        41629624,
+        41630055,
+        41631855,
+        41632824,
+        41632833,
+        41633182
+      ],
+      "created_at": "2024-09-23T19:03:28Z",
+      "created_at_i": 1727118208,
+      "num_comments": 15,
+      "objectID": "41629429",
+      "points": 15,
+      "story_id": 41629429,
+      "story_text": "I created RewritePal, a tool that helps you generate clear, compelling writing while keeping your unique voice. It&#x27;s completely free to use and requires no sign-up. My goal was to build a simple, yet powerful alternative to Grammarly, with an emphasis on ease of use and privacy. I&#x27;d love to hear your feedback and suggestions!",
+      "title": "Show HN: I built an open source alternative to Grammarly",
+      "updated_at": "2025-04-04T08:11:49Z",
+      "url": "https://www.rewritepal.com"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Risse"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "grammarly",
+            "alternative"
+          ],
+          "value": "Show HN: Phrasing Bot – open-source <em>alternative</em> to Quillbot and <em>Grammarly</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/Krisseck/Phrasing-Bot"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Risse",
+        "story_40572508",
+        "show_hn"
+      ],
+      "author": "Risse",
+      "created_at": "2024-06-04T09:47:54Z",
+      "created_at_i": 1717494474,
+      "num_comments": 0,
+      "objectID": "40572508",
+      "points": 1,
+      "story_id": 40572508,
+      "title": "Show HN: Phrasing Bot – open-source alternative to Quillbot and Grammarly",
+      "updated_at": "2024-09-20T17:14:36Z",
+      "url": "https://github.com/Krisseck/Phrasing-Bot"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 9,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=grammarly+alternative&tags=show_hn&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 25,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 16
+    },
+    "fetch": {
+      "query": 23,
+      "total": 24
+    },
+    "total": 25
+  },
+  "query": "grammarly alternative",
+  "serverTimeMS": 26
+}

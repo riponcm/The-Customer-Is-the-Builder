@@ -1,0 +1,2 @@
+series,month,max_depth,first,first_incomplete,retry,retry_incomplete,accepted,split_sum,split_queries,split_incomplete_leaves,accepted_vs_split_pct
+claude_trailer,2026-05,2,8917173,True,12209687,True,12209687,12869215,14,4,-5.12485027253022

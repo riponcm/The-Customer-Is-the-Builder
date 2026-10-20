@@ -1,0 +1,13 @@
+repo,site_name,site_category,site_tagline,site_maturity_label,site_platforms,source_url,retrieved_utc
+photocraft,PhotoCraft,Image editor,The open-source image editor you already know how to use.,Early alpha,macOS;Windows;Linux;Web,https://getartcraft.com/apps,
+vectorcraft,VectorCraft,Vector illustration,"Fast, open-source vector illustration, reimagined in pure Rust.",In development,macOS;Windows;Linux;Web,https://getartcraft.com/apps,
+filmcraft,FilmCraft,Video editor,"Professional, open-source video editing, rebuilt from scratch in Rust.",In development,macOS;Windows;Linux,https://getartcraft.com/apps,
+lightcraft,LightCraft,Photo library & raw developer,An open-source photo library and raw developer that runs on your machine.,In development,macOS;Windows;Linux;Web,https://getartcraft.com/apps,
+pdfcraft,PdfCraft,PDF workbench,"The open-source PDF workbench: read, organize, combine, split and secure.",Early alpha,macOS;Windows;Linux;Web,https://getartcraft.com/apps,
+effectcraft,EffectCraft,Motion graphics & VFX,"Open-source motion graphics and visual effects, built in pure Rust.",In development,macOS;Windows;Linux;Web,https://getartcraft.com/apps,
+designcraft,DesignCraft,Page layout & publishing,"Open-source page layout and publishing, rebuilt in pure Rust.",In development,macOS;Windows;Linux;Web,https://getartcraft.com/apps,
+wordcraft,WordCraft,Word processing,"Fast, open-source word processing, rebuilt in pure Rust.",In development,macOS;Windows;Linux;Web,https://getartcraft.com/apps,
+soundcraft,SoundCraft,Digital audio workstation,"Professional audio recording, editing and mixing in pure Rust.",In development,macOS;Windows;Linux;Web,https://getartcraft.com/apps,
+deckcraft,DeckCraft,Presentations & slide shows,"Build and deliver dynamic slide presentations, in pure Rust.",In development,macOS;Windows;Linux;Web,https://getartcraft.com/apps,
+cadcraft,CADCraft,Computer-aided design & drafting,"Fast, open-source computer-aided design and drafting in pure Rust.",In development,macOS;Windows;Linux;Web,https://getartcraft.com/apps,
+gridcraft,GridCraft,Spreadsheets & data analysis,"Fast, open-source spreadsheets and data analysis, rebuilt in pure Rust.",In development,macOS;Windows;Linux;Web,https://getartcraft.com/apps,

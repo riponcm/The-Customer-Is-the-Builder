@@ -1,0 +1,28 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=paraphrase+alternative&tags=show_hn&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 32,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 621,
+      "roundTrip": 16
+    },
+    "fetch": {
+      "query": 30,
+      "total": 31
+    },
+    "total": 32
+  },
+  "query": "paraphrase alternative",
+  "serverTimeMS": 653
+}

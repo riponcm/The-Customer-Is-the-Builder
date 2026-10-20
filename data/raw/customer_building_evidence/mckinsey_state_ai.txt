@@ -1,0 +1,154 @@
+The State of AI: Global Survey 2026 | McKinsey (https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
+citeturn72view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai","lineno":null}); Total lines: 187
+L0: cite0†Skip to main content L1: 
+L2: #
+L3: 
+L4: The state of AI in 2026: On the road to ROI
+L5: 
+L6: August 25, 2026 | Survey
+L7: 
+L8: cite1†Dan Tinkoff cite2†Lieven Van der Veken cite3†Michael Chui L9: Tara Balakrishnan
+L10: 
+L11: Organizations are deploying agentic coding tools and coming to grips with the costs of AI while still seeking to capture more of the benefits that their workers are deriving from their individual use of AI.
+L12: 
+L13: ###
+L14: 
+L15: cite4†(31 pages) L16: ## Key takeaways
+L17:   * Use of agentic AI is increasing, mostly accounted for by large enterprises. Forty percent of respondents from large organizations (those with annual revenues of more than $1 billion) report scaling AI agents, up from 27 percent last year. The share of respondents from smaller organizations reporting scaling remained flat at 22 percent.
+L18:   * Many organizations are already scaling software coding agents. About two in ten are scaling them (31 percent at larger enterprises).
+L19:   * Organizations are using agentic coding tools to build software in-house in lieu of purchasing it. Nearly a third of respondents (32 percent) report that their organizations have decided against buying one or more software products or features because they could be built internally with agentic coding tools.
+L20:   * The cost of AI is constraining usage in some organizations. About 20 percent of respondents report that AI-related operating costs (including token costs) constrained their AI use. But the majority plan to increase their AI investments.
+L21:   * The share of respondents reporting enterprise-level financial impact from AI use has not changed since last year. Thirty-seven percent of respondents attribute at least some EBIT impact to AI use (about the same share as last year). And the proportion of AI high performers (those who attribute at least 5 percent of EBIT to their use of AI and describe the technology’s impact as “significant”) has remained flat at about 6 percent of all respondents.
+L22:   * However, AI use is boosting the performance of individuals at work. Eighty percent of respondents report that AI has improved their individual productivity, and 50 percent report that AI helps them make better decisions.
+L23:   * Respondents increasingly expect AI to spark workforce declines. Thirty-nine percent of respondents expect AI-related declines in their organizations’ total employment in the coming year, compared with 32 percent last year. (Forty-three percent expect no AI-related change.) But the share expecting workforce declines in last year’s survey was about double the share now reporting actual declines over the past year.
+L24: * * *
+L25: Nearly a decade into McKinsey’s survey research on companies’ use of AI, organizations are deepening their use of these technologies. The latest cite5†McKinsey Global Survey on the state of AI finds that organizations are scaling AI across the enterprise, deploying it in more business functions, and using a range of tools—from chatbots and software coding agents to agentic systems capable of acting autonomously across workflows.
+L26: And individual employees are reporting real impact: Eight in ten respondents say AI has improved their own productivity.
+L27: However, enterprise-level financial impact hasn’t followed the same trajectory. The share of respondents reporting that AI has contributed to their organizations’ EBIT is essentially unchanged from a year ago, at 37 percent.
+L28: The survey also finds that AI-related operating costs are beginning to constrain AI use for about one in five organizations, even as most respondents expect their organizations to increase AI investments in the year ahead. Nearly a third of organizations report deciding against purchasing at least one software product or feature because they can now build them in-house using agentic coding tools, which could be a sign that AI is beginning to reshape how technology budgets are allocated.
+L29: Meanwhile, workforce expectations continue to shift: A larger share of respondents than in 2025 anticipates AI-related declines in their organizations’ total head count over the coming year. Reported reductions over the past year, however, fell well short of what respondents in last year’s survey had anticipated.
+L30: The experience of a small group of high performers points to a path forward. These organizations are distinguished by how and to what extent they deploy AI. High performers pursue growth and/or innovation alongside efficiency; they fundamentally redesign workflows that are enabled by AI rather than insert AI into existing ones; and they back their deployments with the leadership commitment and operational rigor needed to achieve real gains.
+L31: In doing so, they offer a lesson for the majority of organizations still looking to move from individual productivity to financial impact.
+L32: ## Use of AI is deepening as organizations move beyond experimentation, with large enterprises leading the way
+L33: 
+L34: Organizations continue to move beyond AI experimentation. Nearly nine in ten respondents report regular use of AI in at least one business function, but more organizations are moving from isolated deployments to enterprise-scale adoption: 44 percent now report that AI is scaling across their enterprise, up from 38 percent a year ago (Exhibit 1).
+L35: cite6†Image: Organizations using AI are increasingly reaching the scaling phase. L36: 
+L37: AI is also reaching more parts of the enterprise, with the share of respondents saying their organizations use AI in three or more functions increasing from 51 percent to 56 percent.
+L38: As we have seen in cite7†previous years , AI deployment by larger organizations continues to outpace deployment by smaller organizations. Fifty-four percent of respondents from organizations with at least $1 billion in annual revenue report scaling AI across the enterprise, compared with one-third of those from smaller organizations.
+L39: 
+L40: cite8†Image: Improving the economics of agentic AI: A guide for business leaders L41: ### Improving the economics of agentic AI: A guide for business leaders
+L42: 
+L43: Spending on AI continues to climb, but most organizations have yet to see significant results. In a McKinsey Live webinar, senior partners cite9†Tanguy Catlin and cite10†Lari Hämäläinen discussed how to evaluate agentic AI against the fully loaded cost of the work it replaces, what lessons are emerging for better managing costs, and how to better decide where to scale investment and where to pull back.
+L44: 
+L45: cite11†Watch the replay L46: These larger organizations have moved more quickly than smaller ones over the past year in their use of agentic AI. The share scaling agents in one or more functions increased from 27 percent to 40 percent, while adoption among smaller organizations remained essentially flat, at 22 percent (Exhibit 2).
+L47: 
+L48: cite12†Image: Larger companies are moving from experimentation to scaling AI agents much faster than smaller ones. L49: ##
+L50: 
+L51: Use of agentic AI varies by industry
+L52: The survey findings show that organizations are scaling AI in the functions with the greatest potential value for their industries. Overall, respondents most often report scaling AI agents within IT, knowledge management, and software engineering (exhibit).
+L53: Use of agents is most widely reported by respondents working for technology companies, as was true in last year’s survey, and respondents in the industry much more commonly report using agents in their software engineering than do respondents in other industries.
+L54: Similarly, respondents working in consumer goods and retail say their organizations are most often using agents in marketing and sales activities, while those working in advanced manufacturing—such as for automotive, aerospace, and semiconductor companies—are using agents in supply chain and inventory management and in the manufacturing process.
+L55: cite13†Image: Respondents in technology and media and telecommunications are the most likely to report scaling AI agents within functions. L56: Among AI tools, chatbots are the most widely scaled, with 47 percent of respondents saying their organizations are scaling them across the enterprise. About two in ten respondents report reaching the scaling phase across their organization with AI agents and a similar share report the same with software coding agents (see sidebar, “Use of agentic AI varies by industry”). The results show that larger organizations are ahead in scaling across different types of AI tools (Exhibit 3).
+L57: cite14†Image: Respondents from larger companies report higher rates of scaling across different AI tools. L58: 
+L59: cite15†Image: The technology shifts every business leader should be watching L60: ### The technology shifts every business leader should be watching
+L61: 
+L62: October 15, 2026, 9:30 a.m. ET / 3:30 p.m. CET
+L63: Join McKinsey experts cite3†Michael Chui and cite16†Roger Roberts for a discussion on tech trends, including where momentum is building, how the major trends are converging, and what these shifts mean for business leaders, workers, and society.
+L64: 
+L65: cite17†Register†events.ringcentral.com L66: Coding agents are emboldening companies to build their own software rather than purchase it. Nearly one-third of respondents (32 percent) report that their organizations have decided against purchasing at least one software product or feature because they were able to build the functionality in-house using agentic coding tools. These decisions are most commonly reported by respondents working in technology and healthcare, followed by those in professional services and energy and materials (Exhibit 4).
+L67: cite18†Image: Across industries, some respondents say their organizations are forgoing software purchases, building software using AI-coding tools instead. L68: ## Despite broader use and individual results, AI impact remains concentrated
+L69: The survey results show that individual employees are seeing meaningful benefits from AI. Eight in ten respondents say AI has improved their productivity, and about half say it has helped them develop new skills and make better decisions. These impacts are remarkably consistent across organizational levels (Exhibit 5). However, the experience is not universally positive: Mid-level managers and individual contributors are more likely than executives to report AI-related strains.
+L70: Among mid-level managers and individual contributors, 47 percent say they have experienced one of these negative effects, compared with 31 percent of executives and senior managers.
+L71: cite19†Image: Respondents commonly say using AI has improved their own productivity and has helped them develop new skills and make decisions at work. L72: These individual gains have yet to translate into broad financial impact for organizations. About four in ten respondents (37 percent) report that AI has contributed positively to their organizations’ EBIT, essentially unchanged from 2025—despite growth in the share of organizations scaling AI technologies.
+L73: But respondents do cite other organization-wide benefits: most notably, improvements in innovation, competitive differentiation, customer satisfaction, and employee satisfaction.^{1}These were also the most reported improvements in the 2025 survey.
+L74: Yet even respondents who don’t report enterprise-level EBIT impact do say their organizations are seeing financial impact from specific business functions’ use of AI. Respondents most frequently report cost reductions from AI use in supply chain management, service operations, and manufacturing (Exhibit 6).^{2}The 2026 survey measured impact at the business-function level rather than aggregating from individual use cases within each function.
+L75: cite20†Image: Respondents most often report cost benefits from AI deployment in supply chain management, service operations, and manufacturing. L76: 
+L77: Revenue gains, meanwhile, are most often attributed to the use of AI in marketing and sales, followed by product and service development and software engineering (Exhibit 7).
+L78: 
+L79: cite21†Image: Respondents most commonly report revenue gains from AI use in marketing and sales and product or service development. L80: ## While AI investments are increasing, operating costs are constraining AI use for some
+L81: 
+L82: As organizations expand deployment, AI operating costs (including for tokens) are becoming a meaningful consideration—but not yet a widespread constraint. One in five respondents says their organization is limiting AI use because of operating costs, a share that is broadly consistent across organizations of different sizes and across many industries (Exhibit 8).
+L83: cite22†Image: One in five respondents report that their organizations’ use of AI has been constrained by their operating costs, including tokens. L84: 
+L85: Those cost constraints are being reported across the full range of AI tools. For each of three tools—AI chatbots, AI agents, and software coding agents—about one in ten respondents say their organizations’ use has been constrained by costs.
+L86: Despite emerging cost pressures, organizations are still investing meaningfully in AI. Twenty-eight percent of respondents say their organizations are spending more than 10 percent of their total enterprise-wide budget for information and communication technology on AI technologies. And looking ahead, 60 percent of respondents expect their organizations to increase their AI investments over the next year.
+L87: Respondents in pharmaceuticals and medical products, insurance, and banking and other financial institutions are the most likely to expect increasing investment (Exhibit 9).
+L88: cite23†Image: In almost every sector, most respondents expect their organizations to increase their AI investment in the next year. L89: ## High-performing organizations are transforming with AI
+L90: AI high performers—respondents who attribute an EBIT impact of 5 percent or more to AI use and say their organizations have seen “significant” value from AI use—account for just 6 percent of survey respondents, unchanged from 2025. Compared with their peers, AI high performers are more likely to use AI to transform their organizations, adopt a broader set of best practices, deploy a wider range of AI technologies, and actively manage AI-related risks.
+L91: ### High performers have bigger AI aspirations
+L92: High performers have broader aspirations for their AI deployments than others do. While about 80 percent of both high performers and other respondents say their organizations are pursuing efficiency gains from AI, most high performers also report using AI to pursue growth and/or innovation (Exhibit 10). High performers are also 3.3 times more likely than others to intend to use AI to fundamentally transform their business within the next three years. And they are increasingly transforming their workflows.
+L93: Nearly three-quarters of high performers report fundamentally redesigning workflows because of their AI use, up from 55 percent last year. By comparison, just one-quarter of other respondents report doing so.
+L94: cite24†Image: High performers tend to set growth and/or innovation objectives for AI efforts, in addition to efficiency goals. L95: In addition to fundamentally redesigning workflows, high performers often follow a set of practices that help cite25†rewire their organizations to realize value from AI (Exhibit 11). For example, they are twice as likely as others to say that their senior leaders demonstrate commitment to AI initiatives and to report that their organizations have defined processes to measure the impact of those initiatives.
+L96: 
+L97: cite26†Image L98: High performers invest more in AI as well. They are more than twice as likely as others to spend more than 15 percent of their enterprise-wide budget for information and communication technology on AI. They also expect to invest much more than others do in the months ahead. More than half of high performers expect to increase their AI investments by 10 percent or more in the next year, compared with 36 percent of other respondents.
+L99: ### High performers use AI—and manage the associated risks—more broadly
+L100: 
+L101: High performers are using AI in more business functions than others are, and they more commonly report scaling AI technologies. High performers are more than three times as likely as others to be scaling agents in most of the business functions covered in the survey (Exhibit 12).
+L102: 
+L103: cite27†Image: In most business functions, high performers are much more likely than others are to have reached the scaling phase with AI agents. L104: High performers are twice as likely as others to report scaling software coding agents and 2.7 times more likely to report scaling other agentic AI (Exhibit 13). They are also much more commonly using those software coding agents to build in-house instead of purchasing new software.
+L105: Nearly half report that their organizations have decided against buying one or more software products or features because they could be built in-house using software coding agents, compared with 31 percent of other respondents.
+L106: cite28†Image: High performers are scaling a wider range of AI tools than others are. L107: 
+L108: High performers report being constrained by costs in their use of software coding agents about three times as often as others do, whereas they are about as likely as other respondents are to report being constrained by costs for other types of tools (Exhibit 14).
+L109: 
+L110: cite29†Image: For AI high performers, AI operating costs (including tokens) have most commonly constrained the use of software coding agents. L111: Additionally, high performers are managing more of the risks associated with AI deployment. For example, high performers are much more likely than others to report working to mitigate the exploitation of AI-driven technical vulnerabilities as well as unauthorized or unintended actions (Exhibit 15).
+L112: 
+L113: cite30†Image: High performers report working to mitigate more AI-related risks than others do. L114: ## Previous expectations of AI-driven workforce reductions were overstated, but a larger share expects declines going forward
+L115: Respondents increasingly expect AI use to result in reductions in their workforce. That said, the organizational changes realized over the past year fell well short of what respondents had anticipated a year ago.
+L116: Just 14 percent of respondents from organizations using AI report that AI contributed to an overall decline in workforce size in the past year—less than half the 32 percent who, in last year’s survey, expected workforce reductions over the same period.^{3}While the surveys’ samples were similar in their characteristics enough to accurately compare the data year over year, we also looked only at the 552 respondents who completed the survey in both 2025 and 2026 and the findings fully reflected that of the overall sample.
+L117: Two-thirds of respondents report little or no AI-related change in their organizations’ total employment in the past year. In this year’s survey, 39 percent of respondents expect AI to decrease their organizations’ overall head count over the next year, while a similar share (43 percent) expects little or no change (Exhibit 16).
+L118: cite31†Image: Last year’s respondents overestimated AI’s impact on head count, and expected reductions in the next year are larger still. L119: 
+L120: A similar pattern emerges across individual business functions. In every function we asked about, the share of respondents reporting workforce reductions is smaller than the share that predicted workforce declines last year (Exhibit 17).
+L121: ##
+L122: 
+L123: In 2025, respondents most often expected to see head count reductions in service operations, supply chain management, marketing and sales, and software engineering.
+L124: ##
+L125: 
+L126: As we noted earlier, in our latest survey, smaller shares of respondents report actual reductions in each function than the shares that expected reductions last year. The share reporting decreases in the number of employees in their marketing and sales, manufacturing, strategy and corporate finance, and knowledge management functions is about half the share that predicted such decreases in 2025.
+L127: ##
+L128: 
+L129: Looking at expected changes over the coming year, the largest share of respondents predicts reductions within service operations and supply chain management, as was true last year. In many functions, respondents remain more likely to expect no change than a reduction.
+L130: 
+L131: Exhibit 17
+L132: 
+L133: cite32†Image: In 2025, respondents most often expected to see head count reductions within service operations and supply chain management. (1 of 3) L134: cite33†Image: In 2025, respondents most often expected to see head count reductions within service operations and supply chain management. (2 of 3) L135: 
+L136: cite34†Image: In 2025, respondents most often expected to see head count reductions within service operations and supply chain management. (3 of 3) L137: 
+L138: Despite increasing expectations for reduced workforces, most respondents do not see AI as a threat to their own careers. Just 13 percent say “AI makes me feel anxious about my career prospects.”
+L139: 
+L140: * * *
+L141: Organizations’ conviction in AI is growing faster than the immediate financial returns they can attribute to it. Organizations continue to scale AI deployments more broadly and deeply across the enterprise, expand their use of increasingly capable technologies, and increase their investments—even as the share reporting meaningful EBIT impact remains essentially unchanged so far.
+L142: Organizations are discovering that AI capabilities not only give them more options for building rather than buying enterprise software but also increasingly require them cite35†to develop new disciplines for managing AI’s costs . At the same time, companies are becoming more willing to make cite36†the kinds of organizational changes that can enable bottom-line effects : More expect AI to reshape their business over the next three years than did a year ago, and they continue to plan to invest more.
+L143: As AI becomes embedded in more business processes and employees become increasingly fluent in using it, the organizations that translate individual productivity gains into lasting enterprise-level financial performance are likely to be those that transform their businesses, not just adopt AI tools.
+L144: ## About the research
+L145: 
+L146: The online survey was in the field from May 4 to June 8, 2026, and garnered responses from 1,719 participants in 97 nations representing the full range of regions, industries, company sizes, functional specialties, and tenures. Thirty-six percent of respondents say they work for organizations with more than $1 billion in annual revenue. To adjust for differences in response rates, the data are weighted by the contribution of each respondent’s nation to global GDP.
+L147: ##
+L148: 
+L149: Previous State of AI research
+L150: 
+L151: Survey
+L152: 
+L153: ##### cite37†The state of AI in 2025: Agents, innovation, and transformation L154: 
+L155: Survey
+L156: 
+L157: ##### cite7†The state of AI: How organizations are rewiring to capture value L158: 
+L159: Survey
+L160: 
+L161: ##### cite38†The state of AI in early 2024: Gen AI adoption spikes and starts to generate value L162: 
+L163: Survey
+L164: 
+L165: ##### cite39†The state of AI in 2023: Generative AI’s breakout year L166: 
+L167: Survey
+L168: 
+L169: ##### cite40†The state of AI in 2022—and a half decade in review L170: 
+L171: Survey
+L172: 
+L173: ##### cite41†The state of AI in 2021 L174: 
+L175: Survey
+L176: ##### cite42†The state of AI in 2020 L177: 
+L178: Survey
+L179: 
+L180: ##### cite43†Global AI Survey: AI proves its worth, but few scale impact L181: 
+L182: Survey
+L183: 
+L184: ##### cite44†AI adoption advances, but foundational barriers remain L185: 
+L186: ##### Explore a career with us
+

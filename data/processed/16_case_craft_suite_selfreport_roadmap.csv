@@ -1,0 +1,13 @@
+repo,roadmap_found,stage,target_product,ready_for_real_work_pct_claimed,last_reviewed,retrieved_utc
+photocraft,True,alpha,Adobe Photoshop 2026,45,2026-10-11,
+filmcraft,True,alpha,Adobe Premiere Pro 2026 (26.5.2),56,2026-10-10,
+lightcraft,True,alpha,Adobe Lightroom Classic 15.5 / Lightroom 9.6,61,2026-10-10,
+pdfcraft,True,alpha,"Adobe Acrobat Pro (Acrobat DC, continuous track 26.002.21931, macOS)",49,2026-10-12,
+vectorcraft,True,alpha,Adobe Illustrator 2026 (30.x),62,2026-10-10,
+effectcraft,True,alpha,Adobe After Effects 2026 (26.5.0.89),45,2026-10-10,
+designcraft,True,pre-alpha,Adobe InDesign 2026,47,2026-10-10,
+wordcraft,True,alpha,Microsoft Word (Microsoft 365) for Mac 16.113.4,60,2026-10-10,
+gridcraft,True,alpha,Microsoft Excel (Microsoft 365),50,2026-10-11,
+deckcraft,True,alpha,Microsoft PowerPoint for Mac 16.113 (Microsoft 365),55,2026-10-10,
+cadcraft,True,pre-alpha,Autodesk AutoCAD 2027,38,2026-10-10,
+soundcraft,True,pre-alpha,Avid Pro Tools Ultimate 2026.4.1,40,2026-10-10,

@@ -1,0 +1,397 @@
+series,tool,month,query_prefix,commits,n_queries,n_incomplete_leaves,first,first_incomplete,direct,direct_incomplete,lower_bound
+claude_trailer,Claude Code,2023-01,"""noreply@anthropic.com""",139,2,0,139,True,139,False,False
+claude_trailer,Claude Code,2023-02,"""noreply@anthropic.com""",99,2,0,99,True,99,False,False
+claude_trailer,Claude Code,2023-03,"""noreply@anthropic.com""",133,2,1,131,True,133,True,True
+claude_trailer,Claude Code,2023-04,"""noreply@anthropic.com""",91,2,0,91,True,91,False,False
+claude_trailer,Claude Code,2023-05,"""noreply@anthropic.com""",100,2,1,100,True,100,True,True
+claude_trailer,Claude Code,2023-06,"""noreply@anthropic.com""",115,2,0,115,True,115,False,False
+claude_trailer,Claude Code,2023-07,"""noreply@anthropic.com""",88,1,0,88,False,88,False,False
+claude_trailer,Claude Code,2023-08,"""noreply@anthropic.com""",93,1,0,93,False,93,False,False
+claude_trailer,Claude Code,2023-09,"""noreply@anthropic.com""",117,2,1,117,True,117,True,True
+claude_trailer,Claude Code,2023-10,"""noreply@anthropic.com""",130,2,1,130,True,130,True,True
+claude_trailer,Claude Code,2023-11,"""noreply@anthropic.com""",95,2,1,94,True,95,True,True
+claude_trailer,Claude Code,2023-12,"""noreply@anthropic.com""",123,2,0,123,True,123,False,False
+claude_trailer,Claude Code,2024-01,"""noreply@anthropic.com""",100,2,1,96,True,100,True,True
+claude_trailer,Claude Code,2024-02,"""noreply@anthropic.com""",154,1,0,154,False,154,False,False
+claude_trailer,Claude Code,2024-03,"""noreply@anthropic.com""",211,2,0,198,True,211,False,False
+claude_trailer,Claude Code,2024-04,"""noreply@anthropic.com""",186,2,0,184,True,186,False,False
+claude_trailer,Claude Code,2024-05,"""noreply@anthropic.com""",187,1,0,187,False,187,False,False
+claude_trailer,Claude Code,2024-06,"""noreply@anthropic.com""",180,1,0,180,False,180,False,False
+claude_trailer,Claude Code,2024-07,"""noreply@anthropic.com""",150,2,0,150,True,150,False,False
+claude_trailer,Claude Code,2024-08,"""noreply@anthropic.com""",214,2,1,214,True,214,True,True
+claude_trailer,Claude Code,2024-09,"""noreply@anthropic.com""",219,2,0,219,True,219,False,False
+claude_trailer,Claude Code,2024-10,"""noreply@anthropic.com""",200,2,1,200,True,200,True,True
+claude_trailer,Claude Code,2024-11,"""noreply@anthropic.com""",217,2,0,217,True,217,False,False
+claude_trailer,Claude Code,2024-12,"""noreply@anthropic.com""",229,1,0,229,False,229,False,False
+claude_trailer,Claude Code,2025-01,"""noreply@anthropic.com""",247,2,1,247,True,247,True,True
+claude_trailer,Claude Code,2025-02,"""noreply@anthropic.com""",2334,1,0,2334,False,2334,False,False
+claude_trailer,Claude Code,2025-03,"""noreply@anthropic.com""",17765,2,1,17765,True,17732,True,True
+claude_trailer,Claude Code,2025-04,"""noreply@anthropic.com""",17339,2,0,16987,True,17339,False,False
+claude_trailer,Claude Code,2025-05,"""noreply@anthropic.com""",40490,2,1,40490,True,40459,True,True
+claude_trailer,Claude Code,2025-06,"""noreply@anthropic.com""",260491,2,0,257939,True,260491,False,False
+claude_trailer,Claude Code,2025-07,"""noreply@anthropic.com""",468431,2,1,468431,True,456413,True,True
+claude_trailer,Claude Code,2025-08,"""noreply@anthropic.com""",588228,2,0,571874,True,588228,False,False
+claude_trailer,Claude Code,2025-09,"""noreply@anthropic.com""",521131,2,1,521131,True,484533,True,True
+claude_trailer,Claude Code,2025-10,"""noreply@anthropic.com""",939858,1,0,939858,False,939858,False,False
+claude_trailer,Claude Code,2025-11,"""noreply@anthropic.com""",1098178,2,0,1095551,True,1098178,False,False
+claude_trailer,Claude Code,2025-12,"""noreply@anthropic.com""",1529280,2,1,1529280,True,1246388,True,True
+claude_trailer,Claude Code,2026-01,"""noreply@anthropic.com""",3363479,2,1,3169107,True,3363479,True,True
+claude_trailer,Claude Code,2026-02,"""noreply@anthropic.com""",4678598,2,1,3618368,True,4678598,True,True
+claude_trailer,Claude Code,2026-03,"""noreply@anthropic.com""",9907484,2,1,8378507,True,9907484,True,True
+claude_trailer,Claude Code,2026-04,"""noreply@anthropic.com""",10218137,2,1,8744043,True,10218137,True,True
+claude_trailer,Claude Code,2026-05,"""noreply@anthropic.com""",12209687,2,1,8917173,True,12209687,True,True
+claude_trailer,Claude Code,2026-06,"""noreply@anthropic.com""",9974112,2,1,9974112,True,5567871,True,True
+claude_trailer,Claude Code,2026-07,"""noreply@anthropic.com""",15737477,2,1,7848066,True,15737477,True,True
+claude_trailer,Claude Code,2026-08,"""noreply@anthropic.com""",11346799,2,1,7799603,True,11346799,True,True
+claude_trailer,Claude Code,2026-09,"""noreply@anthropic.com""",14375207,2,1,11091631,True,14375207,True,True
+claude_generated,Claude Code,2023-01,"""Generated with Claude Code""",2,2,1,2,True,2,True,True
+claude_generated,Claude Code,2023-02,"""Generated with Claude Code""",0,2,0,0,True,0,False,False
+claude_generated,Claude Code,2023-03,"""Generated with Claude Code""",0,2,1,0,True,0,True,True
+claude_generated,Claude Code,2023-04,"""Generated with Claude Code""",0,2,0,0,True,0,False,False
+claude_generated,Claude Code,2023-05,"""Generated with Claude Code""",3,1,0,3,False,3,False,False
+claude_generated,Claude Code,2023-06,"""Generated with Claude Code""",0,2,1,0,True,0,True,True
+claude_generated,Claude Code,2023-07,"""Generated with Claude Code""",0,2,0,0,True,0,False,False
+claude_generated,Claude Code,2023-08,"""Generated with Claude Code""",1,2,1,1,True,1,True,True
+claude_generated,Claude Code,2023-09,"""Generated with Claude Code""",0,2,0,0,True,0,False,False
+claude_generated,Claude Code,2023-10,"""Generated with Claude Code""",0,2,1,0,True,0,True,True
+claude_generated,Claude Code,2023-11,"""Generated with Claude Code""",0,2,0,0,True,0,False,False
+claude_generated,Claude Code,2023-12,"""Generated with Claude Code""",0,1,0,0,False,0,False,False
+claude_generated,Claude Code,2024-01,"""Generated with Claude Code""",0,2,1,0,True,0,True,True
+claude_generated,Claude Code,2024-02,"""Generated with Claude Code""",0,2,0,0,True,0,False,False
+claude_generated,Claude Code,2024-03,"""Generated with Claude Code""",1,2,1,1,True,1,True,True
+claude_generated,Claude Code,2024-04,"""Generated with Claude Code""",5,2,0,2,True,5,False,False
+claude_generated,Claude Code,2024-05,"""Generated with Claude Code""",2,1,0,2,False,2,False,False
+claude_generated,Claude Code,2024-06,"""Generated with Claude Code""",0,1,0,0,False,0,False,False
+claude_generated,Claude Code,2024-07,"""Generated with Claude Code""",14,2,1,14,True,14,True,True
+claude_generated,Claude Code,2024-08,"""Generated with Claude Code""",68,2,1,68,True,68,True,True
+claude_generated,Claude Code,2024-09,"""Generated with Claude Code""",2,2,1,2,True,2,True,True
+claude_generated,Claude Code,2024-10,"""Generated with Claude Code""",4,2,0,4,True,4,False,False
+claude_generated,Claude Code,2024-11,"""Generated with Claude Code""",2,2,1,2,True,2,True,True
+claude_generated,Claude Code,2024-12,"""Generated with Claude Code""",2,2,0,2,True,2,False,False
+claude_generated,Claude Code,2025-01,"""Generated with Claude Code""",28,2,1,28,True,28,True,True
+claude_generated,Claude Code,2025-02,"""Generated with Claude Code""",2022,2,0,1977,True,2022,False,False
+claude_generated,Claude Code,2025-03,"""Generated with Claude Code""",18077,2,1,18077,True,15554,True,True
+claude_generated,Claude Code,2025-04,"""Generated with Claude Code""",16270,2,0,15544,True,16270,False,False
+claude_generated,Claude Code,2025-05,"""Generated with Claude Code""",40849,2,1,40182,True,40849,True,True
+claude_generated,Claude Code,2025-06,"""Generated with Claude Code""",256186,2,0,250527,True,256186,False,False
+claude_generated,Claude Code,2025-07,"""Generated with Claude Code""",451958,2,1,447435,True,451958,True,True
+claude_generated,Claude Code,2025-08,"""Generated with Claude Code""",576456,2,1,470229,True,576456,True,True
+claude_generated,Claude Code,2025-09,"""Generated with Claude Code""",535863,2,1,503084,True,535863,True,True
+claude_generated,Claude Code,2025-10,"""Generated with Claude Code""",927919,2,0,866851,True,927919,False,False
+claude_generated,Claude Code,2025-11,"""Generated with Claude Code""",1051569,2,1,747770,True,1051569,True,True
+claude_generated,Claude Code,2025-12,"""Generated with Claude Code""",1479691,2,1,1250308,True,1479691,True,True
+claude_generated,Claude Code,2026-01,"""Generated with Claude Code""",937065,2,1,877931,True,937065,True,True
+claude_generated,Claude Code,2026-02,"""Generated with Claude Code""",193473,2,1,193473,True,181368,True,True
+claude_generated,Claude Code,2026-03,"""Generated with Claude Code""",126701,2,1,116136,True,126701,True,True
+claude_generated,Claude Code,2026-04,"""Generated with Claude Code""",105891,2,1,95801,True,105891,True,True
+claude_generated,Claude Code,2026-05,"""Generated with Claude Code""",113506,2,1,97487,True,113506,True,True
+claude_generated,Claude Code,2026-06,"""Generated with Claude Code""",84587,2,1,84587,True,83308,True,True
+claude_generated,Claude Code,2026-07,"""Generated with Claude Code""",112095,2,1,106346,True,112095,True,True
+claude_generated,Claude Code,2026-08,"""Generated with Claude Code""",96325,2,1,82062,True,96325,True,True
+claude_generated,Claude Code,2026-09,"""Generated with Claude Code""",160561,2,1,152943,True,160561,True,True
+claude_bot,Claude Code,2025-01,author:claude[bot],0,1,0,0,False,0,False,False
+claude_bot,Claude Code,2025-02,author:claude[bot],0,1,0,0,False,0,False,False
+claude_bot,Claude Code,2025-03,author:claude[bot],0,2,0,0,True,0,False,False
+claude_bot,Claude Code,2025-04,author:claude[bot],0,1,0,0,False,0,False,False
+claude_bot,Claude Code,2025-05,author:claude[bot],862,1,0,862,False,862,False,False
+claude_bot,Claude Code,2025-06,author:claude[bot],3383,1,0,3383,False,3383,False,False
+claude_bot,Claude Code,2025-07,author:claude[bot],5214,1,0,5214,False,5214,False,False
+claude_bot,Claude Code,2025-08,author:claude[bot],3496,1,0,3496,False,3496,False,False
+claude_bot,Claude Code,2025-09,author:claude[bot],990,1,0,990,False,990,False,False
+claude_bot,Claude Code,2025-10,author:claude[bot],409,1,0,409,False,409,False,False
+claude_bot,Claude Code,2025-11,author:claude[bot],336,1,0,336,False,336,False,False
+claude_bot,Claude Code,2025-12,author:claude[bot],328,1,0,328,False,328,False,False
+claude_bot,Claude Code,2026-01,author:claude[bot],412,2,1,412,True,412,True,True
+claude_bot,Claude Code,2026-02,author:claude[bot],1882,1,0,1882,False,1882,False,False
+claude_bot,Claude Code,2026-03,author:claude[bot],3117,1,0,3117,False,3117,False,False
+claude_bot,Claude Code,2026-04,author:claude[bot],2528,1,0,2528,False,2528,False,False
+claude_bot,Claude Code,2026-05,author:claude[bot],2812,1,0,2812,False,2812,False,False
+claude_bot,Claude Code,2026-06,author:claude[bot],4561,1,0,4561,False,4561,False,False
+claude_bot,Claude Code,2026-07,author:claude[bot],5460,1,0,5460,False,5460,False,False
+claude_bot,Claude Code,2026-08,author:claude[bot],10950,1,0,10950,False,10950,False,False
+claude_bot,Claude Code,2026-09,author:claude[bot],14735,1,0,14735,False,14735,False,False
+copilot_agent,GitHub Copilot,2025-01,author:copilot-swe-agent[bot],3,1,0,3,False,3,False,False
+copilot_agent,GitHub Copilot,2025-02,author:copilot-swe-agent[bot],0,1,0,0,False,0,False,False
+copilot_agent,GitHub Copilot,2025-03,author:copilot-swe-agent[bot],7,1,0,7,False,7,False,False
+copilot_agent,GitHub Copilot,2025-04,author:copilot-swe-agent[bot],15,1,0,15,False,15,False,False
+copilot_agent,GitHub Copilot,2025-05,author:copilot-swe-agent[bot],9189,1,0,9189,False,9189,False,False
+copilot_agent,GitHub Copilot,2025-06,author:copilot-swe-agent[bot],32081,1,0,32081,False,32081,False,False
+copilot_agent,GitHub Copilot,2025-07,author:copilot-swe-agent[bot],73039,2,0,73039,True,73039,False,False
+copilot_agent,GitHub Copilot,2025-08,author:copilot-swe-agent[bot],116493,1,0,116493,False,116493,False,False
+copilot_agent,GitHub Copilot,2025-09,author:copilot-swe-agent[bot],143731,1,0,143731,False,143731,False,False
+copilot_agent,GitHub Copilot,2025-10,author:copilot-swe-agent[bot],261158,1,0,261158,False,261158,False,False
+copilot_agent,GitHub Copilot,2025-11,author:copilot-swe-agent[bot],384012,1,0,384012,False,384012,False,False
+copilot_agent,GitHub Copilot,2025-12,author:copilot-swe-agent[bot],412285,1,0,412285,False,412285,False,False
+copilot_agent,GitHub Copilot,2026-01,author:copilot-swe-agent[bot],475914,1,0,475914,False,475914,False,False
+copilot_agent,GitHub Copilot,2026-02,author:copilot-swe-agent[bot],564082,1,0,564082,False,564082,False,False
+copilot_agent,GitHub Copilot,2026-03,author:copilot-swe-agent[bot],553833,1,0,553833,False,553833,False,False
+copilot_agent,GitHub Copilot,2026-04,author:copilot-swe-agent[bot],485760,1,0,485760,False,485760,False,False
+copilot_agent,GitHub Copilot,2026-05,author:copilot-swe-agent[bot],327516,1,0,327516,False,327516,False,False
+copilot_agent,GitHub Copilot,2026-06,author:copilot-swe-agent[bot],118181,1,0,118181,False,118181,False,False
+copilot_agent,GitHub Copilot,2026-07,author:copilot-swe-agent[bot],116153,1,0,116153,False,116153,False,False
+copilot_agent,GitHub Copilot,2026-08,author:copilot-swe-agent[bot],100610,1,0,100610,False,100610,False,False
+copilot_agent,GitHub Copilot,2026-09,author:copilot-swe-agent[bot],114979,1,0,114979,False,114979,False,False
+copilot_coauthor,GitHub Copilot,2023-01,"""Co-authored-by: Copilot""",1,2,0,1,True,1,False,False
+copilot_coauthor,GitHub Copilot,2023-02,"""Co-authored-by: Copilot""",2,1,0,2,False,2,False,False
+copilot_coauthor,GitHub Copilot,2023-03,"""Co-authored-by: Copilot""",0,2,1,0,True,0,True,True
+copilot_coauthor,GitHub Copilot,2023-04,"""Co-authored-by: Copilot""",0,2,0,0,True,0,False,False
+copilot_coauthor,GitHub Copilot,2023-05,"""Co-authored-by: Copilot""",1,2,1,1,True,1,True,True
+copilot_coauthor,GitHub Copilot,2023-06,"""Co-authored-by: Copilot""",0,2,0,0,True,0,False,False
+copilot_coauthor,GitHub Copilot,2023-07,"""Co-authored-by: Copilot""",0,2,1,0,True,0,True,True
+copilot_coauthor,GitHub Copilot,2023-08,"""Co-authored-by: Copilot""",0,2,0,0,True,0,False,False
+copilot_coauthor,GitHub Copilot,2023-09,"""Co-authored-by: Copilot""",0,1,0,0,False,0,False,False
+copilot_coauthor,GitHub Copilot,2023-10,"""Co-authored-by: Copilot""",1,2,1,1,True,1,True,True
+copilot_coauthor,GitHub Copilot,2023-11,"""Co-authored-by: Copilot""",2,2,0,2,True,2,False,False
+copilot_coauthor,GitHub Copilot,2023-12,"""Co-authored-by: Copilot""",1,2,1,1,True,0,True,True
+copilot_coauthor,GitHub Copilot,2024-01,"""Co-authored-by: Copilot""",2,1,0,2,False,2,False,False
+copilot_coauthor,GitHub Copilot,2024-02,"""Co-authored-by: Copilot""",6,2,0,6,True,6,False,False
+copilot_coauthor,GitHub Copilot,2024-03,"""Co-authored-by: Copilot""",2,2,1,2,True,2,True,True
+copilot_coauthor,GitHub Copilot,2024-04,"""Co-authored-by: Copilot""",1,2,0,1,True,1,False,False
+copilot_coauthor,GitHub Copilot,2024-05,"""Co-authored-by: Copilot""",9,1,0,9,False,9,False,False
+copilot_coauthor,GitHub Copilot,2024-06,"""Co-authored-by: Copilot""",2,1,0,2,False,2,False,False
+copilot_coauthor,GitHub Copilot,2024-07,"""Co-authored-by: Copilot""",2,1,0,2,False,2,False,False
+copilot_coauthor,GitHub Copilot,2024-08,"""Co-authored-by: Copilot""",3,2,1,3,True,3,True,True
+copilot_coauthor,GitHub Copilot,2024-09,"""Co-authored-by: Copilot""",723,1,0,723,False,723,False,False
+copilot_coauthor,GitHub Copilot,2024-10,"""Co-authored-by: Copilot""",1237,1,0,1237,False,1237,False,False
+copilot_coauthor,GitHub Copilot,2024-11,"""Co-authored-by: Copilot""",1747,1,0,1747,False,1747,False,False
+copilot_coauthor,GitHub Copilot,2024-12,"""Co-authored-by: Copilot""",3880,2,0,3728,True,3880,False,False
+copilot_coauthor,GitHub Copilot,2025-01,"""Co-authored-by: Copilot""",2327,2,1,2327,True,2235,True,True
+copilot_coauthor,GitHub Copilot,2025-02,"""Co-authored-by: Copilot""",2231,1,0,2231,False,2231,False,False
+copilot_coauthor,GitHub Copilot,2025-03,"""Co-authored-by: Copilot""",14818,2,0,14685,True,14818,False,False
+copilot_coauthor,GitHub Copilot,2025-04,"""Co-authored-by: Copilot""",20201,1,0,20201,False,20201,False,False
+copilot_coauthor,GitHub Copilot,2025-05,"""Co-authored-by: Copilot""",41029,1,0,41029,False,41029,False,False
+copilot_coauthor,GitHub Copilot,2025-06,"""Co-authored-by: Copilot""",41510,2,1,41484,True,41510,True,True
+copilot_coauthor,GitHub Copilot,2025-07,"""Co-authored-by: Copilot""",58582,2,1,51787,True,58582,True,True
+copilot_coauthor,GitHub Copilot,2025-08,"""Co-authored-by: Copilot""",62554,2,1,62554,True,54574,True,True
+copilot_coauthor,GitHub Copilot,2025-09,"""Co-authored-by: Copilot""",71202,1,0,71202,False,71202,False,False
+copilot_coauthor,GitHub Copilot,2025-10,"""Co-authored-by: Copilot""",103136,1,0,103136,False,103136,False,False
+copilot_coauthor,GitHub Copilot,2025-11,"""Co-authored-by: Copilot""",117969,1,0,117969,False,117969,False,False
+copilot_coauthor,GitHub Copilot,2025-12,"""Co-authored-by: Copilot""",108345,2,0,108307,True,108345,False,False
+copilot_coauthor,GitHub Copilot,2026-01,"""Co-authored-by: Copilot""",118451,2,1,117042,True,118451,True,True
+copilot_coauthor,GitHub Copilot,2026-02,"""Co-authored-by: Copilot""",220586,2,1,214229,True,220586,True,True
+copilot_coauthor,GitHub Copilot,2026-03,"""Co-authored-by: Copilot""",451242,2,1,451242,True,403156,True,True
+copilot_coauthor,GitHub Copilot,2026-04,"""Co-authored-by: Copilot""",745283,2,0,741731,True,745283,False,False
+copilot_coauthor,GitHub Copilot,2026-05,"""Co-authored-by: Copilot""",558234,2,1,558234,True,555894,True,True
+copilot_coauthor,GitHub Copilot,2026-06,"""Co-authored-by: Copilot""",299042,2,1,210492,True,299042,True,True
+copilot_coauthor,GitHub Copilot,2026-07,"""Co-authored-by: Copilot""",273782,2,1,273782,True,227718,True,True
+copilot_coauthor,GitHub Copilot,2026-08,"""Co-authored-by: Copilot""",290156,2,1,285831,True,290156,True,True
+copilot_coauthor,GitHub Copilot,2026-09,"""Co-authored-by: Copilot""",346994,2,1,299309,True,346994,True,True
+cursor,Cursor,2024-01,"""cursoragent@cursor.com""",109,2,0,109,True,109,False,False
+cursor,Cursor,2024-02,"""cursoragent@cursor.com""",90,1,0,90,False,90,False,False
+cursor,Cursor,2024-03,"""cursoragent@cursor.com""",104,1,0,104,False,104,False,False
+cursor,Cursor,2024-04,"""cursoragent@cursor.com""",140,1,0,140,False,140,False,False
+cursor,Cursor,2024-05,"""cursoragent@cursor.com""",113,1,0,113,False,113,False,False
+cursor,Cursor,2024-06,"""cursoragent@cursor.com""",134,1,0,134,False,134,False,False
+cursor,Cursor,2024-07,"""cursoragent@cursor.com""",120,1,0,120,False,120,False,False
+cursor,Cursor,2024-08,"""cursoragent@cursor.com""",137,2,0,137,True,137,False,False
+cursor,Cursor,2024-09,"""cursoragent@cursor.com""",125,1,0,125,False,125,False,False
+cursor,Cursor,2024-10,"""cursoragent@cursor.com""",99,1,0,99,False,99,False,False
+cursor,Cursor,2024-11,"""cursoragent@cursor.com""",110,1,0,110,False,110,False,False
+cursor,Cursor,2024-12,"""cursoragent@cursor.com""",113,1,0,113,False,113,False,False
+cursor,Cursor,2025-01,"""cursoragent@cursor.com""",194,1,0,194,False,194,False,False
+cursor,Cursor,2025-02,"""cursoragent@cursor.com""",142,1,0,142,False,142,False,False
+cursor,Cursor,2025-03,"""cursoragent@cursor.com""",103,2,0,103,True,103,False,False
+cursor,Cursor,2025-04,"""cursoragent@cursor.com""",106,1,0,106,False,106,False,False
+cursor,Cursor,2025-05,"""cursoragent@cursor.com""",182,2,0,182,True,182,False,False
+cursor,Cursor,2025-06,"""cursoragent@cursor.com""",11268,1,0,11268,False,11268,False,False
+cursor,Cursor,2025-07,"""cursoragent@cursor.com""",14345,1,0,14345,False,14345,False,False
+cursor,Cursor,2025-08,"""cursoragent@cursor.com""",14251,1,0,14251,False,14251,False,False
+cursor,Cursor,2025-09,"""cursoragent@cursor.com""",9254,1,0,9254,False,9254,False,False
+cursor,Cursor,2025-10,"""cursoragent@cursor.com""",11242,1,0,11242,False,11242,False,False
+cursor,Cursor,2025-11,"""cursoragent@cursor.com""",8962,1,0,8962,False,8962,False,False
+cursor,Cursor,2025-12,"""cursoragent@cursor.com""",8592,1,0,8592,False,8592,False,False
+cursor,Cursor,2026-01,"""cursoragent@cursor.com""",28745,2,1,28699,True,28745,True,True
+cursor,Cursor,2026-02,"""cursoragent@cursor.com""",600694,2,1,584152,True,600694,True,True
+cursor,Cursor,2026-03,"""cursoragent@cursor.com""",18464,2,1,16155,True,18464,True,True
+cursor,Cursor,2026-04,"""cursoragent@cursor.com""",18066,2,0,17941,True,18066,False,False
+cursor,Cursor,2026-05,"""cursoragent@cursor.com""",1197835,2,1,1160138,True,1197835,True,True
+cursor,Cursor,2026-06,"""cursoragent@cursor.com""",1166428,2,1,1166428,True,1110999,True,True
+cursor,Cursor,2026-07,"""cursoragent@cursor.com""",2408157,2,1,1951912,True,2408157,True,True
+cursor,Cursor,2026-08,"""cursoragent@cursor.com""",1036753,2,1,990031,True,1036753,True,True
+cursor,Cursor,2026-09,"""cursoragent@cursor.com""",1359147,2,1,1237615,True,1359147,True,True
+aider_trailer,Aider,2023-01,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2023-02,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2023-03,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2023-04,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2023-05,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2023-06,"""aider@aider.chat""",74,1,0,74,False,74,False,False
+aider_trailer,Aider,2023-07,"""aider@aider.chat""",1,1,0,1,False,1,False,False
+aider_trailer,Aider,2023-08,"""aider@aider.chat""",1,1,0,1,False,1,False,False
+aider_trailer,Aider,2023-09,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2023-10,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2023-11,"""aider@aider.chat""",2,1,0,2,False,2,False,False
+aider_trailer,Aider,2023-12,"""aider@aider.chat""",1,1,0,1,False,1,False,False
+aider_trailer,Aider,2024-01,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2024-02,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2024-03,"""aider@aider.chat""",1,1,0,1,False,1,False,False
+aider_trailer,Aider,2024-04,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2024-05,"""aider@aider.chat""",213,1,0,213,False,213,False,False
+aider_trailer,Aider,2024-06,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2024-07,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2024-08,"""aider@aider.chat""",21,1,0,21,False,21,False,False
+aider_trailer,Aider,2024-09,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2024-10,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2024-11,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2024-12,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2025-01,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2025-02,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2025-03,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2025-04,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2025-05,"""aider@aider.chat""",0,1,0,0,False,0,False,False
+aider_trailer,Aider,2025-06,"""aider@aider.chat""",1394,1,0,1394,False,1394,False,False
+aider_trailer,Aider,2025-07,"""aider@aider.chat""",11748,1,0,11748,False,11748,False,False
+aider_trailer,Aider,2025-08,"""aider@aider.chat""",13433,1,0,13433,False,13433,False,False
+aider_trailer,Aider,2025-09,"""aider@aider.chat""",10328,1,0,10328,False,10328,False,False
+aider_trailer,Aider,2025-10,"""aider@aider.chat""",9783,1,0,9783,False,9783,False,False
+aider_trailer,Aider,2025-11,"""aider@aider.chat""",9776,2,0,9695,True,9776,False,False
+aider_trailer,Aider,2025-12,"""aider@aider.chat""",6474,1,0,6474,False,6474,False,False
+aider_trailer,Aider,2026-01,"""aider@aider.chat""",5474,1,0,5474,False,5474,False,False
+aider_trailer,Aider,2026-02,"""aider@aider.chat""",6180,1,0,6180,False,6180,False,False
+aider_trailer,Aider,2026-03,"""aider@aider.chat""",7907,1,0,7907,False,7907,False,False
+aider_trailer,Aider,2026-04,"""aider@aider.chat""",10087,1,0,10087,False,10087,False,False
+aider_trailer,Aider,2026-05,"""aider@aider.chat""",9564,1,0,9564,False,9564,False,False
+aider_trailer,Aider,2026-06,"""aider@aider.chat""",7860,1,0,7860,False,7860,False,False
+aider_trailer,Aider,2026-07,"""aider@aider.chat""",8922,1,0,8922,False,8922,False,False
+aider_trailer,Aider,2026-08,"""aider@aider.chat""",8504,1,0,8504,False,8504,False,False
+aider_trailer,Aider,2026-09,"""aider@aider.chat""",6505,1,0,6505,False,6505,False,False
+aider_author,Aider,2023-01,author-name:aider,15,1,0,15,False,15,False,False
+aider_author,Aider,2023-02,author-name:aider,60,1,0,60,False,60,False,False
+aider_author,Aider,2023-03,author-name:aider,39,1,0,39,False,39,False,False
+aider_author,Aider,2023-04,author-name:aider,24,1,0,24,False,24,False,False
+aider_author,Aider,2023-05,author-name:aider,99,1,0,99,False,99,False,False
+aider_author,Aider,2023-06,author-name:aider,85,1,0,85,False,85,False,False
+aider_author,Aider,2023-07,author-name:aider,6,1,0,6,False,6,False,False
+aider_author,Aider,2023-08,author-name:aider,12,1,0,12,False,12,False,False
+aider_author,Aider,2023-09,author-name:aider,2,1,0,2,False,2,False,False
+aider_author,Aider,2023-10,author-name:aider,19,1,0,19,False,19,False,False
+aider_author,Aider,2023-11,author-name:aider,0,1,0,0,False,0,False,False
+aider_author,Aider,2023-12,author-name:aider,34,1,0,34,False,34,False,False
+aider_author,Aider,2024-01,author-name:aider,4,1,0,4,False,4,False,False
+aider_author,Aider,2024-02,author-name:aider,43,1,0,43,False,43,False,False
+aider_author,Aider,2024-03,author-name:aider,39,1,0,39,False,39,False,False
+aider_author,Aider,2024-04,author-name:aider,21,1,0,21,False,21,False,False
+aider_author,Aider,2024-05,author-name:aider,23,1,0,23,False,23,False,False
+aider_author,Aider,2024-06,author-name:aider,2264,1,0,2264,False,2264,False,False
+aider_author,Aider,2024-07,author-name:aider,23058,1,0,23058,False,23058,False,False
+aider_author,Aider,2024-08,author-name:aider,74720,1,0,74720,False,74720,False,False
+aider_author,Aider,2024-09,author-name:aider,44655,1,0,44655,False,44655,False,False
+aider_author,Aider,2024-10,author-name:aider,33301,1,0,33301,False,33301,False,False
+aider_author,Aider,2024-11,author-name:aider,52133,1,0,52133,False,52133,False,False
+aider_author,Aider,2024-12,author-name:aider,88200,1,0,88200,False,88200,False,False
+aider_author,Aider,2025-01,author-name:aider,46686,1,0,46686,False,46686,False,False
+aider_author,Aider,2025-02,author-name:aider,39669,1,0,39669,False,39669,False,False
+aider_author,Aider,2025-03,author-name:aider,71913,1,0,71913,False,71913,False,False
+aider_author,Aider,2025-04,author-name:aider,42863,1,0,42863,False,42863,False,False
+aider_author,Aider,2025-05,author-name:aider,35499,1,0,35499,False,35499,False,False
+aider_author,Aider,2025-06,author-name:aider,18533,1,0,18533,False,18533,False,False
+aider_author,Aider,2025-07,author-name:aider,1924,1,0,1924,False,1924,False,False
+aider_author,Aider,2025-08,author-name:aider,1398,1,0,1398,False,1398,False,False
+aider_author,Aider,2025-09,author-name:aider,1686,1,0,1686,False,1686,False,False
+aider_author,Aider,2025-10,author-name:aider,736,1,0,736,False,736,False,False
+aider_author,Aider,2025-11,author-name:aider,532,1,0,532,False,532,False,False
+aider_author,Aider,2025-12,author-name:aider,450,1,0,450,False,450,False,False
+aider_author,Aider,2026-01,author-name:aider,389,1,0,389,False,389,False,False
+aider_author,Aider,2026-02,author-name:aider,606,1,0,606,False,606,False,False
+aider_author,Aider,2026-03,author-name:aider,494,1,0,494,False,494,False,False
+aider_author,Aider,2026-04,author-name:aider,399,1,0,399,False,399,False,False
+aider_author,Aider,2026-05,author-name:aider,1090,1,0,1090,False,1090,False,False
+aider_author,Aider,2026-06,author-name:aider,1050,1,0,1050,False,1050,False,False
+aider_author,Aider,2026-07,author-name:aider,1687,1,0,1687,False,1687,False,False
+aider_author,Aider,2026-08,author-name:aider,623,1,0,623,False,623,False,False
+aider_author,Aider,2026-09,author-name:aider,1470,1,0,1470,False,1470,False,False
+codex,OpenAI Codex,2025-01,"""noreply@openai.com""",0,1,0,0,False,0,False,False
+codex,OpenAI Codex,2025-02,"""noreply@openai.com""",0,1,0,0,False,0,False,False
+codex,OpenAI Codex,2025-03,"""noreply@openai.com""",0,2,0,0,True,0,False,False
+codex,OpenAI Codex,2025-04,"""noreply@openai.com""",2,1,0,2,False,2,False,False
+codex,OpenAI Codex,2025-05,"""noreply@openai.com""",13,1,0,13,False,13,False,False
+codex,OpenAI Codex,2025-06,"""noreply@openai.com""",7,2,0,7,True,7,False,False
+codex,OpenAI Codex,2025-07,"""noreply@openai.com""",8,1,0,8,False,8,False,False
+codex,OpenAI Codex,2025-08,"""noreply@openai.com""",19,2,0,19,True,19,False,False
+codex,OpenAI Codex,2025-09,"""noreply@openai.com""",227,2,0,227,True,227,False,False
+codex,OpenAI Codex,2025-10,"""noreply@openai.com""",145,2,1,139,True,145,True,True
+codex,OpenAI Codex,2025-11,"""noreply@openai.com""",277,1,0,277,False,277,False,False
+codex,OpenAI Codex,2025-12,"""noreply@openai.com""",548,2,0,542,True,548,False,False
+codex,OpenAI Codex,2026-01,"""noreply@openai.com""",614,2,0,614,True,614,False,False
+codex,OpenAI Codex,2026-02,"""noreply@openai.com""",6369,2,1,6236,True,6369,True,True
+codex,OpenAI Codex,2026-03,"""noreply@openai.com""",41210,2,0,41210,True,41210,False,False
+codex,OpenAI Codex,2026-04,"""noreply@openai.com""",45473,2,0,44806,True,45473,False,False
+codex,OpenAI Codex,2026-05,"""noreply@openai.com""",68138,2,1,67775,True,68138,True,True
+codex,OpenAI Codex,2026-06,"""noreply@openai.com""",41326,2,1,41326,True,40719,True,True
+codex,OpenAI Codex,2026-07,"""noreply@openai.com""",57702,2,0,57697,True,57702,False,False
+codex,OpenAI Codex,2026-08,"""noreply@openai.com""",67603,2,1,65330,True,67603,True,True
+codex,OpenAI Codex,2026-09,"""noreply@openai.com""",112253,2,1,111015,True,112253,True,True
+jules,Google Jules,2025-01,author:google-labs-jules[bot],15,1,0,15,False,15,False,False
+jules,Google Jules,2025-02,author:google-labs-jules[bot],25,1,0,25,False,25,False,False
+jules,Google Jules,2025-03,author:google-labs-jules[bot],126,1,0,126,False,126,False,False
+jules,Google Jules,2025-04,author:google-labs-jules[bot],183,1,0,183,False,183,False,False
+jules,Google Jules,2025-05,author:google-labs-jules[bot],25692,1,0,25692,False,25692,False,False
+jules,Google Jules,2025-06,author:google-labs-jules[bot],61531,1,0,61531,False,61531,False,False
+jules,Google Jules,2025-07,author:google-labs-jules[bot],40496,1,0,40496,False,40496,False,False
+jules,Google Jules,2025-08,author:google-labs-jules[bot],68975,1,0,68975,False,68975,False,False
+jules,Google Jules,2025-09,author:google-labs-jules[bot],65704,1,0,65704,False,65704,False,False
+jules,Google Jules,2025-10,author:google-labs-jules[bot],53545,1,0,53545,False,53545,False,False
+jules,Google Jules,2025-11,author:google-labs-jules[bot],51907,1,0,51907,False,51907,False,False
+jules,Google Jules,2025-12,author:google-labs-jules[bot],80055,1,0,80055,False,80055,False,False
+jules,Google Jules,2026-01,author:google-labs-jules[bot],118626,1,0,118626,False,118626,False,False
+jules,Google Jules,2026-02,author:google-labs-jules[bot],120368,1,0,120368,False,120368,False,False
+jules,Google Jules,2026-03,author:google-labs-jules[bot],112687,1,0,112687,False,112687,False,False
+jules,Google Jules,2026-04,author:google-labs-jules[bot],86492,1,0,86492,False,86492,False,False
+jules,Google Jules,2026-05,author:google-labs-jules[bot],89650,1,0,89650,False,89650,False,False
+jules,Google Jules,2026-06,author:google-labs-jules[bot],75784,1,0,75784,False,75784,False,False
+jules,Google Jules,2026-07,author:google-labs-jules[bot],69054,1,0,69054,False,69054,False,False
+jules,Google Jules,2026-08,author:google-labs-jules[bot],65169,1,0,65169,False,65169,False,False
+jules,Google Jules,2026-09,author:google-labs-jules[bot],64851,1,0,64851,False,64851,False,False
+devin,Devin,2024-01,author:devin-ai-integration[bot],0,1,0,0,False,0,False,False
+devin,Devin,2024-02,author:devin-ai-integration[bot],0,1,0,0,False,0,False,False
+devin,Devin,2024-03,author:devin-ai-integration[bot],1,1,0,1,False,1,False,False
+devin,Devin,2024-04,author:devin-ai-integration[bot],246,1,0,246,False,246,False,False
+devin,Devin,2024-05,author:devin-ai-integration[bot],519,1,0,519,False,519,False,False
+devin,Devin,2024-06,author:devin-ai-integration[bot],235,1,0,235,False,235,False,False
+devin,Devin,2024-07,author:devin-ai-integration[bot],1290,1,0,1290,False,1290,False,False
+devin,Devin,2024-08,author:devin-ai-integration[bot],509,1,0,509,False,509,False,False
+devin,Devin,2024-09,author:devin-ai-integration[bot],615,1,0,615,False,615,False,False
+devin,Devin,2024-10,author:devin-ai-integration[bot],466,1,0,466,False,466,False,False
+devin,Devin,2024-11,author:devin-ai-integration[bot],1524,1,0,1524,False,1524,False,False
+devin,Devin,2024-12,author:devin-ai-integration[bot],8542,1,0,8542,False,8542,False,False
+devin,Devin,2025-01,author:devin-ai-integration[bot],7055,1,0,7055,False,7055,False,False
+devin,Devin,2025-02,author:devin-ai-integration[bot],10286,1,0,10286,False,10286,False,False
+devin,Devin,2025-03,author:devin-ai-integration[bot],8060,1,0,8060,False,8060,False,False
+devin,Devin,2025-04,author:devin-ai-integration[bot],20074,1,0,20074,False,20074,False,False
+devin,Devin,2025-05,author:devin-ai-integration[bot],26610,1,0,26610,False,26610,False,False
+devin,Devin,2025-06,author:devin-ai-integration[bot],12951,1,0,12951,False,12951,False,False
+devin,Devin,2025-07,author:devin-ai-integration[bot],18551,1,0,18551,False,18551,False,False
+devin,Devin,2025-08,author:devin-ai-integration[bot],11306,1,0,11306,False,11306,False,False
+devin,Devin,2025-09,author:devin-ai-integration[bot],6584,1,0,6584,False,6584,False,False
+devin,Devin,2025-10,author:devin-ai-integration[bot],8699,1,0,8699,False,8699,False,False
+devin,Devin,2025-11,author:devin-ai-integration[bot],10621,1,0,10621,False,10621,False,False
+devin,Devin,2025-12,author:devin-ai-integration[bot],14187,2,0,13662,True,14187,False,False
+devin,Devin,2026-01,author:devin-ai-integration[bot],13941,1,0,13941,False,13941,False,False
+devin,Devin,2026-02,author:devin-ai-integration[bot],13988,1,0,13988,False,13988,False,False
+devin,Devin,2026-03,author:devin-ai-integration[bot],19513,1,0,19513,False,19513,False,False
+devin,Devin,2026-04,author:devin-ai-integration[bot],38765,1,0,38765,False,38765,False,False
+devin,Devin,2026-05,author:devin-ai-integration[bot],26919,1,0,26919,False,26919,False,False
+devin,Devin,2026-06,author:devin-ai-integration[bot],24777,1,0,24777,False,24777,False,False
+devin,Devin,2026-07,author:devin-ai-integration[bot],18078,1,0,18078,False,18078,False,False
+devin,Devin,2026-08,author:devin-ai-integration[bot],29286,1,0,29286,False,29286,False,False
+devin,Devin,2026-09,author:devin-ai-integration[bot],54323,1,0,54323,False,54323,False,False
+amp,Amp,2025-01,"""amp@ampcode.com""",0,1,0,0,False,0,False,False
+amp,Amp,2025-02,"""amp@ampcode.com""",0,1,0,0,False,0,False,False
+amp,Amp,2025-03,"""amp@ampcode.com""",0,1,0,0,False,0,False,False
+amp,Amp,2025-04,"""amp@ampcode.com""",0,1,0,0,False,0,False,False
+amp,Amp,2025-05,"""amp@ampcode.com""",0,1,0,0,False,0,False,False
+amp,Amp,2025-06,"""amp@ampcode.com""",1,1,0,1,False,1,False,False
+amp,Amp,2025-07,"""amp@ampcode.com""",1719,1,0,1719,False,1719,False,False
+amp,Amp,2025-08,"""amp@ampcode.com""",1815,1,0,1815,False,1815,False,False
+amp,Amp,2025-09,"""amp@ampcode.com""",1661,1,0,1661,False,1661,False,False
+amp,Amp,2025-10,"""amp@ampcode.com""",5289,1,0,5289,False,5289,False,False
+amp,Amp,2025-11,"""amp@ampcode.com""",5206,1,0,5206,False,5206,False,False
+amp,Amp,2025-12,"""amp@ampcode.com""",2512,1,0,2512,False,2512,False,False
+amp,Amp,2026-01,"""amp@ampcode.com""",12096,1,0,12096,False,12096,False,False
+amp,Amp,2026-02,"""amp@ampcode.com""",19753,1,0,19753,False,19753,False,False
+amp,Amp,2026-03,"""amp@ampcode.com""",11572,1,0,11572,False,11572,False,False
+amp,Amp,2026-04,"""amp@ampcode.com""",6664,1,0,6664,False,6664,False,False
+amp,Amp,2026-05,"""amp@ampcode.com""",4689,1,0,4689,False,4689,False,False
+amp,Amp,2026-06,"""amp@ampcode.com""",3016,2,0,3016,True,3016,False,False
+amp,Amp,2026-07,"""amp@ampcode.com""",3305,1,0,3305,False,3305,False,False
+amp,Amp,2026-08,"""amp@ampcode.com""",10683,1,0,10683,False,10683,False,False
+amp,Amp,2026-09,"""amp@ampcode.com""",13309,1,0,13309,False,13309,False,False

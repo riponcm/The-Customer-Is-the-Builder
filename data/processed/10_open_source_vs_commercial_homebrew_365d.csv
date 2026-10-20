@@ -1,0 +1,17 @@
+product,category,side,name,kind,package,installs_365d,in_analytics,window_start,window_end
+Screen Studio,screen_recording,commercial,Screen Studio,cask,screen-studio,1690,True,2025-10-12,2026-10-12
+Loom,screen_recording,commercial,Loom,cask,loom,4625,True,2025-10-12,2026-10-12
+Grammarly,writing_assistance,commercial,Grammarly,cask,grammarly-desktop,5268,True,2025-10-12,2026-10-12
+Adobe Acrobat,pdf_utilities,commercial,Adobe Acrobat,cask,adobe-acrobat-reader,49051,True,2025-10-12,2026-10-12
+Adobe Photoshop,image_editing,commercial,Adobe Photoshop,cask,adobe-creative-cloud,7391,True,2025-10-12,2026-10-12
+Canva,image_editing,commercial,Canva,cask,canva,3876,True,2025-10-12,2026-10-12
+Notion,productivity,commercial,Notion,cask,notion,60782,True,2025-10-12,2026-10-12
+Trello,productivity,commercial,Trello,cask,trello,0,False,2025-10-12,2026-10-12
+Postman,developer_utilities,commercial,Postman,cask,postman,139258,True,2025-10-12,2026-10-12
+Adobe Photoshop,image_editing,open_source,robbietilton/Compositor,cask,robbietilton-compositor,1671,True,2025-10-12,2026-10-12
+Loom,screen_recording,open_source,CapSoftware/Cap,cask,cap,2654,True,2025-10-12,2026-10-12
+Notion,productivity,open_source,AppFlowy-IO/AppFlowy,cask,appflowy,1487,True,2025-10-12,2026-10-12
+Notion,productivity,open_source,AppFlowy-IO/AppFlowy-Website,cask,appflowy,1487,True,2025-10-12,2026-10-12
+Postman,developer_utilities,open_source,usebruno/bruno,cask,bruno,75820,True,2025-10-12,2026-10-12
+Postman,developer_utilities,open_source,usebruno/bruno,formula,bruno-cli,4913,True,2025-10-12,2026-10-12
+Postman,developer_utilities,open_source,requestly/requestly,cask,requestly,2847,True,2025-10-12,2026-10-12

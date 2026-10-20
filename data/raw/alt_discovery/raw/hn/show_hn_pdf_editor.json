@@ -1,0 +1,128 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "SeaMetal"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "pdf",
+            "editor",
+            "alternative"
+          ],
+          "value": "In manufacturing, quality control teams will often need to 'balloon' or 'bubble' inspection drawings so that each feature on a part can be inspected. They then need to have these features and tolerances listed for first article inspection (FAI) reports and data collection.<p>This involves using  specialized QC software, which is often expensive, or using a <em>PDF</em> <em>editor</em>, which is time consuming and repetitive.<p>Balloonist is an affordable <em>alternative</em> which helps streamline the process.<p>My hope is that balloonist might be beneficial for smaller machine shops and jobs shops that need an <em>alternative</em> to using a <em>PDF</em> <em>editor</em>, but my not have the budget for or the need a full fledged QC suite.<p>Feedback on the landing page and/or app is welcome and appreciated (you can get a free 7 day trial, no cc req'd, at <a href=\"https://app.balloonist.io\" rel=\"nofollow\">https://app.balloonist.io</a>)"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Balloonist – Balloon inspection drawings and extract features (QC Tool)"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://balloonist.io/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_SeaMetal",
+        "story_41502994",
+        "show_hn"
+      ],
+      "author": "SeaMetal",
+      "created_at": "2024-09-10T17:02:16Z",
+      "created_at_i": 1725987736,
+      "num_comments": 0,
+      "objectID": "41502994",
+      "points": 1,
+      "story_id": 41502994,
+      "story_text": "In manufacturing, quality control teams will often need to &#x27;balloon&#x27; or &#x27;bubble&#x27; inspection drawings so that each feature on a part can be inspected. They then need to have these features and tolerances listed for first article inspection (FAI) reports and data collection.<p>This involves using  specialized QC software, which is often expensive, or using a PDF editor, which is time consuming and repetitive.<p>Balloonist is an affordable alternative which helps streamline the process.<p>My hope is that balloonist might be beneficial for smaller machine shops and jobs shops that need an alternative to using a PDF editor, but my not have the budget for or the need a full fledged QC suite.<p>Feedback on the landing page and&#x2F;or app is welcome and appreciated (you can get a free 7 day trial, no cc req&#x27;d, at <a href=\"https:&#x2F;&#x2F;app.balloonist.io\" rel=\"nofollow\">https:&#x2F;&#x2F;app.balloonist.io</a>)",
+      "title": "Show HN: Balloonist – Balloon inspection drawings and extract features (QC Tool)",
+      "updated_at": "2024-09-20T17:44:44Z",
+      "url": "https://balloonist.io/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Pterjudin"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "pdf",
+            "editor",
+            "alternative"
+          ],
+          "value": "Hi HN — I’m Tajudeen, a software engineer working mostly on large and regulated codebases.<p>I built CortexIDE as a simple <em>alternative</em> to Cursor, mainly because the open-source <em>editor</em> Void (which CortexIDE is based on) slowed down, and I still wanted a local-first, hackable AI <em>editor</em> I could control.<p>CortexIDE is a VS Code–based <em>editor</em>, not an extension. The workflow is intentionally explicit: chat with the model, generate a concrete plan, produce diffs, and apply changes only after review.<p>It supports chat, inline edit, and agent-style multi-file edits, repo-aware context via indexing, local models (e.g. Ollama) as well as remote providers, <em>PDF</em> uploads for specs/docs, image uploads for visual context, checkpoints/rollback, todo list for large task and no telemetry by default.<p>This is still early and actively evolving. Performance on large repos and slower machines is something I’m actively improving.<p>I’m sharing this to get feedback from people who like Cursor’s UX but want more control, prefer local or self-hosted models, or don’t trust extensions to freely mutate their repo."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: I built a simple Cursor <em>alternative</em> after Void slowed down"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://voideditor.com"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Pterjudin",
+        "story_46274927",
+        "show_hn"
+      ],
+      "author": "Pterjudin",
+      "children": [
+        46274944,
+        46275054
+      ],
+      "created_at": "2025-12-15T14:24:18Z",
+      "created_at_i": 1765808658,
+      "num_comments": 2,
+      "objectID": "46274927",
+      "points": 2,
+      "story_id": 46274927,
+      "story_text": "Hi HN — I’m Tajudeen, a software engineer working mostly on large and regulated codebases.<p>I built CortexIDE as a simple alternative to Cursor, mainly because the open-source editor Void (which CortexIDE is based on) slowed down, and I still wanted a local-first, hackable AI editor I could control.<p>CortexIDE is a VS Code–based editor, not an extension. The workflow is intentionally explicit: chat with the model, generate a concrete plan, produce diffs, and apply changes only after review.<p>It supports chat, inline edit, and agent-style multi-file edits, repo-aware context via indexing, local models (e.g. Ollama) as well as remote providers, PDF uploads for specs&#x2F;docs, image uploads for visual context, checkpoints&#x2F;rollback, todo list for large task and no telemetry by default.<p>This is still early and actively evolving. Performance on large repos and slower machines is something I’m actively improving.<p>I’m sharing this to get feedback from people who like Cursor’s UX but want more control, prefer local or self-hosted models, or don’t trust extensions to freely mutate their repo.",
+      "title": "Show HN: I built a simple Cursor alternative after Void slowed down",
+      "updated_at": "2026-06-06T07:33:38Z",
+      "url": "https://voideditor.com"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 2,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=pdf+editor+alternative&tags=show_hn&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 11,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 64,
+      "roundTrip": 18
+    },
+    "fetch": {
+      "query": 9,
+      "total": 10
+    },
+    "total": 11
+  },
+  "query": "pdf editor alternative",
+  "serverTimeMS": 76
+}

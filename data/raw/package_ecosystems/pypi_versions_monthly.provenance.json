@@ -1,0 +1,5 @@
+{
+  "source": "https://sql-clickhouse.clickhouse.com/ table pypi.projects",
+  "retrieved_utc": "",
+  "query": "SELECT toStartOfMonth(t) AS month, count() AS new_versions FROM (SELECT lower(replaceRegexpAll(name, '[-_.]+', '-')) AS n, version, min(upload_time) AS t FROM pypi.projects GROUP BY n, version) GROUP BY month ORDER BY month"
+}

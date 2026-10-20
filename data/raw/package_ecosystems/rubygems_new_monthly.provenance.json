@@ -1,0 +1,5 @@
+{
+  "source": "https://sql-clickhouse.clickhouse.com/ table rubygems.rubygems",
+  "retrieved_utc": "",
+  "query": "SELECT toStartOfMonth(created_at) AS month, count() AS new_packages, countIf(indexed = 't') AS new_packages_filtered FROM rubygems.rubygems GROUP BY month ORDER BY month"
+}

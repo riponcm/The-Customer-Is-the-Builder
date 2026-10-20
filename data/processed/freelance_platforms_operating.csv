@@ -1,0 +1,9 @@
+ticker,metric,q2_2025,q2_2026,yoy_pct,source_url,retrieved_utc
+UPWK,gross_services_volume,1002650,966439,-3.6115294469655446,https://investors.upwork.com/news-releases/news-release-details/upwork-reports-second-quarter-2026-financial-results,
+UPWK,revenue,194939,191660,-1.682064645863579,https://investors.upwork.com/news-releases/news-release-details/upwork-reports-second-quarter-2026-financial-results,
+UPWK,active_clients,796,763,-4.145728643216085,https://investors.upwork.com/news-releases/news-release-details/upwork-reports-second-quarter-2026-financial-results,
+UPWK,adjusted_ebitda,57061,64053,12.25355321498045,https://investors.upwork.com/news-releases/news-release-details/upwork-reports-second-quarter-2026-financial-results,
+FVRR,marketplace_revenue,74689,63141,-15.461446799394828,https://investors.fiverr.com/news-releases/news-release-details/fiverr-announces-second-quarter-2026-results,
+FVRR,annual_active_buyers,3425,2676,-21.868613138686133,https://investors.fiverr.com/news-releases/news-release-details/fiverr-announces-second-quarter-2026-results,
+FVRR,annual_spend_per_buyer,318,368,15.723270440251568,https://investors.fiverr.com/news-releases/news-release-details/fiverr-announces-second-quarter-2026-results,
+FVRR,services_revenue,33959,34642,2.011248858918102,https://investors.fiverr.com/news-releases/news-release-details/fiverr-announces-second-quarter-2026-results,

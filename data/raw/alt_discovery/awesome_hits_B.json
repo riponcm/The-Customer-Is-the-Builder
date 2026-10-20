@@ -1,0 +1,1172 @@
+[
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted on your own server(s). Non-Free software is listed on the [Non-Free](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) page."
+  },
+  {
+    "product": "retool",
+    "list": "awesome-selfhosted",
+    "keyword": "low-code",
+    "line": "- [Software Development - Low Code](#software-development---low-code)"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Wikis](#wikis)"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Analytics](https://en.wikipedia.org/wiki/Analytics) is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preservation](https://en.wikipedia.org/wiki/Digital_preservation) software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Automation](https://en.wikipedia.org/wiki/Automation) software designed to reduce human intervention in processes."
+  },
+  {
+    "product": "trello",
+    "list": "awesome-selfhosted",
+    "keyword": "trello",
+    "line": "- [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code](https://github.com/activepieces/activepieces)) `MIT` `Docker`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Backup](https://en.wikipedia.org/wiki/Backup) software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "A [blog](https://en.wikipedia.org/wiki/Blog) is a discussion or informational website consisting of discrete, diary-style text entries (posts)."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Software which allows users to add, annotate, edit, and share [bookmarks](https://en.wikipedia.org/wiki/Bookmark_(digital)) of web documents."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[CalDAV](https://en.wikipedia.org/wiki/CalDAV) and [CardDAV](https://en.wikipedia.org/wiki/CardDAV) protocol servers and web clients/interfaces for [Electronic calendar](https://en.wikipedia.org/wiki/Calendaring_software), [address book](https://en.wikipedia.org/wiki/Address_book) and [contact management](https://en.wikipedia.org/wiki/Contact_manager)."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Communication software](https://en.wikipedia.org/wiki/Communication_software) used to provide remote access to systems and exchange files and messages in text, audio and/or video formats between different computers or users, using their own custom protocols."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Mumble](https://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software. ([Source Code](https://github.com/mumble-voip/mumble), [Clients](https://wiki.mumble.info/wiki/3rd_Party_Applications)) `BSD-3-Clause` `C++/deb`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g. for inexperienced or impatient admins."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Mail Delivery Agents](https://en.wikipedia.org/wiki/Message_delivery_agent) (MDAs) - [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)/[POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) server software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Mail Transfer Agents](https://en.wikipedia.org/wiki/Message_transfer_agent) (MTAs) - [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) servers."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Mailing list](https://en.wikipedia.org/wiki/Mailing_list) servers and mass mailing software - one message to many recipients."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [HyperKitty](https://wiki.list.org/HyperKitty) - Access GNU Mailman v3 archives. ([Demo](https://lists.mailman3.org/), [Source Code](https://gitlab.com/mailman/hyperkitty)) `GPL-3.0` `Python`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Webmail](https://en.wikipedia.org/wiki/Webmail) clients."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [ZNC](https://wiki.znc.in/ZNC) - Advanced IRC bouncer. ([Source Code](https://github.com/znc/znc)) `Apache-2.0` `C++/deb`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Social Networking](https://en.wikipedia.org/wiki/Social_networking_service) and [Forum](https://en.wikipedia.org/wiki/Internet_forum) software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Video/Web Conferencing](https://en.wikipedia.org/wiki/Web_conferencing) tools and software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) servers."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) Web clients/interfaces."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Software for submission of [abstracts](https://en.wikipedia.org/wiki/Abstract_management) and preparation/management of academic conferences."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Content Management Systems](https://en.wikipedia.org/wiki/Content_management_system) offer a practical way to setup a website with many features, using third party plugins, themes and functionality that are easy to add and customize."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Customer relationship management (CRM)](https://en.wikipedia.org/wiki/Customer_relationship_management) is a strategic process that organizations use to manage, analyze, and improve their interactions with customers."
+  },
+  {
+    "product": "retool",
+    "list": "awesome-selfhosted",
+    "keyword": "low code",
+    "line": "- [Corteza](https://docs.cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`"
+  },
+  {
+    "product": "trello",
+    "list": "awesome-selfhosted",
+    "keyword": "kanban",
+    "line": "- [Relaticle](https://relaticle.com) - CRM with an MCP server, an AI assistant with human-approved changes, a REST API, custom fields, and kanban boards. ([Source Code](https://github.com/relaticle/relaticle)) `AGPL-3.0` `PHP/Docker`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Web interfaces for [database](https://en.wikipedia.org/wiki/Database) management. Includes tools for database analytics and visualization."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[DNS](https://en.wikipedia.org/wiki/Domain_Name_System) servers and management tools with advertisement blocking functionality, primarily aimed at home or small networks."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "A [document management system](https://en.wikipedia.org/wiki/Document_management_system) (DMS) is a system used to receive, track, manage and store documents and reduce paper."
+  },
+  {
+    "product": "adobe_photoshop",
+    "list": "awesome-selfhosted",
+    "keyword": "image editor",
+    "line": "- [SnapOtter](https://snapotter.com) - Suite of 200+ web tools for converting and editing images, videos, audio and PDFs, including a layer-based image editor, OCR, transcription, background removal and batch processing pipelines (alternative to SmallPDF, iLovePDF, CloudConvert). ([Demo](https://demo.snapotter.com), [Source Code](https://github.com/snapotter-hq/SnapOtter)) `AGPL-3.0` `Docker`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Ebook](https://en.wikipedia.org/wiki/Ebook) library management software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [kiwix-serve](https://github.com/kiwix/kiwix-tools) - HTTP daemon for serving wikis from ZIM files. `GPL-3.0` `C++`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Institutional repository](https://en.wikipedia.org/wiki/Institutional_repository) and [digital library](https://en.wikipedia.org/wiki/Digital_library) management software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Fedora Commons Repository](https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home) - Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation. ([Source Code](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "An [integrated library system](https://en.wikipedia.org/wiki/Integrated_library_system) is an enterprise resource planning system for a library, used to track items owned, orders made, bills paid, and patrons who have borrowed."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[E-commerce](https://en.wikipedia.org/wiki/E-commerce) software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Federated identity](https://en.wikipedia.org/wiki/Federated_identity) and [authentication](https://en.wikipedia.org/wiki/Electronic_authentication) software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed a feed aggregator, feed reader, news reader, [RSS](https://en.wikipedia.org/wiki/RSS) reader, is an application that aggregates web content such as newspapers/blogs/vlogs/podcasts in one location for easy viewing."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[File transfer](https://en.wikipedia.org/wiki/File_transfer), [sharing](https://en.wikipedia.org/wiki/File_sharing) and [synchronization software](https://en.wikipedia.org/wiki/File_synchronization) software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code](https://github.com/owncloud/core), [Clients](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP/Docker/deb`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Object storage](https://en.wikipedia.org/wiki/Object_storage) is a computer data storage that manages data as objects, as opposed to other storage architectures like file systems which manages data as a file hierarchy, and block storage which manages data as blocks within sectors and tracks."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Peer-to-peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) is the distribution and [sharing](https://en.wikipedia.org/wiki/File_sharing) of digital media using [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) (P2P) networking technology."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Simplified file servers for sharing of one-time/short-lived/temporary files, providing single-click or [drag-and-drop](https://en.wikipedia.org/wiki/Drag_and_drop) upload functionality."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Web-based [file managers](https://en.wikipedia.org/wiki/File_manager)."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Multiplayer game servers and [browser games](https://en.wikipedia.org/wiki/Browser_game)."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Genealogy software](https://en.wikipedia.org/wiki/Genealogy_software) used to record, organize, and publish genealogical data."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [GeneWeb](https://github.com/geneweb/geneweb/wiki) - Genealogy software that can be used offline or as a Web service. ([Source Code](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Generative Artificial Intelligence (GenAI)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) is a subset of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) that uses generative models to produce text, images, videos, or other forms of data."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Collaborative software or [groupware](https://en.wikipedia.org/wiki/Collaborative_software) is designed to help people working on a common task to attain their goals. Groupware often regroups multiple services such as file sharing, calendar/events management, appointment scheduling, address books... in a single, integrated application."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Citadel](https://www.citadel.org/) - Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more. ([Source Code](https://www.citadel.org/source.html)) `GPL-3.0` `C/Docker/Shell`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "notion",
+    "line": "- [Colanode](https://colanode.com) - Collaboration suite with real-time messaging, rich text pages, file management, and dynamic databases - built for offline work (alternative to Slack, Notion). ([Source Code](https://github.com/colanode/colanode)) `Apache-2.0` `K8S/Docker`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [egroupware](https://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS. ([Source Code](https://github.com/EGroupware/egroupware)) `GPL-2.0` `PHP`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Medical](https://en.wikipedia.org/wiki/Medical_software), [Health](https://en.wikipedia.org/wiki/Health_information_technology) and [Fitness](https://en.wikipedia.org/wiki/Fitness_tracker) software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "A [human resources management system](https://en.wikipedia.org/wiki/Human_resource_management_system) combines a number of systems and processes to ensure the easy management of [human resources](https://en.wikipedia.org/wiki/Human_resources), business processes and data."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Identity management](https://en.wikipedia.org/wiki/Identity_management) (IdM), also known as identity and access management (IAM or IdAM), is a framework of policies and technologies to ensure that the right users have the appropriate access to technology resources."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) describes physical objects with sensors, processing ability, software, and other technologies that connect and exchange data with other devices over the Internet."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Inventory management software](https://en.wikipedia.org/wiki/Inventory_management_software)."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code](https://codeberg.org/inventaire/inventaire)) `AGPL-3.0` `Nodejs`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Knowledge management](https://en.wikipedia.org/wiki/Knowledge_management) is the collection of methods relating to creating, sharing, using and managing the knowledge and information."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "_Related: [Note-taking & Editors](#note-taking--editors), [Wikis](#wikis), [Database Management](#database-management)_"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "notion",
+    "line": "- [Atomic Server](https://atomicserver.eu/) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/), [Source Code](https://github.com/ontola/atomic-server)) `MIT` `Docker/Rust`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "knowledge base",
+    "line": "- [LibreKB](https://librekb.com/) - Web-based knowledge base solution. A simple web app, it runs on pretty much any web server or hosting provider with PHP and MySQL. ([Source Code](https://github.com/michaelstaake/LibreKB/)) `GPL-3.0` `PHP`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "knowledge base",
+    "line": "- [memEx](https://gitlab.com/shibaobun/memex) - Structured personal knowledge base, inspired by zettlekasten and org-mode. `AGPL-3.0` `Docker`"
+  },
+  {
+    "product": "canva",
+    "list": "awesome-selfhosted",
+    "keyword": "canva",
+    "line": "- [Canvas LMS](https://www.instructure.com/canvas/) - Learning management system (LMS) that is revolutionizing the way we educate. ([Source Code](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CNC machines](https://en.wikipedia.org/wiki/Numerical_control) and other physical manufacturing tools."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Maps](https://en.wikipedia.org/wiki/Map), [cartography](https://en.wikipedia.org/wiki/Cartography), [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) and [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [OpenStreetMap](https://www.openstreetmap.org/) - Collaborative project to create a free editable map of the world. ([Source Code](https://github.com/openstreetmap/openstreetmap-website), [Clients](https://wiki.openstreetmap.org/wiki/Software)) `GPL-2.0` `Ruby`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Digital media](https://en.wikipedia.org/wiki/Digital_media) management tools and software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Streaming media](https://en.wikipedia.org/wiki/Streaming_media) is multimedia that is delivered and consumed in a continuous manner from a source, with little or no intermediate storage in network elements."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "_See also: [List of streaming media systems - Wikipedia](https://en.wikipedia.org/wiki/List_of_streaming_media_systems), [Comparison of streaming media systems - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_streaming_media_systems)_"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Audio](https://en.wikipedia.org/wiki/Audio) streaming tools and software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Multimedia](https://en.wikipedia.org/wiki/Multimedia) streaming tools and software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Video](https://en.wikipedia.org/wiki/Video) streaming tools and software."
+  },
+  {
+    "product": "adobe_photoshop",
+    "list": "awesome-selfhosted",
+    "keyword": "gimp",
+    "line": "- [Kasm Workspaces](https://kasmweb.com/) - Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc. ([Demo](https://www.kasmweb.com/#demo), [Source Code](https://github.com/kasmtech)) `GPL-3.0` `Docker`"
+  },
+  {
+    "product": "canva",
+    "list": "awesome-selfhosted",
+    "keyword": "penpot",
+    "line": "- [penpot](https://penpot.app/) - Web-based design and prototyping platform meant for cross-domain teams. ([Source Code](https://github.com/penpot/penpot)) `MPL-2.0` `Docker`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Money management](https://en.wikipedia.org/wiki/Money_management) and budgeting software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Software for [monitoring](https://en.wikipedia.org/wiki/Monitoring#Computing) systems, networks, applications and websites."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Note taking](https://en.wikipedia.org/wiki/Note-taking) editors."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "_Related: [Wikis](#wikis)_"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Docs](https://docs.numerique.gouv.fr/) - Collaborative note taking, wiki and documentation platform that scales. ([Source Code](https://github.com/suitenumerique/docs)) `MIT` `K8S`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "knowledge base",
+    "line": "- [Memos](https://usememos.com/) - Knowledge base that works with a SQLite db file. ([Demo](https://demo.usememos.com/explore), [Source Code](https://github.com/usememos/memos)) `MIT` `Docker/Go`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "notion",
+    "line": "- [NoteDiscovery](https://www.notediscovery.com/) - Markdown note-taking app with plain-file storage, graph view, and MCP integration (alternative to Obsidian, Notion). ([Demo](https://gamosoft-notediscovery-demo.hf.space), [Source Code](https://github.com/gamosoft/NoteDiscovery)) `MIT` `Docker/Python`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "knowledge base",
+    "line": "- [TriliumNext Notes](https://github.com/TriliumNext/Trilium) - Cross-platform hierarchical note taking application with focus on building large personal knowledge bases (fork of Trilium Notes). `AGPL-3.0` `Nodejs/Docker/K8S`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "An [office suite](https://en.wikipedia.org/wiki/List_of_office_suites) is a collection of productivity software usually containing at least a word processor, spreadsheet and a presentation program."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "A [password manager](https://en.wikipedia.org/wiki/Password_manager) allows users to store, generate, and manage their passwords for local applications and online services."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content-hosting service used for sharing and storing code and text."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "A [gallery](https://en.wikipedia.org/wiki/Gallery_Software) is software that helps the user publish or share photos, pictures, videos or other digital media."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Software for organising [polls](https://en.wikipedia.org/wiki/Opinion_poll) and [events](https://en.wikipedia.org/wiki/Event)."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "A [proxy](https://en.wikipedia.org/wiki/Proxy_server) is a server application that acts as an intermediary between a client requesting a resource and the server providing that resource. This section about forward (i.e. outgoing) proxies. For reverse proxies, see the Web Server section."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "outline",
+    "line": "- [Outline Server](https://getoutline.org/) - A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ([Source Code](https://github.com/OutlineFoundation/outline-server)) `Apache-2.0` `Docker/Nodejs`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe)."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Remote desktop](https://en.wikipedia.org/wiki/Remote_desktop_software) and [SSH](https://en.wikipedia.org/wiki/Secure_Shell) servers and web interfaces for remote management of computer systems."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Software and tools to help with [resource and supply planning](https://en.wikipedia.org/wiki/Resource_planning), including [enterprise resource and supply planning (ERP)](https://en.wikipedia.org/wiki/Enterprise_resource_planning)."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an [information retrieval system](https://en.wikipedia.org/wiki/Information_retrieval) designed to help find information stored on a computer system. This includes [Web search engines](https://en.wikipedia.org/wiki/Web_search_engine)."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [UBOS](https://ubos.net/) - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, WordPress, etc., and other features. `GPL-3.0` `Perl`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [WikiSuite](https://wikisuite.org) - The most comprehensive and integrated Free / Libre / Open Source enterprise software suite. ([Source Code](https://wikisuite.org/Source-Code)) `GPL-3.0/LGPL-2.1/Apache-2.0/MPL-2.0/MPL-1.1/MIT/AGPL-3.0` `Shell/Perl/deb`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Software development](https://en.wikipedia.org/wiki/Software_development) is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components."
+  },
+  {
+    "product": "retool",
+    "list": "awesome-selfhosted",
+    "keyword": "low-code",
+    "line": "**Please visit [Software Development - API Management](#software-development---api-management), [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment), [Software Development - FaaS & Serverless](#software-development---faas--serverless), [Software Development - IDE & Tools](#software-development---ide--tools), [Software Development - Localization](#software-development---localization), [Software Development - Low Code](#software-d"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[API management](https://en.wikipedia.org/wiki/API_management) is the process of creating and publishing [application programming interfaces (APIs)](https://en.wikipedia.org/wiki/API), enforcing their usage policies, controlling access, nurturing the subscriber community, collecting and analyzing usage statistics, and reporting on performance."
+  },
+  {
+    "product": "postman",
+    "list": "awesome-selfhosted",
+    "keyword": "hoppscotch",
+    "line": "- [Hoppscotch Community Edition](https://hoppscotch.io) - Fast and beautiful API request builder. ([Source Code](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment) software and tools."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Serverless computing](https://en.wikipedia.org/wiki/Serverless_computing), [Function as a Service (FaaS)](https://en.wikipedia.org/wiki/Function_as_a_service) and [Platform as a Service (Paas)](https://en.wikipedia.org/wiki/Platform_as_a_service) management software."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "A [feature toggle](https://en.wikipedia.org/wiki/Feature_toggle) in software development provides an alternative to maintaining multiple feature branches in source code."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment) is a software application that provides comprehensive facilities to computer programmers for software development."
+  },
+  {
+    "product": "retool",
+    "list": "awesome-selfhosted",
+    "keyword": "low-code",
+    "line": "_Related: [Software Development - Low Code](#software-development---low-code)_"
+  },
+  {
+    "product": "retool",
+    "list": "awesome-selfhosted",
+    "keyword": "internal tool",
+    "line": "- [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON. ([Source Code](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs/Docker`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) is the process of adapting code and software to other languages."
+  },
+  {
+    "product": "retool",
+    "list": "awesome-selfhosted",
+    "keyword": "low code",
+    "line": "### Software Development - Low Code"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "A [low-code](https://en.wikipedia.org/wiki/Low-code_development_platform) development platform (LCDP) provides a development environment used to create application software through a graphical user interface."
+  },
+  {
+    "product": "retool",
+    "list": "awesome-selfhosted",
+    "keyword": "low-code",
+    "line": "A [low-code](https://en.wikipedia.org/wiki/Low-code_development_platform) development platform (LCDP) provides a development environment used to create application software through a graphical user interface."
+  },
+  {
+    "product": "retool",
+    "list": "awesome-selfhosted",
+    "keyword": "appsmith",
+    "line": "- [Appsmith](https://www.appsmith.com/) - Build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker/K8S`"
+  },
+  {
+    "product": "retool",
+    "list": "awesome-selfhosted",
+    "keyword": "retool",
+    "line": "- [ToolJet](https://tooljet.io/) - Low-code framework to build & deploy internal tools with minimal engineering effort (alternative to Retool and Mendix). ([Source Code](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs/Docker/K8S`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Tools and software for [software project management](https://en.wikipedia.org/wiki/Software_project_management)."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD` `C`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [GitLab](https://about.gitlab.com) - Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis. ([Demo](https://gitlab.com/), [Source Code](https://gitlab.com/gitlab-org/gitlab-foss)) `MIT` `Ruby/deb/Docker/K8S`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "notion",
+    "line": "- [Huly](https://huly.io) - All-in-one project management platform (alternative to Linear, Jira, Slack, Notion, Motion). ([Demo](https://app.huly.io), [Source Code](https://github.com/hcengineering/platform)) `EPL-2.0` `Docker/K8S/Nodejs`"
+  },
+  {
+    "product": "canva",
+    "list": "awesome-selfhosted",
+    "keyword": "canva",
+    "line": "- [Ideon](https://www.theideon.com) - Project workspace built around an infinite canvas; embed GitHub, GitLab, Gitea, and Forgejo repositories alongside notes, links, and tasks, with real-time collaboration. ([Source Code](https://github.com/3xpyth0n/ideon)) `AGPL-3.0` `Docker`"
+  },
+  {
+    "product": "trello",
+    "list": "awesome-selfhosted",
+    "keyword": "trello",
+    "line": "- [Paca](https://paca-ai.org) - AI-native project management platform where AI agents and humans collaborate as Scrum teammates on the same board and sprints. Configurable via config files and WASM plugins (alternative to Jira, Trello, ClickUp and Monday). ([Source Code](https://github.com/Paca-AI/paca)) `Apache-2.0` `Docker/K8S`"
+  },
+  {
+    "product": "trello",
+    "list": "awesome-selfhosted",
+    "keyword": "kanban",
+    "line": "- [Taiga](https://www.taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods. ([Source Code](https://github.com/kaleidos-ventures)) `MPL-2.0` `Docker/Python/Nodejs`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Trac](https://trac.edgewall.org/) - Trac is an enhanced wiki and issue tracking system for software development projects. `BSD-3-Clause` `Python/deb`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Tools and software for [software testing](https://en.wikipedia.org/wiki/Software_testing)."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Static site generators](https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators) generate full static HTML websites based on raw data, plain text files and a set of templates."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Task management](https://en.wikipedia.org/wiki/Task_management#Task_management_software) software."
+  },
+  {
+    "product": "trello",
+    "list": "awesome-selfhosted",
+    "keyword": "kanban",
+    "line": "- [4ga Boards](https://4gaboards.com) - Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity. ([Demo](https://demo.4gaboards.com), [Source Code](https://github.com/RARgames/4gaBoards)) `MIT` `Nodejs/Docker/K8S`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "notion",
+    "line": "- [AppFlowy](https://appflowy.io/) - Build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative. ([Source Code](https://github.com/AppFlowy-IO/appflowy)) `AGPL-3.0` `Rust/Dart/Docker`"
+  },
+  {
+    "product": "trello",
+    "list": "awesome-selfhosted",
+    "keyword": "trello",
+    "line": "- [Kan](https://kan.bn/) - Flexible kanban app that helps you organise work, track progress, and deliver results (alternative to Trello). ([Source Code](https://github.com/kanbn/kan)) `AGPL-3.0` `Docker`"
+  },
+  {
+    "product": "trello",
+    "list": "awesome-selfhosted",
+    "keyword": "kanban",
+    "line": "- [Nullboard](https://github.com/apankrat/nullboard) - Single-page minimalist kanban board; compact, highly readable and quick to use. ([Demo](https://nullboard.io/preview)) `BSD-2-Clause` `Javascript`"
+  },
+  {
+    "product": "trello",
+    "list": "awesome-selfhosted",
+    "keyword": "trello",
+    "line": "- [Tellor](https://tellor.cc/) - Minimalist single-user kanban todo app. Clean, simplified, and compact UI. Can import boards from Trello. ([Demo](https://tellor.cc/demo/?b=18486f63be6bb5f2), [Source Code](https://github.com/Voldrix/Tellor)) `MIT` `PHP`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Tracks](https://www.getontracks.org/) - Web-based application to help you implement David Allen’s [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology. ([Source Code](https://github.com/TracksApp/tracks)) `GPL-2.0` `Ruby`"
+  },
+  {
+    "product": "trello",
+    "list": "awesome-selfhosted",
+    "keyword": "trello",
+    "line": "- [Wekan](https://wekan.github.io/) - Trello-like kanban. ([Source Code](https://github.com/wekan/wekan)) `MIT` `Nodejs`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Helpdesk](https://en.wikipedia.org/wiki/Help_desk_software), [bug](https://en.wikipedia.org/wiki/Bug_tracking_system) and [issue](https://en.wikipedia.org/wiki/Issue_tracking_system) tracking software to help the tracking of user requests, bugs and missing features."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[Time-tracking software](https://en.wikipedia.org/wiki/Time-tracking_software) is a category of computer software that allows its users to record time spent on tasks or projects."
+  },
+  {
+    "product": "trello",
+    "list": "awesome-selfhosted",
+    "keyword": "kanban",
+    "line": "- [TimeTracker](https://timetracker.drytrix.com/) - Track time across projects and clients, with timers, kanban tasks, CRM, expense tracking, multi-currency invoicing (PDF, Peppol/ZugFerd e-invoicing), reports, OIDC/SSO, and a REST API. ([Source Code](https://github.com/drytrix/TimeTracker)) `GPL-3.0` `Docker`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "[URL shortening](https://en.wikipedia.org/wiki/URL_shortening) is the action of shortening a [URL](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) to make it substantially shorter and still direct to the required page. Before hosting one, please see [disadvantages](https://en.wikipedia.org/wiki/URL_shortening#Disadvantages) of URL shorteners."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Video surveillance, also known as [Closed-circuit television (CCTV)](https://en.wikipedia.org/wiki/Closed-circuit_television), is the use of video cameras for surveillance in areas that require additional security or ongoing monitoring."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "A [virtual private network (VPN)](https://en.wikipedia.org/wiki/Virtual_private_network) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "Web Servers and Reverse Proxies. A [web server](https://en.wikipedia.org/wiki/Web_server) is a piece of software and underlying hardware that accepts requests via [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (the network protocol created to distribute web content) or its secure variant [HTTPS](https://en.wikipedia.org/wiki/HTTPS). A [Reverse Proxy](https://en.wikipedia.org/wiki/Reverse_proxy) is a proxy server that appears to any client to be an ordinary web server, but in r"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "### Wikis"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "A [wiki](https://en.wikipedia.org/wiki/Wiki) is a publication collaboratively edited and managed by its own audience directly using a web browser."
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "_See also: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki software - Wikipedia](https://en.wikipedia.org/wiki/List_of_wiki_software), [Comparison of wiki software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)_"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ([Source Code](https://github.com/melmothx/amusewiki)) `GPL-1.0` `Perl/Docker`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [django-wiki](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "notion",
+    "line": "- [docmost Community Edition](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Documize](https://documize.com) - Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona. ([Source Code](https://github.com/documize/community)) `AGPL-3.0` `Go`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required. ([Source Code](https://github.com/dokuwiki/dokuwiki)) `GPL-2.0` `PHP`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Feather Wiki](https://feather.wiki) - A lightning fast and infinitely extensible tool for creating personal non-linear notebooks, databases, and wikis that is entirely self-contained, runs in your browser, and is only 58 kilobytes in size. ([Demo](https://feather.wiki/?page=gallery#wikis), [Source Code](https://codeberg.org/Alamantus/FeatherWiki), [Clients](https://feather.wiki/?page=gallery#extensions)) `AGPL-3.0` `Javascript`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Gitit](https://github.com/jgm/gitit) - Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. `GPL-2.0` `Haskell`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [LeafWiki](https://github.com/perber/leafwiki) - A fast wiki for people who think in folders, not feeds. Fast editing. Tree navigation. Markdown on disk. ([Demo](https://demo.leafwiki.com)) `MIT` `Docker/Go`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - Wiki software package that powers Wikipedia and all other Wikimedia projects, serving hundreds of millions of users each month. ([Demo](https://en.wikipedia.org/wiki/Main_Page), [Source Code](https://phabricator.wikimedia.org/source/mediawiki/)) `GPL-2.0` `PHP`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Otter Wiki](https://otterwiki.com/) - Simple, easy to use wiki software using markdown. ([Source Code](https://github.com/redimp/otterwiki)) `MIT` `Docker`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [PmWiki](https://www.pmwiki.org) - Wiki-based system for collaborative creation and maintenance of websites. `GPL-3.0` `PHP`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [TiddlyWiki](https://tiddlywiki.com/) - Reusable non-linear personal web notebook. ([Source Code](https://github.com/TiddlyWiki/TiddlyWiki5)) `BSD-3-Clause` `Nodejs`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Tiki](https://tiki.org/HomePage) - Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Try-Tiki), [Source Code](https://gitlab.com/tikiwiki/tiki)) `LGPL-2.1` `PHP`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [W](https://w.club1.fr) - Lightweight, mutli-user, flat-file-database Wiki engine. Create pages quickly and edit them in your Web browser using Mardown/HTML/CSS/JS. The main difference with other wiki is that you are encouraged to customize each page style individually. ([Source Code](https://github.com/vincent-peugnet/wcms)) `AGPL-3.0` `PHP`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [WackoWiki](https://wackowiki.org/) - WackoWiki is a light and easy to install multilingual Wiki-engine. ([Source Code](https://github.com/WackoWiki/wackowiki)) `BSD-3-Clause` `PHP`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Wiki-Go](https://leomoon.com/downloads/web-apps/wiki-go/) - A modern, feature-rich, databaseless flat-file wiki platform. ([Demo](https://wikigo.leomoon.com), [Source Code](https://github.com/leomoon-studios/wiki-go)) `GPL-3.0` `Go/Docker`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Wiki.js](https://js.wiki/) - Modern, lightweight and powerful wiki app using Git and Markdown. ([Demo](https://docs.requarks.io), [Source Code](https://github.com/Requarks/wiki)) `AGPL-3.0` `Nodejs/Docker/K8S`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [WikiDocs](https://www.wikidocs.app/) - A databaseless markdown flat-file wiki engine. ([Source Code](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [WiKiss](https://wikiss.tuxfamily.org/) - Wiki, simple to use and install. ([Source Code](https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0)) `GPL-2.0` `PHP`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [XWiki](https://www.xwiki.org) - Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](https://www.xwikiplayground.org/xwiki/bin/view/Main/), [Source Code](https://github.com/xwiki/xwiki-platform)) `LGPL-2.1` `Java/Docker/deb`"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-selfhosted",
+    "keyword": "wiki",
+    "line": "- [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python/deb`"
+  },
+  {
+    "product": "postman",
+    "list": "awesome-oss-alternatives",
+    "keyword": "postman",
+    "line": "API Platform|[Firecamp](https://firecamp.dev/)|DX first open-source API devtool|<a href=https://github.com/firecamp-dev/firecamp><img src=\"https://img.shields.io/github/stars/firecamp-dev/firecamp?style=social\" width=150/></a>|[Postman](https://www.postman.com/)"
+  },
+  {
+    "product": "postman",
+    "list": "awesome-oss-alternatives",
+    "keyword": "postman",
+    "line": "API Platform|[Fusio](https://github.com/apioo/fusio)|API management platform|<a href=https://github.com/apioo/fusio><img src=\"https://img.shields.io/github/stars/apioo/fusio?style=social\" width=150/></a>|[Postman](https://www.postman.com/)"
+  },
+  {
+    "product": "postman",
+    "list": "awesome-oss-alternatives",
+    "keyword": "postman",
+    "line": "API Platform|[Hoppscotch](https://hoppscotch.io/)|API development ecosystem|<a href=https://github.com/hoppscotch/hoppscotch><img src=\"https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social\" width=150/></a>|[Postman](https://www.postman.com/)"
+  },
+  {
+    "product": "postman",
+    "list": "awesome-oss-alternatives",
+    "keyword": "postman",
+    "line": "API Platform|[Keploy](https://keploy.io/)|e2e Testing and Data Mocking|<a href=https://github.com/keploy/keploy><img src=\"https://img.shields.io/github/stars/keploy/keploy?style=social\" width=150/></a>|[Smartbear](https://smartbear.com/), [Newman](https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/)"
+  },
+  {
+    "product": "postman",
+    "list": "awesome-oss-alternatives",
+    "keyword": "postman",
+    "line": "API Platform|[Step CI](https://stepci.com/)|API Testing and Monitoring|<a href=https://github.com/stepci/stepci><img src=\"https://img.shields.io/github/stars/stepci/stepci?style=social\" width=150/></a>|[Checkly](https://www.checklyhq.com), [Postman](https://www.postman.com/)"
+  },
+  {
+    "product": "canva",
+    "list": "awesome-oss-alternatives",
+    "keyword": "figma",
+    "line": "Design|[Modulz](https://www.modulz.app/)|Code-based tool for designing and prototyping|<a href=https://github.com/radix-ui/primitives><img src=\"https://img.shields.io/github/stars/radix-ui/primitives?style=social\" width=150/></a>|[Figma](https://www.figma.com/)|"
+  },
+  {
+    "product": "canva",
+    "list": "awesome-oss-alternatives",
+    "keyword": "penpot",
+    "line": "Design|[Penpot](https://penpot.app/)|Design & prototyping platform|<a href=https://github.com/penpot/penpot><img src=\"https://img.shields.io/github/stars/penpot/penpot?style=social\" width=150/></a>|[Figma](https://www.figma.com/)|"
+  },
+  {
+    "product": "retool",
+    "list": "awesome-oss-alternatives",
+    "keyword": "retool",
+    "line": "Internal Tools|[AppSmith](https://www.appsmith.com/)|Low-code platform for internal tools|<a href=https://github.com/appsmithorg/appsmith><img src=\"https://img.shields.io/github/stars/appsmithorg/appsmith?style=social\" width=150/></a>|[Retool](https://retool.com/)"
+  },
+  {
+    "product": "retool",
+    "list": "awesome-oss-alternatives",
+    "keyword": "retool",
+    "line": "Internal Tools|[Budibase](https://budibase.com/)|Low-code platform for internal tools|<a href=https://github.com/Budibase/budibase><img src=\"https://img.shields.io/github/stars/Budibase/budibase?style=social\" width=150/></a>|[Retool](https://retool.com/)"
+  },
+  {
+    "product": "retool",
+    "list": "awesome-oss-alternatives",
+    "keyword": "retool",
+    "line": "Internal Tools|[ILLA Cloud](https://www.illacloud.com/)|Low-code platform for developers to build internal tools in minutes.|<a href=https://github.com/illacloud/illa-builder><img src=\"https://img.shields.io/github/stars/illacloud/illa-builder?style=social\" width=150/></a>|[Retool](https://retool.com/)"
+  },
+  {
+    "product": "retool",
+    "list": "awesome-oss-alternatives",
+    "keyword": "retool",
+    "line": "Internal Tools|[Lowdefy](https://lowdefy.com/)|YAML-based low-code platform for internal tools|<a href=https://github.com/lowdefy/lowdefy><img src=\"https://img.shields.io/github/stars/lowdefy/lowdefy?style=social\" width=150/></a>|[Retool](https://retool.com/)"
+  },
+  {
+    "product": "retool",
+    "list": "awesome-oss-alternatives",
+    "keyword": "retool",
+    "line": "Internal Tools|[Tooljet](https://tooljet.io/)|Low-code framework for internal tools|<a href=https://github.com/tooljet/tooljet><img src=\"https://img.shields.io/github/stars/tooljet/tooljet?style=social\" width=150/></a>|[Retool](https://retool.com/)"
+  },
+  {
+    "product": "retool",
+    "list": "awesome-oss-alternatives",
+    "keyword": "retool",
+    "line": "Internal Tools|[Windmill](https://windmill.dev/)|Company-wide apps and automations from minimal python or typescript scripts|<a href=https://github.com/windmill-labs/windmill><img src=\"https://img.shields.io/github/stars/windmill-labs/windmill?style=social\" width=150/></a>|[Retool](https://retool.com/)|"
+  },
+  {
+    "product": "retool",
+    "list": "awesome-oss-alternatives",
+    "keyword": "low-code",
+    "line": "Metrics store|[LightDash](https://www.lightdash.com/)|Low-code metrics layer, alternative to Looker|<a href=https://github.com/lightdash/lightdash><img src=\"https://img.shields.io/github/stars/lightdash/lightdash?style=social\" width=150/></a>|[Looker](https://looker.com/)"
+  },
+  {
+    "product": "retool",
+    "list": "awesome-oss-alternatives",
+    "keyword": "low-code",
+    "line": "Metrics store|[MLCraft](http://mlcraft.io/)|Low-code metrics layer, alternative to Looker|<a href=https://github.com/mlcraft-io/mlcraft><img src=\"https://img.shields.io/github/stars/mlcraft-io/mlcraft?style=social\" width=150/></a>|[Looker](https://looker.com/)"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-oss-alternatives",
+    "keyword": "notion",
+    "line": "Notetaking|[AppFlowy](https://www.appflowy.io/)|Open-source alternative to Notion|<a href=https://github.com/AppFlowy-IO/appflowy><img src=\"https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social\" width=150/></a>|[Notion](https://www.notion.so/)"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-oss-alternatives",
+    "keyword": "notion",
+    "line": "Notetaking|[Bangle.io](https://bangle.io/)|A rich note note taking web app that works on top of your locally saved Markdown files|<a href=https://github.com/bangle-io/bangle-io><img src=\"https://img.shields.io/github/stars/bangle-io/bangle-io?style=social\" width=150/></a>|[Notion](https://www.notion.so/)|"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-oss-alternatives",
+    "keyword": "notion",
+    "line": "Notetaking|[Boost Note](https://boostnote.io/)|Collaborative workspace for developer teams|<a href=https://github.com/BoostIO/BoostNote-App><img src=\"https://img.shields.io/github/stars/BoostIO/BoostNote-App?style=social\" width=150/></a>|[Notion](https://www.notion.so/)|"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-oss-alternatives",
+    "keyword": "knowledge base",
+    "line": "Notetaking|[Dendron](https://www.dendron.so/)|Knowledge base plugin for VS Code|<a href=https://github.com/dendronhq/dendron><img src=\"https://img.shields.io/github/stars/dendronhq/dendron?style=social\" width=150/></a>|[Roam Research](https://roamresearch.com/)|"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-oss-alternatives",
+    "keyword": "knowledge base",
+    "line": "Notetaking|[Logseq](https://logseq.com/)|Knowledge base manager|<a href=https://github.com/logseq/logseq><img src=\"https://img.shields.io/github/stars/logseq/logseq?style=social\" width=150/></a>|[Roam Research](https://roamresearch.com/)|"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-oss-alternatives",
+    "keyword": "notion",
+    "line": "Notetaking|[Notabase](https://notabase.io)|Powerful and easy-to-use note-taking app for networked thinking|<a href=https://github.com/churichard/notabase><img src=\"https://img.shields.io/github/stars/churichard/notabase?style=social\" width=150/></a>|[Notion](https://www.notion.so/), [Roam Research](https://roamresearch.com/)|"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-oss-alternatives",
+    "keyword": "notion",
+    "line": "Notetaking|[Outline](https://www.getoutline.com/)|Wiki and knowledge base|<a href=https://github.com/outline/outline><img src=\"https://img.shields.io/github/stars/outline/outline?style=social\" width=150/></a>|[Notion](https://notion.so)|"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-oss-alternatives",
+    "keyword": "knowledge base",
+    "line": "Notetaking|[Trilium.cc](https://trilium.cc/)|Personal knowledge base|<a href=https://github.com/zadam/trilium><img src=\"https://img.shields.io/github/stars/zadam/trilium?style=social\" width=150/></a>|[Evernote](https://evernote.com/), [Onenote](https://www.onenote.com/)"
+  },
+  {
+    "product": "notion",
+    "list": "awesome-oss-alternatives",
+    "keyword": "notion",
+    "line": "Project Management|[Focalboard](https://www.focalboard.com/)|Alternative to Trello, Notion, and Asana|<a href=https://github.com/mattermost/focalboard><img src=\"https://img.shields.io/github/stars/mattermost/focalboard?style=social\" width=150/></a>|[Trello](https://trello.com/), [Notion](https://www.notion.so/), [Asana](https://asana.com/)|"
+  },
+  {
+    "product": "trello",
+    "list": "awesome-oss-alternatives",
+    "keyword": "trello",
+    "line": "Project Management|[Focalboard](https://www.focalboard.com/)|Alternative to Trello, Notion, and Asana|<a href=https://github.com/mattermost/focalboard><img src=\"https://img.shields.io/github/stars/mattermost/focalboard?style=social\" width=150/></a>|[Trello](https://trello.com/), [Notion](https://www.notion.so/), [Asana](https://asana.com/)|"
+  },
+  {
+    "product": "trello",
+    "list": "awesome-oss-alternatives",
+    "keyword": "trello",
+    "line": "Project Management|[OpenProject](https://www.openproject.org/)|Project management software|<a href=https://github.com/opf/openproject><img src=\"https://img.shields.io/github/stars/opf/openproject?style=social\" width=150/></a>|[Asana](https://asana.com/), [Trello](https://trello.com/)|"
+  },
+  {
+    "product": "trello",
+    "list": "awesome-oss-alternatives",
+    "keyword": "trello",
+    "line": "Project Management|[Plane](https://plane.so/)|Alternative to Linear, JIRA, Trello and Height|<a href=https://github.com/makeplane/plane><img src=\"https://img.shields.io/github/stars/makeplane/plane?style=social\" width=150/></a>|[Linear](https://linear.app/), [JIRA](https://www.atlassian.com/software/jira), [Trello](https://trello.com/), [Height](https://height.app/)|"
+  },
+  {
+    "product": "trello",
+    "list": "awesome-oss-alternatives",
+    "keyword": "trello",
+    "line": "Project Management|[Taiga](https://www.taiga.io/)|Project management software|<a href=https://github.com/kaleidos-ventures/taiga-docker><img src=\"https://img.shields.io/github/stars/kaleidos-ventures/taiga-docker?style=social\" width=150/></a>|[Asana](https://asana.com/), [Trello](https://trello.com/), [Jira](https://www.atlassian.com/software/jira)|"
+  },
+  {
+    "product": "trello",
+    "list": "awesome-oss-alternatives",
+    "keyword": "trello",
+    "line": "Project Management|[Vikunja](https://vikunja.io/)|The to-do app to organize your next project.|<a href=https://github.com/go-vikunja/api><img src=\"https://img.shields.io/github/stars/go-vikunja/api?style=social\" width=150/></a>|[Todoist](https://todoist.com), [Trello](https://trello.com), [Asana](https://asana.com)|"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "vals": {
+    "source_updated": "2026-10-18",
+    "version": "1.1",
+    "substep_pass_pct": 90,
+    "limit_hours": 5,
+    "limit_turns": 1000,
+    "rows": 114,
+    "url": "https://www.vals.ai/benchmarks/vibe-code",
+    "retrieved_utc": "",
+    "sha256": "655617429ae2983b3018f5319828d300cd2e3d248dff2b67c5ae5694856c5567"
+  },
+  "survey": {
+    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+    "retrieved_utc": "",
+    "access_date": "2026-10-19",
+    "transport": "web tool extracted text; direct HTTP connection failed",
+    "sha256": "e0ce4f49ea301f530acfdda2f696602b77faa154abcd7b725be942325c07f3c1"
+  },
+  "model_sample": [
+    "Claude Sonnet 5.5",
+    "Claude Haiku 5.5",
+    "Claude Opus 5.5",
+    "Claude Fable 5.1",
+    "GPT-6 Astra",
+    "GPT-6.1 Sol",
+    "Gemini 4 Argon",
+    "Grok 4.7",
+    "DeepSeek V4.1 Flash 1017"
+  ],
+  "processed_utc": ""
+}

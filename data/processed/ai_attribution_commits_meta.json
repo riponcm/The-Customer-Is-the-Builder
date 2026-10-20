@@ -1,0 +1,10 @@
+{
+  "retrieved_first": "",
+  "retrieved_last": "",
+  "first_month": "2023-01",
+  "last_month": "2026-09",
+  "n_requests_cached": 590,
+  "n_cells_with_incomplete_leaves": 85,
+  "n_cells_retried": 142,
+  "ig_last_quarter": "2026Q1"
+}

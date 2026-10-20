@@ -1,0 +1,68 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Risse"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "quillbot",
+            "alternative"
+          ],
+          "value": "Show HN: Phrasing Bot – open-source <em>alternative</em> to <em>Quillbot</em> and Grammarly"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/Krisseck/Phrasing-Bot"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Risse",
+        "story_40572508",
+        "show_hn"
+      ],
+      "author": "Risse",
+      "created_at": "2024-06-04T09:47:54Z",
+      "created_at_i": 1717494474,
+      "num_comments": 0,
+      "objectID": "40572508",
+      "points": 1,
+      "story_id": 40572508,
+      "title": "Show HN: Phrasing Bot – open-source alternative to Quillbot and Grammarly",
+      "updated_at": "2024-09-20T17:14:36Z",
+      "url": "https://github.com/Krisseck/Phrasing-Bot"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 1,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=quillbot+alternative&tags=show_hn&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 26,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 30,
+      "roundTrip": 15
+    },
+    "fetch": {
+      "query": 24,
+      "total": 25
+    },
+    "total": 26
+  },
+  "query": "quillbot alternative",
+  "serverTimeMS": 56
+}

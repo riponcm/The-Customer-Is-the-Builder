@@ -1,0 +1,8 @@
+{
+  "metr_url": "https://metr.org/assets/benchmark_results_1_1.yaml",
+  "epoch_url": "https://epoch.ai/data/benchmark_data.zip",
+  "retrieved_utc": {
+    "metr": "",
+    "epoch": ""
+  }
+}

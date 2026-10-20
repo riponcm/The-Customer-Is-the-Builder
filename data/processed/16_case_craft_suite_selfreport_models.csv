@@ -1,0 +1,69 @@
+repo,json_head_date,json_commits,model_id,company,model,version,commits,lines_added,lines_deleted,json_total_lines_added
+photocraft,2026-10-10T23:09:26Z,1302,anthropic/claude-opus/5.5,Anthropic,Claude Opus,5.5,736,270451,31636,535828
+photocraft,2026-10-10T23:09:26Z,1302,anthropic/claude,Anthropic,Claude,,49,2547,256,535828
+photocraft,2026-10-10T23:09:26Z,1302,anthropic/claude-opus/4.8,Anthropic,Claude Opus,4.8,46,3973,282,535828
+photocraft,2026-10-10T23:09:26Z,1302,anthropic/claude-fable/5.1,Anthropic,Claude Fable,5.1,14,1041,57,535828
+photocraft,2026-10-10T23:09:26Z,1302,github/copilot,GitHub,Copilot,,6,1094,61,535828
+photocraft,2026-10-10T23:09:26Z,1302,anthropic/claude-mythos/5.1,Anthropic,Claude Mythos,5.1,4,7501,143,535828
+photocraft,2026-10-10T23:09:26Z,1302,anthropic/claude-sonnet/5.5,Anthropic,Claude Sonnet,5.5,3,4220,1172,535828
+photocraft,2026-10-10T23:09:26Z,1302,openai/gpt/6,OpenAI,GPT,6,2,421,28,535828
+photocraft,2026-10-10T23:09:26Z,1302,alibaba/qwen-flash/3.8,Alibaba,Qwen Flash,3.8,1,25,5,535828
+photocraft,2026-10-10T23:09:26Z,1302,anthropic/claude-haiku/4.5,Anthropic,Claude Haiku,4.5,1,134,12,535828
+photocraft,2026-10-10T23:09:26Z,1302,anysphere/cursor,Anysphere,Cursor,,1,75,1,535828
+photocraft,2026-10-10T23:09:26Z,1302,cognition/devin,Cognition,Devin,,1,44,1,535828
+filmcraft,2026-10-10T22:34:28Z,812,anthropic/claude-opus/5.5,Anthropic,Claude Opus,5.5,602,374868,20972,423570
+filmcraft,2026-10-10T22:34:28Z,812,anthropic/claude-sonnet/5.5,Anthropic,Claude Sonnet,5.5,25,18034,957,423570
+filmcraft,2026-10-10T22:34:28Z,812,openai/codex,OpenAI,Codex,,16,3654,503,423570
+filmcraft,2026-10-10T22:34:28Z,812,anthropic/claude-fable/5.1,Anthropic,Claude Fable,5.1,5,322,32,423570
+filmcraft,2026-10-10T22:34:28Z,812,anthropic/claude,Anthropic,Claude,,2,496,35,423570
+filmcraft,2026-10-10T22:34:28Z,812,anthropic/claude-opus/4.8,Anthropic,Claude Opus,4.8,1,1632,3,423570
+lightcraft,2026-10-10T05:40:18Z,1033,anthropic/claude-opus/5.5,Anthropic,Claude Opus,5.5,747,178263,14199,280562
+lightcraft,2026-10-10T05:40:18Z,1033,anthropic/claude-sonnet/5.5,Anthropic,Claude Sonnet,5.5,116,15071,2624,280562
+lightcraft,2026-10-10T05:40:18Z,1033,anthropic/claude,Anthropic,Claude,,66,8450,956,280562
+lightcraft,2026-10-10T05:40:18Z,1033,openai/codex,OpenAI,Codex,,38,17120,1703,280562
+lightcraft,2026-10-10T05:40:18Z,1033,anthropic/claude-fable/5.1,Anthropic,Claude Fable,5.1,9,1548,112,280562
+lightcraft,2026-10-10T05:40:18Z,1033,anthropic/claude-sonnet/5,Anthropic,Claude Sonnet,5,2,298,2,280562
+lightcraft,2026-10-10T05:40:18Z,1033,anthropic/claude-opus/4.8,Anthropic,Claude Opus,4.8,1,1633,3,280562
+lightcraft,2026-10-10T05:40:18Z,1033,deepseek/deepseek-flash/v4,DeepSeek,DeepSeek Flash,V4,1,1439,6,280562
+lightcraft,2026-10-10T05:40:18Z,1033,deepseek/deepseek/v3.2,DeepSeek,DeepSeek,V3.2,1,1895,294,280562
+lightcraft,2026-10-10T05:40:18Z,1033,openai/gpt-6-luna,OpenAI,GPT-6 Luna,,1,68,19,280562
+lightcraft,2026-10-10T05:40:18Z,1033,openai/gpt/6,OpenAI,GPT,6,1,2864,261,280562
+lightcraft,2026-10-10T05:40:18Z,1033,opencode/opencode,opencode,opencode,,1,459,5,280562
+pdfcraft,2026-10-10T21:42:20Z,627,anthropic/claude-opus/5.5,Anthropic,Claude Opus,5.5,452,320722,18683,428442
+pdfcraft,2026-10-10T21:42:20Z,627,openai/codex,OpenAI,Codex,,52,28322,3099,428442
+pdfcraft,2026-10-10T21:42:20Z,627,anthropic/claude-fable/5.1,Anthropic,Claude Fable,5.1,13,1525,217,428442
+pdfcraft,2026-10-10T21:42:20Z,627,anthropic/claude-opus/5,Anthropic,Claude Opus,5,10,4163,230,428442
+pdfcraft,2026-10-10T21:42:20Z,627,anthropic/claude-sonnet/5.5,Anthropic,Claude Sonnet,5.5,7,3556,158,428442
+pdfcraft,2026-10-10T21:42:20Z,627,anthropic/claude-haiku/5.5,Anthropic,Claude Haiku,5.5,6,1813,179,428442
+pdfcraft,2026-10-10T21:42:20Z,627,anthropic/claude,Anthropic,Claude,,2,489,23,428442
+pdfcraft,2026-10-10T21:42:20Z,627,anthropic/claude-opus/4.8,Anthropic,Claude Opus,4.8,2,1708,5,428442
+pdfcraft,2026-10-10T21:42:20Z,627,anthropic/claude-sonnet/5,Anthropic,Claude Sonnet,5,1,55,3,428442
+pdfcraft,2026-10-10T21:42:20Z,627,anysphere/cursor,Anysphere,Cursor,,1,2121,45,428442
+pdfcraft,2026-10-10T21:42:20Z,627,github/copilot,GitHub,Copilot,,1,1478,105,428442
+pdfcraft,2026-10-10T21:42:20Z,627,openai/chatgpt,OpenAI,ChatGPT,,1,272,16,428442
+pdfcraft,2026-10-10T21:42:20Z,627,zhipu/glm,Zhipu AI,GLM,,1,1059,92,428442
+vectorcraft,2026-10-10T00:04:42Z,906,anthropic/claude-opus/5.5,Anthropic,Claude Opus,5.5,787,439476,75146,507453
+vectorcraft,2026-10-10T00:04:42Z,906,anthropic/claude-sonnet/5.5,Anthropic,Claude Sonnet,5.5,22,7688,196,507453
+vectorcraft,2026-10-10T00:04:42Z,906,anthropic/claude-fable/5.1,Anthropic,Claude Fable,5.1,9,8008,2754,507453
+vectorcraft,2026-10-10T00:04:42Z,906,anthropic/claude-opus/4.8,Anthropic,Claude Opus,4.8,4,1729,44,507453
+vectorcraft,2026-10-10T00:04:42Z,906,openai/codex,OpenAI,Codex,,3,448,120,507453
+vectorcraft,2026-10-10T00:04:42Z,906,anysphere/cursor,Anysphere,Cursor,,2,63,25,507453
+vectorcraft,2026-10-10T00:04:42Z,906,anthropic/claude,Anthropic,Claude,,1,55,4,507453
+vectorcraft,2026-10-10T00:04:42Z,906,anthropic/claude-opus/4.7,Anthropic,Claude Opus,4.7,1,94,12,507453
+effectcraft,2026-10-09T17:19:03Z,656,anthropic/claude-opus/5.5,Anthropic,Claude Opus,5.5,603,362122,21289,376419
+effectcraft,2026-10-09T17:19:03Z,656,anthropic/claude,Anthropic,Claude,,16,1577,146,376419
+effectcraft,2026-10-09T17:19:03Z,656,openai/codex,OpenAI,Codex,,5,1046,40,376419
+effectcraft,2026-10-09T17:19:03Z,656,anthropic/claude-opus/4.8,Anthropic,Claude Opus,4.8,1,1632,3,376419
+effectcraft,2026-10-09T17:19:03Z,656,anthropic/claude-sonnet/5.5,Anthropic,Claude Sonnet,5.5,1,59,0,376419
+designcraft,2026-10-08T13:12:32Z,350,anthropic/claude-opus/5.5,Anthropic,Claude Opus,5.5,282,86274,6420,130054
+designcraft,2026-10-08T13:12:32Z,350,openai/codex,OpenAI,Codex,,2,57,8,130054
+designcraft,2026-10-08T13:12:32Z,350,anthropic/claude-opus/4.8,Anthropic,Claude Opus,4.8,1,1633,3,130054
+wordcraft,2026-10-09T13:22:42Z,45,anthropic/claude-opus/5.5,Anthropic,Claude Opus,5.5,34,61120,2060,62390
+wordcraft,2026-10-09T13:22:42Z,45,anthropic/claude-opus/4.8,Anthropic,Claude Opus,4.8,1,22,1,62390
+gridcraft,2026-10-10T19:59:42Z,148,anthropic/claude-opus/5.5,Anthropic,Claude Opus,5.5,58,83111,4992,99088
+gridcraft,2026-10-10T19:59:42Z,148,openai/codex,OpenAI,Codex,,3,173,24,99088
+deckcraft,2026-10-09T14:48:26Z,41,anthropic/claude-opus/5.5,Anthropic,Claude Opus,5.5,33,126890,4162,128592
+deckcraft,2026-10-09T14:48:26Z,41,anthropic/claude-fable/5.1,Anthropic,Claude Fable,5.1,1,65,1,128592
+cadcraft,2026-10-08T13:12:32Z,26,anthropic/claude-opus/5.5,Anthropic,Claude Opus,5.5,25,70529,3388,70536
+soundcraft,2026-10-10T18:08:49Z,111,anthropic/claude-opus/5.5,Anthropic,Claude Opus,5.5,73,82279,2544,85489
+soundcraft,2026-10-10T18:08:49Z,111,anthropic/claude-haiku/5.5,Anthropic,Claude Haiku,5.5,5,368,35,85489

@@ -1,0 +1,79 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "aashishharishch"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "grammar",
+            "checker"
+          ],
+          "value": "Lexicon is a rich-text editor with <em>grammar</em> checking and AI writing tools (rewriting, tone shifting, and summarizing) that run entirely on your machine. No account, no API calls, and nothing uploaded. <em>Grammar</em>/spelling/punctuation checking runs through LanguageTool locally; the AI tools run through a small quantized model bundled with the app via llama.cpp, or your own Ollama server if you already run one. It's a desktop app installer for Windows and macOS on the releases page, with an in-app auto-updater.<p><em>Check</em> it out: <a href=\"https://lexicon-writer.pages.dev/\" rel=\"nofollow\">https://lexicon-writer.pages.dev/</a>\nMIT licensed. Repo: <a href=\"https://github.com/AashishH15/Lexicon\" rel=\"nofollow\">https://github.com/AashishH15/Lexicon</a><p>Please let me know what you think of the app!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: Lexicon a free Grammarly <em>alternative</em>, local writing assistant"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://lexicon-writer.pages.dev/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_aashishharishch",
+        "story_49062897",
+        "show_hn"
+      ],
+      "author": "aashishharishch",
+      "children": [
+        49065297
+      ],
+      "created_at": "2026-07-26T22:03:09Z",
+      "created_at_i": 1785103389,
+      "num_comments": 2,
+      "objectID": "49062897",
+      "points": 1,
+      "story_id": 49062897,
+      "story_text": "Lexicon is a rich-text editor with grammar checking and AI writing tools (rewriting, tone shifting, and summarizing) that run entirely on your machine. No account, no API calls, and nothing uploaded. Grammar&#x2F;spelling&#x2F;punctuation checking runs through LanguageTool locally; the AI tools run through a small quantized model bundled with the app via llama.cpp, or your own Ollama server if you already run one. It&#x27;s a desktop app installer for Windows and macOS on the releases page, with an in-app auto-updater.<p>Check it out: <a href=\"https:&#x2F;&#x2F;lexicon-writer.pages.dev&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;lexicon-writer.pages.dev&#x2F;</a>\nMIT licensed. Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;AashishH15&#x2F;Lexicon\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;AashishH15&#x2F;Lexicon</a><p>Please let me know what you think of the app!",
+      "title": "Show HN: Lexicon a free Grammarly alternative, local writing assistant",
+      "updated_at": "2026-07-29T04:28:38Z",
+      "url": "https://lexicon-writer.pages.dev/"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 1,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=grammar+checker+alternative&tags=show_hn&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 15,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 23
+    },
+    "fetch": {
+      "query": 14,
+      "total": 15
+    },
+    "total": 15
+  },
+  "query": "grammar checker alternative",
+  "serverTimeMS": 16
+}

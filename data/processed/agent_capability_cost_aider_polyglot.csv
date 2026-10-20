@@ -1,0 +1,78 @@
+model,organization,release_date,eval_date,pct_correct,cost_usd,edit_format,date_conflict,usable
+gpt-oss-120b_high,OpenAI,2025-08-05,,41.8,0.0033,diff,False,False
+Qwen3-235B-A22B,Alibaba,2025-04-29,,59.6,,diff,False,False
+,,,,52.9,,diff,False,False
+DeepSeek-V3.2-Exp,DeepSeek,2025-09-29,,70.2,0.0039,diff,False,False
+DeepSeek-V3.2-Exp_thinking,DeepSeek,2025-09-29,,74.2,0.0058,diff,False,False
+gpt-5-2025-08-07_low,OpenAI,2025-08-07,2025-08-25,81.3,10.3713,diff,False,True
+gpt-5-2025-08-07_medium,OpenAI,2025-08-07,2025-08-25,86.7,17.693,diff,False,True
+gpt-5-2025-08-07_high,OpenAI,2025-08-07,2025-08-23,88.0,29.0829,diff,False,True
+o3-2025-04-16_medium,OpenAI,2025-04-16,,76.9,0.061,diff,False,False
+grok-3-mini-beta_low,xAI,2025-04-09,2025-04-10,34.7,0.7856,whole,False,True
+openhands-lm-32b-v0.1,,2024-03-26,2025-04-19,10.2,0.0,whole,False,False
+Kimi-K2-Instruct,Moonshot,2025-07-12,,59.1,0.0055,diff,False,False
+grok-4-0709,xAI,2025-07-09,,79.6,0.094,diff,False,False
+o3-pro-2025-06-10_high,OpenAI,2025-06-10,2025-06-28,84.9,146.3249,diff,False,True
+gemini-2.5-pro-preview-05-06,Google DeepMind,2025-05-06,2025-05-07,76.9,37.4104,diff-fenced,False,True
+gemini-2.5-pro-preview-06-05,Google DeepMind,2025-06-05,2025-06-06,79.1,45.5961,diff-fenced,False,True
+gemini-2.5-pro-preview-06-05_32K,Google DeepMind,2025-06-05,2025-06-06,83.1,49.8822,diff-fenced,False,True
+gemini-2.5-flash-preview-05-20_23K,Google DeepMind,2025-05-20,2025-05-25,55.1,8.5625,diff,False,True
+gemini-2.5-flash-preview-05-20,Google DeepMind,2025-05-20,2025-05-26,44.0,1.1354,diff,False,True
+claude-sonnet-4-20250514,Anthropic,2025-05-22,2025-05-24,56.4,15.8155,diff,False,True
+claude-sonnet-4-20250514_32K,Anthropic,2025-05-22,2025-05-24,61.3,26.5755,diff,False,True
+claude-opus-4-20250514,Anthropic,2025-05-22,2025-05-25,70.7,68.6253,diff,False,True
+claude-opus-4-20250514_32K,Anthropic,2025-05-22,2025-05-25,72.0,65.7484,diff,False,True
+Qwen3-32B,Alibaba,2025-04-29,2025-05-08,40.0,0.7603,diff,False,True
+Llama-4-Maverick-17B-128E-Instruct,Meta AI,2025-04-05,2025-04-06,15.6,0.0,whole,False,False
+gpt-4.1-mini-2025-04-14,OpenAI,2025-04-14,2025-04-14,32.4,1.9918,diff,False,True
+gpt-4.1-nano-2025-04-14,OpenAI,2025-04-14,2025-04-14,8.9,0.4281,whole,False,True
+chatgpt-4o-03-27-2025,OpenAI,2025-03-27,2025-03-29,45.3,19.7416,diff,False,True
+gemini-2.5-flash-preview-04-17,Google DeepMind,2025-04-17,2025-04-20,47.1,1.8451,diff,False,True
+grok-3-mini-beta_high,xAI,2025-04-09,2025-04-10,49.3,0.7346,whole,False,True
+gpt-4.1-2025-04-14,OpenAI,2025-04-14,2025-04-14,52.4,9.8556,diff,False,True
+grok-3-beta,xAI,2025-04-09,2025-04-10,53.3,11.0338,diff,False,True
+DeepSeek-V3-0324,DeepSeek,2025-03-24,2025-03-24,55.1,1.1164,diff,False,True
+DeepSeek-R1-0528,DeepSeek,2025-05-28,2025-06-06,71.4,4.8016,diff,False,True
+gemini-2.5-pro-exp-03-25,Google DeepMind,2025-03-25,,72.9,,diff-fenced,False,False
+o4-mini-2025-04-16_high,OpenAI,2025-04-16,2025-04-16,72.0,19.6399,diff,False,True
+o3-2025-04-16_high,OpenAI,2025-04-16,2025-06-25,81.3,21.2259,diff,False,True
+,,,,78.2,0.078,architect,False,False
+gemini-2.0-flash-thinking-exp-01-21,"Google DeepMind,Google",2025-01-21,2025-01-21,18.2,0.0,diff,False,False
+gpt-4o-2024-11-20,OpenAI,2024-11-20,2024-12-30,18.2,6.7351,diff,False,True
+claude-3-5-sonnet-20241022,Anthropic,2024-10-22,2025-01-17,51.6,14.4063,diff,False,True
+Qwen2.5-Coder-32B-Instruct,Alibaba,2024-11-21,,8.0,,diff,False,False
+claude-3-5-haiku-20241022,Anthropic,2024-10-22,2024-12-21,28.0,6.0583,diff,False,True
+gemini-exp-1206,"Google DeepMind,Google",2024-12-06,2024-12-22,38.2,0.0,whole,False,False
+DeepSeek-R1,DeepSeek,2025-01-20,2025-01-20,56.9,5.4193,diff,False,True
+DeepSeek-V3,DeepSeek,2024-12-26,,48.4,0.001511111111,diff,False,False
+qwen-max-2025-01-25,Alibaba,2025-01-25,2025-01-28,21.8,,diff,False,False
+gemini-2.0-pro-exp-02-05,Google DeepMind,2025-02-05,2025-02-25,35.6,0.0,whole,False,False
+,,,,32.9,0.083,whole,False,False
+QwQ-32B,Alibaba,2025-03-05,2025-03-06,20.9,0.0,diff,False,False
+c4ai-command-a-03-2025,Cohere,2025-03-13,2025-03-14,12.0,0.0,whole,False,False
+gpt-4o-mini-2024-07-18,OpenAI,2024-07-18,2024-12-21,3.6,0.3236,whole,False,True
+gemma-3-27b-it,Google DeepMind,2025-03-12,2025-03-15,4.9,0.0,whole,False,False
+gpt-4.5-preview-2025-02-27,OpenAI,2025-02-27,2025-02-27,44.9,183.1802,diff,False,True
+,,,,26.2,,architect,False,False
+claude-3-7-sonnet-20250219,Anthropic,2025-02-24,2025-02-24,60.4,17.7191,diff,False,True
+gemini-2.0-flash-exp,"Google DeepMind,Google",2024-12-11,2024-12-22,22.2,0.0,whole,False,False
+DeepSeek-V2.5,DeepSeek,2024-09-06,2024-12-21,17.8,0.5101,diff,False,True
+Qwen2.5-Coder-32B-Instruct,Alibaba,2024-11-21,,16.4,,whole,False,False
+chatgpt-4o-01-29-2025,OpenAI,2025-01-29,2025-02-15,27.1,14.3703,diff,False,True
+codestral-2501,Mistral AI,2025-01-13,2025-01-13,11.1,1.9834,whole,False,True
+o1-2024-12-17_high,OpenAI,2024-12-17,2024-12-21,61.7,186.4958,diff,False,True
+o3-mini-2025-01-31_medium,OpenAI,2025-01-31,2025-01-31,53.8,8.8599,diff,False,True
+yi-lightning,01.AI,2024-12-02,2024-12-23,12.9,0.0,whole,False,False
+gpt-4o-2024-08-06,OpenAI,2024-08-06,2024-12-30,23.1,7.0286,diff,False,True
+,,,,64.0,0.059,architect,False,False
+claude-3-7-sonnet-20250219_32K,Anthropic,2025-02-24,2025-02-24,64.9,36.8343,diff,False,True
+o3-mini-2025-01-31_high,OpenAI,2025-01-31,2025-01-31,60.4,18.1584,diff,False,True
+o1-mini-2024-09-12_unknown,OpenAI,2024-09-12,2024-12-22,32.9,18.577,whole,False,True
+gemini-2.5-pro-preview-03-25,Google DeepMind,2025-03-31,2025-04-12,72.9,0.0,diff-fenced,False,False
+Qwen3-235B-A22B-Instruct-2507,Alibaba,2025-07-25,2025-05-09,59.6,0.0,diff,True,False
+o3-2025-04-16_unknown,OpenAI,2025-04-16,2025-06-25,76.9,13.7517,diff,False,True
+grok-4-0709_high,xAI,2025-07-09,2025-07-11,79.6,59.6182,diff,False,True
+moonshotai/kimi-k2-0905,Moonshot,2025-09-05,2025-07-17,59.1,1.2357,diff,True,False
+openai/gpt-oss-120b_high,OpenAI,2025-08-05,2025-08-06,41.8,0.7406,diff,False,True
+deepseek-reasoner,DeepSeek,2025-12-01,2025-10-03,74.2,1.3045,diff,True,False
+deepseek-chat,DeepSeek,2025-12-01,2025-10-03,70.2,0.8756,diff,True,False

@@ -1,0 +1,275 @@
+model,release_date,organization,score,ci_low,ci_high,latest_month
+LLaMA-13B,2023-02-24,Meta AI,100.58,88.99,106.41,False
+LLaMA-33B,2023-02-24,Meta AI,107.41,97.41,112.09,False
+LLaMA-65B,2023-02-24,Meta AI,110.17,101.4,114.12,False
+LLaMA-7B,2023-02-24,Meta AI,96.7,83.49,103.66,False
+GPT-4 (Mar 2023),2023-03-14,OpenAI,125.89,119.25,130.45,False
+Cerebras-GPT-13B,2023-03-20,Cerebras Systems,83.24,66.01,92.03,False
+Dolly 2.0-12b,2023-04-11,Databricks,89.67,73.6,97.55,False
+vicuna-13b-v1.1,2023-04-12,,94.67,78.87,102.61,False
+stablelm-tuned-alpha-7b,2023-04-19,,55.75,30.79,72.32,False
+Falcon-7B,2023-04-24,Technology Innovation Institute,95.1,81.1,102.36,False
+RedPajama-INCITE-7B-Base,2023-05-04,,90.43,74.4,98.46,False
+MPT-7B,2023-05-05,MosaicML,94.59,80.52,101.56,False
+PaLM 2-L,2023-05-17,,115.02,106.15,128.07,False
+PaLM 2-M,2023-05-17,,108.29,98.56,116.75,False
+PaLM 2-S,2023-05-17,,106.17,94.83,114.5,False
+Falcon-40B,2023-05-25,Technology Innovation Institute,104.45,92.77,109.93,False
+Baichuan1-7B,2023-06-01,Baichuan,90.46,75.57,98.46,False
+open_llama_7b,2023-06-07,,91.65,76.93,99.24,False
+GPT-3.5 Turbo (Jun 2023),2023-06-13,OpenAI,113.36,104.33,117.81,False
+GPT-4 (Jun 2023),2023-06-13,OpenAI,123.12,116.6,126.49,False
+MPT-30B,2023-06-22,MosaicML,100.66,88.92,106.41,False
+chatglm2-6b,2023-06-24,,98.94,80.98,105.48,False
+XGen-7B,2023-06-27,Salesforce,93.4,78.79,100.75,False
+internlm-7b,2023-07-05,,102.87,90.77,109.51,False
+Claude 2,2023-07-11,Anthropic,120.13,112.95,123.79,False
+Llama 2-13B,2023-07-18,Meta AI,106.17,96.07,110.78,False
+Llama 2-34B,2023-07-18,Meta AI,105.2,94.54,110.21,False
+Llama 2-70B,2023-07-18,Meta AI,113.79,105.66,117.44,False
+Llama 2-7B,2023-07-18,Meta AI,99.06,86.79,105.6,False
+Stable Beluga 2,2023-07-20,Stability AI,117.12,108.43,120.12,False
+Claude Instant,2023-08-09,Anthropic,120.28,112.45,122.8,False
+Baichuan2-13B,2023-09-06,Baichuan,103.19,91.12,110.3,False
+Falcon-180B,2023-09-06,Technology Innovation Institute,112.13,103.14,118.9,False
+Phi-1.5,2023-09-11,Microsoft,91.53,71.63,100.79,False
+internlm-20b,2023-09-18,,112.09,102.41,116.27,False
+Baichuan 2-7B,2023-09-20,Baichuan,96.33,83.83,104.32,False
+Qwen-14B,2023-09-24,Alibaba,113.03,103.3,117.38,False
+Mistral 7B v0.1,2023-09-27,Mistral AI,112.21,102.36,116.31,False
+Qwen-7B,2023-09-28,Alibaba,106.83,93.62,111.9,False
+DeepSeek Coder 1.3B,2023-11-02,"DeepSeek,Peking University",63.6,42.27,76.81,False
+DeepSeek Coder 33B,2023-11-02,"DeepSeek,Peking University",96.32,82.84,103.49,False
+DeepSeek Coder 6.7B,2023-11-02,"DeepSeek,Peking University",89.62,72.98,97.8,False
+Yi-34B,2023-11-02,01.AI,117.39,107.96,120.6,False
+GPT-3.5 Turbo (Nov 2023),2023-11-06,OpenAI,118.55,110.05,121.66,False
+Claude 2.1,2023-11-21,Anthropic,119.27,111.28,122.03,False
+Yi 6B,2023-11-22,01.AI,104.77,94.36,110.35,False
+DeepSeek LLM 67B,2023-11-29,DeepSeek,110.5,95.59,116.63,False
+Qwen-1_8B,2023-11-30,,92.93,71.46,101.78,False
+Mixtral 8x7B,2023-12-11,Mistral AI,118.47,110.39,121.07,False
+Phi-2,2023-12-12,Microsoft,107.94,88.62,113.81,False
+Gemini 1.0 Pro,2023-12-13,Google DeepMind,117.04,108.83,119.49,False
+GPT-3.5 Turbo (Jan 2024),2024-01-25,OpenAI,115.7,107.42,118.9,False
+GPT-4 Turbo (Nov 2023),2024-01-25,OpenAI,126.46,120.87,128.99,False
+StarCoder 2 15B,2024-02-20,"Hugging Face,ServiceNow,Nvidia,BigCode",105.0,91.04,111.32,False
+StarCoder 2 7B,2024-02-20,"Hugging Face,ServiceNow,Nvidia,BigCode",93.56,76.76,101.69,False
+Gemma 2B,2024-02-21,Google DeepMind,94.2,80.76,101.32,False
+Gemma 7B,2024-02-21,Google DeepMind,111.99,102.38,116.53,False
+StarCoder 2 3B,2024-02-22,"Hugging Face,ServiceNow,Nvidia,BigCode",88.76,70.65,97.53,False
+Mistral Large,2024-02-26,Mistral AI,122.01,114.39,125.14,False
+Nemotron-4 15B,2024-02-26,Nvidia,107.72,97.25,113.25,False
+Claude 3 Opus,2024-02-29,Anthropic,126.91,121.49,129.98,False
+Claude 3 Sonnet,2024-02-29,Anthropic,120.7,113.16,123.92,False
+Yi-9B,2024-03-01,,107.61,96.2,114.79,False
+Claude 3 Haiku,2024-03-07,Anthropic,118.35,110.46,121.54,False
+GPT-4 Turbo (Apr 2024),2024-04-09,OpenAI,127.25,121.86,128.83,False
+CodeQwen1.5-7B,2024-04-15,,94.86,78.95,102.89,False
+Mixtral 8x22B,2024-04-17,Mistral AI,122.03,114.63,124.53,False
+Llama 3-70B,2024-04-18,Meta AI,122.93,116.62,125.75,False
+Llama 3-8B,2024-04-18,Meta AI,116.45,106.78,119.26,False
+phi-3-medium 14B,2024-04-23,Microsoft,121.23,113.78,124.1,False
+phi-3-mini 3.8B,2024-04-23,Microsoft,117.36,107.91,120.72,False
+phi-3-small 7.4B,2024-04-23,Microsoft,121.83,114.76,124.37,False
+"DeepSeek-V2 (MoE-236B, May 2024)",2024-05-07,DeepSeek,124.77,118.45,127.76,False
+Falcon 2 11B,2024-05-09,Technology Innovation Institute,109.56,99.79,115.57,False
+GPT-4o (May 2024),2024-05-13,OpenAI,128.97,123.83,131.74,False
+Gemini 1.5 Pro (May 2024),2024-05-14,Google DeepMind,126.91,121.14,129.15,False
+Gemini 1.5 Flash (May 2024),2024-05-23,Google DeepMind,122.59,115.65,124.62,False
+Mistral 7B v0.3,2024-05-27,Mistral AI,108.99,96.78,112.52,False
+Qwen2-72B,2024-06-07,Alibaba,125.28,119.01,126.92,False
+DeepSeek-Coder-V2-Lite-Base,2024-06-13,,108.88,97.54,113.82,False
+Claude 3.5 Sonnet,2024-06-20,Anthropic,130.0,,,False
+Gemma 2 27B,2024-06-24,Google DeepMind,122.08,114.44,124.08,False
+Gemma 2 9B,2024-06-24,Google DeepMind,119.83,111.63,122.61,False
+GPT-4o mini,2024-07-18,OpenAI,126.56,119.1,128.7,False
+Mistral NeMo,2024-07-18,Mistral AI,118.68,110.95,121.19,False
+Llama 3.1-405B,2024-07-23,Meta AI,128.75,123.83,130.75,False
+Llama 3.1-70B,2024-07-23,Meta AI,125.92,120.02,128.5,False
+Llama 3.1-8B,2024-07-23,Meta AI,116.57,106.21,121.11,False
+Mistral Large 2 (Jul 2024),2024-07-24,Mistral AI,127.54,121.95,129.62,False
+GPT-4o (Aug 2024),2024-08-06,OpenAI,128.76,123.6,130.7,False
+Command R+,2024-08-30,"Cohere,Cohere Labs (formerly Cohere for AI)",119.34,109.86,125.32,False
+o1-mini,2024-09-12,OpenAI,135.82,131.65,137.26,False
+o1-preview,2024-09-12,OpenAI,134.79,130.78,138.74,False
+Qwen2.5-32B,2024-09-17,Alibaba,128.52,122.17,130.03,False
+Qwen2.5-Coder (1.5B),2024-09-18,Alibaba,102.99,85.28,110.96,False
+Qwen2.5-Coder (7B),2024-09-18,Alibaba,113.14,102.61,119.91,False
+Qwen2.5-Coder-0.5B,2024-09-18,,88.15,58.7,100.41,False
+Qwen2.5-Coder-14B,2024-09-18,,116.4,106.49,121.76,False
+Qwen2.5-Coder-32B,2024-09-18,Alibaba,119.49,110.05,124.92,False
+Qwen2.5-Coder-3B,2024-09-18,,107.74,94.23,115.66,False
+Qwen2.5-72B,2024-09-19,Alibaba,129.0,123.19,130.61,False
+Qwen2.5-7B,2024-09-19,Alibaba,118.51,110.9,121.15,False
+Gemini 1.5 Flash (Sep 2024),2024-09-24,Google DeepMind,129.36,123.19,131.25,False
+Gemini 1.5 Pro (Sept 2024),2024-09-24,Google DeepMind,131.73,127.16,133.1,False
+Llama 3.2 1B,2024-09-24,Meta AI,101.99,90.04,110.07,False
+Llama 3.2 90B,2024-09-24,Meta AI,125.5,119.43,127.28,False
+Ministral 3B,2024-10-16,Mistral AI,118.1,106.18,121.72,False
+Claude 3.5 Haiku,2024-10-22,Anthropic,127.15,120.7,129.48,False
+Claude 3.5 Sonnet (October 2024),2024-10-22,Anthropic,133.55,128.79,137.55,False
+Mistral Large 2 (Nov 2024),2024-11-18,Mistral AI,128.52,122.68,130.58,False
+GPT-4o (Nov 2024),2024-11-20,OpenAI,128.81,123.63,131.15,False
+INTELLECT-1,2024-11-29,"Prime Intellect,Hugging Face,Arcee AI",100.86,88.45,106.27,False
+Amazon Nova Pro,2024-12-03,Amazon,123.8,110.51,126.8,False
+Llama 3.3 70B,2024-12-06,Meta AI,127.33,121.79,129.67,False
+Gemini 2.0 Flash (Dec 2024),2024-12-11,"Google DeepMind,Google",134.69,124.88,136.62,False
+Grok-2 (Dec 2024),2024-12-12,xAI,130.48,125.82,132.23,False
+Phi-4,2024-12-12,Microsoft Research,130.42,124.72,132.03,False
+o1,2024-12-17,OpenAI,141.91,139.66,143.2,False
+DeepSeek-V3,2024-12-26,DeepSeek,132.34,127.53,135.73,False
+DeepSeek-R1,2025-01-20,DeepSeek,138.97,136.3,140.31,False
+DeepSeek-R1-Distill-Qwen-14B,2025-01-20,DeepSeek,135.43,127.05,138.01,False
+DeepSeek-R1-Distill-Qwen-32B,2025-01-20,DeepSeek,137.44,126.59,138.7,False
+Gemini 2.0 Flash Thinking (Jan 2025),2025-01-21,"Google DeepMind,Google",135.36,130.35,138.06,False
+Qwen2.5-Max,2025-01-25,Alibaba,132.53,127.85,135.94,False
+Mistral Small 3,2025-01-30,Mistral AI,127.07,121.39,128.85,False
+o3-mini,2025-01-31,OpenAI,140.34,137.7,141.84,False
+Gemini 2.0 Flash (Feb 2025),2025-02-05,"Google DeepMind,Google",134.69,130.78,136.5,False
+Gemini 2.0 Pro,2025-02-05,Google DeepMind,135.06,130.97,136.89,False
+Claude 3.7 Sonnet,2025-02-24,Anthropic,141.16,138.82,142.67,False
+GPT-4.5,2025-02-27,OpenAI,136.74,133.39,138.67,False
+QwQ-32B,2025-03-05,Alibaba,137.6,132.89,141.63,False
+Gemma 3 12B,2025-03-12,Google DeepMind,123.5,116.01,128.49,False
+Gemma 3 27B,2025-03-12,Google DeepMind,130.04,124.28,132.2,False
+Gemma 3 4B,2025-03-12,Google DeepMind,116.02,97.61,123.83,False
+Mistral Small 3.1,2025-03-17,Mistral AI,127.48,122.21,129.25,False
+DeepSeek-V3 (Mar 2025),2025-03-24,DeepSeek,135.94,132.14,137.83,False
+Gemini 2.5 Pro (Mar 2025),2025-03-31,Google DeepMind,144.16,141.92,146.97,False
+Llama 4 Scout,2025-04-05,Meta AI,129.64,124.31,131.42,False
+Llama 4 Maverick,2025-04-06,Meta AI,132.2,127.74,134.28,False
+Grok 3,2025-04-09,xAI,138.33,135.35,139.75,False
+GPT-4.1,2025-04-14,OpenAI,136.78,133.62,138.61,False
+GPT-4.1 mini,2025-04-14,OpenAI,135.01,131.28,136.66,False
+GPT-4.1 nano,2025-04-14,OpenAI,129.62,123.19,131.95,False
+o3,2025-04-16,OpenAI,146.86,145.03,148.65,False
+o4-mini,2025-04-16,OpenAI,145.64,143.23,147.36,False
+Gemini 2.5 Flash (Apr 2025),2025-04-17,Google DeepMind,139.96,136.13,142.05,False
+Qwen3-235B-A22B,2025-04-28,Alibaba,139.35,135.49,140.84,False
+Qwen3-8B,2025-04-28,Alibaba,136.17,130.09,138.24,False
+Qwen3-14B,2025-04-29,Alibaba,138.23,133.7,140.03,False
+Qwen3-30B-A3B,2025-04-29,Alibaba,136.18,129.7,138.62,False
+Qwen3-32B,2025-04-29,Alibaba,138.51,135.14,140.28,False
+Gemini 2.5 Pro (May 2025),2025-05-06,Google DeepMind,142.47,138.98,145.14,False
+Mistral Medium 3,2025-05-07,Mistral AI,134.07,130.1,135.5,False
+Gemini 2.5 Flash (May 2025),2025-05-20,Google DeepMind,141.53,139.15,142.89,False
+Claude Opus 4,2025-05-22,Anthropic,142.67,140.09,144.31,False
+Claude Sonnet 4,2025-05-22,Anthropic,141.69,138.9,142.99,False
+DeepSeek-R1 (May 2025),2025-05-28,DeepSeek,141.29,138.64,142.77,False
+Gemini 2.5 Pro (Jun 2025),2025-06-05,Google DeepMind,145.32,143.76,146.76,False
+Magistral Small 1.0,2025-06-10,Mistral AI,133.19,128.75,134.47,False
+o3-pro,2025-06-10,OpenAI,147.42,145.69,149.92,False
+Gemini 2.5 Flash (Jun 2025),2025-06-17,Google DeepMind,140.8,138.38,142.12,False
+Gemini 2.5 Flash-Lite (Jun 2025),2025-06-17,Google DeepMind,133.94,130.01,136.49,False
+Mistral Small 3.2,2025-06-20,Mistral AI,131.74,126.5,133.66,False
+Grok-3 mini,2025-06-24,xAI,140.35,137.52,142.02,False
+Grok 4,2025-07-09,xAI,146.44,144.68,148.13,False
+Kimi K2 (Jul 2025),2025-07-12,Moonshot,140.13,136.55,142.0,False
+Qwen3-235B-A22B-Instruct (Jul 2025),2025-07-25,Alibaba,138.92,135.74,140.78,False
+Qwen3-235B-A22B-Thinking (Jul 2025),2025-07-25,Alibaba,143.85,141.94,145.31,False
+Qwen3-30B-A3B-Instruct (Jul 2025),2025-07-29,Alibaba,137.42,131.83,139.38,False
+Qwen3-30B-A3B-Thinking (Jul 2025),2025-07-30,Alibaba,139.63,135.51,140.97,False
+Claude Opus 4.1,2025-08-05,Anthropic,144.12,141.66,146.01,False
+gpt-oss-120b,2025-08-05,OpenAI,139.93,135.23,142.78,False
+gpt-oss-20b,2025-08-05,OpenAI,137.82,132.91,139.61,False
+GPT-5,2025-08-07,OpenAI,150.0,,,False
+GPT-5 mini,2025-08-07,OpenAI,145.52,143.58,147.15,False
+GPT-5 nano,2025-08-07,OpenAI,139.38,134.06,141.39,False
+DeepSeek-V3.1,2025-08-21,DeepSeek,139.92,135.44,143.18,False
+Magistral Small 1.2,2025-09-18,Mistral AI,131.42,126.03,133.47,False
+Grok 4 Fast,2025-09-19,xAI,144.2,141.72,146.57,False
+Qwen3-Max,2025-09-24,Alibaba,142.38,140.13,144.75,False
+Gemini 2.5 Flash (Sep 2025),2025-09-25,Google DeepMind,143.03,139.37,146.36,False
+Claude Sonnet 4.5,2025-09-29,Anthropic,146.84,145.08,148.32,False
+DeepSeek-V3.2-Exp,2025-09-29,DeepSeek,145.0,142.39,146.98,False
+GPT-5 Pro,2025-10-07,OpenAI,150.28,148.56,152.85,False
+Claude Haiku 4.5,2025-10-15,Anthropic,142.41,139.4,144.07,False
+Kimi K2 Thinking,2025-11-06,Moonshot,146.01,143.36,147.52,False
+GPT-5.1,2025-11-13,OpenAI,149.64,148.24,151.07,False
+Gemini 3 Pro,2025-11-18,Google DeepMind,152.92,150.92,155.09,False
+Claude Opus 4.5,2025-11-24,Anthropic,150.09,148.04,152.79,False
+DeepSeek-V3.2,2025-12-01,DeepSeek,146.27,144.46,147.44,False
+GPT-5.2,2025-12-11,OpenAI,153.45,151.55,155.37,False
+GPT-5.2 Pro,2025-12-11,OpenAI,155.4,153.08,158.08,False
+Gemini 3 Flash,2025-12-17,Google DeepMind,151.8,150.35,153.29,False
+GLM-4.7,2025-12-22,Z.ai (Zhipu AI),143.51,141.14,145.43,False
+Kimi K2.5,2026-01-27,Moonshot,148.03,146.43,149.33,False
+Claude Opus 4.6,2026-02-05,Anthropic,155.24,153.36,157.28,False
+GPT-5.3 Codex,2026-02-05,OpenAI,156.77,152.76,160.7,False
+GLM-5,2026-02-11,Z.ai (Zhipu AI),145.83,143.83,147.72,False
+MiniMax-M2.5,2026-02-12,MiniMax,146.68,141.94,147.9,False
+Qwen3.5 397B-A17B,2026-02-13,Alibaba,146.65,144.86,148.26,False
+Qwen 3.5 Plus (hosted 397B-A17B),2026-02-16,Alibaba,146.78,144.71,147.94,False
+Claude Sonnet 4.6,2026-02-17,Anthropic,152.24,149.92,154.49,False
+Grok 4.20,2026-02-17,xAI,151.98,149.4,154.5,False
+Gemini 3.1 Pro,2026-02-19,Google DeepMind,154.77,152.44,157.27,False
+Qwen3.5-35B-A3B,2026-02-24,Alibaba,142.52,140.29,144.81,False
+Qwen3.5-9B,2026-02-24,Alibaba,139.46,136.25,141.51,False
+Qwen 3.5 Flash (hosted 35B-A3B),2026-02-25,Alibaba,143.98,141.79,145.66,False
+Gemini 3.1 Flash-Lite,2026-03-03,Google,144.47,142.38,146.02,False
+GPT-5.4,2026-03-05,OpenAI,156.81,155.0,158.94,False
+GPT-5.4 Pro,2026-03-05,OpenAI,158.93,156.59,161.78,False
+GPT-5.4 Mini,2026-03-17,OpenAI,148.84,147.07,150.28,False
+GPT-5.4 Nano,2026-03-17,OpenAI,145.81,143.48,147.63,False
+MiniMax-M2.7,2026-03-18,MiniMax,145.85,137.95,147.86,False
+Qwen 3.6 Plus,2026-03-31,Alibaba,147.65,145.66,149.41,False
+Gemma 4 26B A4B,2026-04-02,Google DeepMind,141.85,138.71,143.42,False
+Gemma 4 31B IT,2026-04-02,Google DeepMind,142.74,140.25,145.1,False
+GLM-5.1,2026-04-07,Z.ai (Zhipu AI),149.84,147.91,151.45,False
+Muse Spark,2026-04-08,Meta AI,152.04,150.13,155.49,False
+Qwen 3.6 35B-A3B,2026-04-14,Alibaba,143.93,141.21,145.93,False
+Claude Opus 4.7,2026-04-16,Anthropic,156.25,154.36,158.37,False
+Grok 4.3 Beta,2026-04-17,xAI,149.16,147.56,150.68,False
+Kimi K2.6,2026-04-20,Moonshot,151.05,149.26,152.79,False
+Qwen 3.6 Max (Preview),2026-04-20,Alibaba,149.24,147.38,152.11,False
+Qwen3.6 27B,2026-04-22,Alibaba,146.5,144.31,147.72,False
+GPT-5.5,2026-04-23,OpenAI,159.1,156.66,162.27,False
+GPT-5.5 Pro,2026-04-23,OpenAI,162.07,158.98,165.82,False
+DeepSeek-V4-Flash,2026-04-24,DeepSeek,146.07,143.88,147.83,False
+DeepSeek-V4-Pro,2026-04-24,DeepSeek,149.13,147.31,150.72,False
+Qwen 3.6 Flash,2026-04-27,Alibaba,143.26,140.56,144.93,False
+Mistral Medium 3.5,2026-04-28,Mistral AI,141.35,138.56,143.2,False
+GPT-5.5 Instant,2026-05-05,OpenAI,142.52,139.85,145.29,False
+Gemini 3.5 Flash,2026-05-19,Google DeepMind,154.46,152.5,156.51,False
+Qwen3.7-Max,2026-05-19,Alibaba,153.68,151.67,155.84,False
+Claude Opus 4.8,2026-05-28,Anthropic,158.21,156.04,160.77,False
+MiniMax-M3,2026-06-01,MiniMax,146.95,142.59,149.44,False
+Qwen3.7-Plus,2026-06-02,Alibaba,147.37,145.75,148.93,False
+Nemotron 3 Ultra,2026-06-04,Nvidia,146.17,143.89,148.03,False
+Claude Fable 5,2026-06-09,Anthropic,162.06,159.28,166.18,False
+Kimi K2.7 Code,2026-06-12,Moonshot,149.97,147.94,151.54,False
+GLM-5.2,2026-06-16,Z.ai (Zhipu AI),151.78,149.81,153.8,False
+Claude Sonnet 5,2026-06-30,Anthropic,156.21,153.48,158.79,False
+Grok 4.5,2026-07-08,xAI,153.92,152.21,155.63,False
+GPT-5.6 Luna,2026-07-09,OpenAI,156.39,153.98,158.7,False
+GPT-5.6 Sol,2026-07-09,OpenAI,161.66,159.27,165.1,False
+GPT-5.6 Terra,2026-07-09,OpenAI,159.62,157.17,162.65,False
+Muse Spark 1.1,2026-07-09,Meta AI,154.21,151.96,156.81,False
+Inkling,2026-07-15,Thinking Machines,148.54,145.67,150.36,False
+Inkling-Small,2026-07-15,Thinking Machines,150.15,147.39,151.96,False
+Kimi K3,2026-07-16,Moonshot,157.45,155.15,160.03,False
+Gemini 3.5 Flash-Lite,2026-07-21,Google DeepMind,145.13,142.87,146.56,False
+Gemini 3.6 Flash,2026-07-21,Google DeepMind,154.25,152.58,156.22,False
+Claude Opus 5,2026-07-24,Anthropic,162.78,160.12,166.47,False
+Qwen3.7 Flash,2026-07-27,Alibaba,144.64,142.51,147.34,False
+DeepSeek V4 Flash 0731,2026-07-31,DeepSeek,154.49,152.08,156.35,False
+Qwen 3.8 Max,2026-08-02,Alibaba,156.41,154.32,158.61,False
+Muse Spark 1.2,2026-08-05,Meta AI,154.87,152.85,157.44,False
+Grok 4.6,2026-08-12,xAI,156.44,154.51,158.96,False
+DeepSeek V4 Pro 0813,2026-08-13,DeepSeek,155.31,153.48,157.45,False
+Gemini 3.7 Flash,2026-08-13,Google DeepMind,157.27,155.37,159.87,False
+GLM-5.3,2026-08-14,Z.ai (Zhipu AI),155.61,153.6,157.92,False
+Qwen 3.8 27B,2026-08-14,Alibaba,149.38,147.3,151.13,False
+GLM-5.3-Flash,2026-08-20,Z.ai (Zhipu AI),151.88,149.64,153.95,False
+Claude Fable 5.1,2026-09-01,Anthropic,164.7,161.63,168.81,True
+Qwen3.8 Max (0902),2026-09-01,Alibaba,155.05,153.29,157.19,True
+Gemini 3.8 Flash,2026-09-02,Google DeepMind,156.71,154.41,160.26,True
+Muse Spark 1.3,2026-09-02,Meta AI,156.75,154.78,159.34,True
+GPT-6 Astra,2026-09-03,OpenAI,166.45,163.34,171.46,True
+DeepSeek V4.1 Flash,2026-09-09,DeepSeek,154.9,148.49,157.33,True
+Grok 4.7,2026-09-21,xAI,153.53,151.84,155.85,True
+Claude Opus 5.5,2026-09-22,Anthropic,167.33,164.06,171.68,True
+GPT-6 Luna,2026-09-22,OpenAI,156.28,153.67,158.75,True
+GPT-6 Sol,2026-09-22,OpenAI,162.72,160.07,166.57,True
+Claude Sonnet 5.5,2026-09-28,Anthropic,165.03,161.68,169.06,True
+GPT-6.1 Sol,2026-09-29,OpenAI,166.09,162.89,170.63,True

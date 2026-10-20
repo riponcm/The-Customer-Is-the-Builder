@@ -1,0 +1,5 @@
+bundle_id,bundle_name,covers_apps,price_usd_per_month,price_usd_per_year,billing_terms,source_url,retrieved_date,verification,notes
+adobe_all_apps,Adobe Creative Cloud All Apps (individual),7,69.99,839.88,annual plan billed monthly; year = 12 x 69.99,https://www.adobe.com/creativecloud/plans.html,,official vendor page fetched,The page also advertises 34.99/month for the first 3 months to new subscribers (promotional; not used). Seven single apps priced separately sum to 1763.16/yr
+m365_personal,Microsoft 365 Personal,3,9.99,99.99,billed yearly,https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products,,official vendor page fetched,Family 129.99/yr; Premium 199.99/yr
+autocad,Autodesk AutoCAD (1 user),1,174.58,2095.00,1-year term,https://www.autodesk.com/products/autocad/buy,,search-engine summary of vendor page (direct fetch 403) - confirm manually,
+pro_tools_ultimate,Avid Pro Tools Ultimate,1,49.92,599.00,annual subscription,https://www.avid.com/pro-tools/pro-tools-artist-subscriptions,,search-engine summary of vendor page (direct fetch 403) - confirm manually,Studio 299/yr is the next tier down

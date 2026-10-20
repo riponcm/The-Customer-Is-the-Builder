@@ -1,0 +1,2302 @@
+month,term,n_titles
+2012-01,Claude,0
+2012-02,Claude,0
+2012-03,Claude,0
+2012-04,Claude,0
+2012-05,Claude,0
+2012-06,Claude,0
+2012-07,Claude,0
+2012-08,Claude,0
+2012-09,Claude,0
+2012-10,Claude,0
+2012-11,Claude,0
+2012-12,Claude,0
+2013-01,Claude,0
+2013-02,Claude,0
+2013-03,Claude,0
+2013-04,Claude,0
+2013-05,Claude,0
+2013-06,Claude,0
+2013-07,Claude,0
+2013-08,Claude,0
+2013-09,Claude,0
+2013-10,Claude,0
+2013-11,Claude,0
+2013-12,Claude,0
+2014-01,Claude,0
+2014-02,Claude,0
+2014-03,Claude,0
+2014-04,Claude,0
+2014-05,Claude,0
+2014-06,Claude,0
+2014-07,Claude,0
+2014-08,Claude,0
+2014-09,Claude,0
+2014-10,Claude,0
+2014-11,Claude,0
+2014-12,Claude,0
+2015-01,Claude,0
+2015-02,Claude,0
+2015-03,Claude,0
+2015-04,Claude,0
+2015-05,Claude,0
+2015-06,Claude,0
+2015-07,Claude,0
+2015-08,Claude,0
+2015-09,Claude,0
+2015-10,Claude,0
+2015-11,Claude,0
+2015-12,Claude,0
+2016-01,Claude,0
+2016-02,Claude,0
+2016-03,Claude,0
+2016-04,Claude,0
+2016-05,Claude,0
+2016-06,Claude,0
+2016-07,Claude,0
+2016-08,Claude,0
+2016-09,Claude,0
+2016-10,Claude,0
+2016-11,Claude,0
+2016-12,Claude,0
+2017-01,Claude,0
+2017-02,Claude,0
+2017-03,Claude,0
+2017-04,Claude,0
+2017-05,Claude,0
+2017-06,Claude,0
+2017-07,Claude,0
+2017-08,Claude,0
+2017-09,Claude,0
+2017-10,Claude,0
+2017-11,Claude,0
+2017-12,Claude,0
+2018-01,Claude,0
+2018-02,Claude,0
+2018-03,Claude,0
+2018-04,Claude,0
+2018-05,Claude,0
+2018-06,Claude,0
+2018-07,Claude,0
+2018-08,Claude,0
+2018-09,Claude,0
+2018-10,Claude,0
+2018-11,Claude,0
+2018-12,Claude,0
+2019-01,Claude,0
+2019-02,Claude,0
+2019-03,Claude,0
+2019-04,Claude,0
+2019-05,Claude,0
+2019-06,Claude,0
+2019-07,Claude,0
+2019-08,Claude,0
+2019-09,Claude,0
+2019-10,Claude,0
+2019-11,Claude,0
+2019-12,Claude,0
+2020-01,Claude,0
+2020-02,Claude,0
+2020-03,Claude,0
+2020-04,Claude,0
+2020-05,Claude,0
+2020-06,Claude,0
+2020-07,Claude,0
+2020-08,Claude,0
+2020-09,Claude,0
+2020-10,Claude,0
+2020-11,Claude,0
+2020-12,Claude,0
+2021-01,Claude,0
+2021-02,Claude,0
+2021-03,Claude,0
+2021-04,Claude,0
+2021-05,Claude,0
+2021-06,Claude,0
+2021-07,Claude,0
+2021-08,Claude,0
+2021-09,Claude,0
+2021-10,Claude,0
+2021-11,Claude,0
+2021-12,Claude,0
+2022-01,Claude,0
+2022-02,Claude,0
+2022-03,Claude,0
+2022-04,Claude,0
+2022-05,Claude,0
+2022-06,Claude,0
+2022-07,Claude,0
+2022-08,Claude,0
+2022-09,Claude,0
+2022-10,Claude,0
+2022-11,Claude,0
+2022-12,Claude,0
+2023-01,Claude,1
+2023-02,Claude,0
+2023-03,Claude,0
+2023-04,Claude,0
+2023-05,Claude,1
+2023-06,Claude,1
+2023-07,Claude,0
+2023-08,Claude,2
+2023-09,Claude,1
+2023-10,Claude,2
+2023-11,Claude,0
+2023-12,Claude,3
+2024-01,Claude,1
+2024-02,Claude,0
+2024-03,Claude,7
+2024-04,Claude,8
+2024-05,Claude,3
+2024-06,Claude,6
+2024-07,Claude,9
+2024-08,Claude,13
+2024-09,Claude,7
+2024-10,Claude,7
+2024-11,Claude,17
+2024-12,Claude,16
+2025-01,Claude,11
+2025-02,Claude,13
+2025-03,Claude,30
+2025-04,Claude,20
+2025-05,Claude,21
+2025-06,Claude,32
+2025-07,Claude,52
+2025-08,Claude,67
+2025-09,Claude,49
+2025-10,Claude,51
+2025-11,Claude,48
+2025-12,Claude,106
+2026-01,Claude,213
+2026-02,Claude,329
+2026-03,Claude,299
+2026-04,Claude,192
+2026-05,Claude,126
+2026-06,Claude,166
+2026-07,Claude,193
+2026-08,Claude,132
+2026-09,Claude,144
+2012-01,Claude Code,0
+2012-02,Claude Code,0
+2012-03,Claude Code,0
+2012-04,Claude Code,0
+2012-05,Claude Code,0
+2012-06,Claude Code,0
+2012-07,Claude Code,0
+2012-08,Claude Code,0
+2012-09,Claude Code,0
+2012-10,Claude Code,0
+2012-11,Claude Code,0
+2012-12,Claude Code,0
+2013-01,Claude Code,0
+2013-02,Claude Code,0
+2013-03,Claude Code,0
+2013-04,Claude Code,0
+2013-05,Claude Code,0
+2013-06,Claude Code,0
+2013-07,Claude Code,0
+2013-08,Claude Code,0
+2013-09,Claude Code,0
+2013-10,Claude Code,0
+2013-11,Claude Code,0
+2013-12,Claude Code,0
+2014-01,Claude Code,0
+2014-02,Claude Code,0
+2014-03,Claude Code,0
+2014-04,Claude Code,0
+2014-05,Claude Code,0
+2014-06,Claude Code,0
+2014-07,Claude Code,0
+2014-08,Claude Code,0
+2014-09,Claude Code,0
+2014-10,Claude Code,0
+2014-11,Claude Code,0
+2014-12,Claude Code,0
+2015-01,Claude Code,0
+2015-02,Claude Code,0
+2015-03,Claude Code,0
+2015-04,Claude Code,0
+2015-05,Claude Code,0
+2015-06,Claude Code,0
+2015-07,Claude Code,0
+2015-08,Claude Code,0
+2015-09,Claude Code,0
+2015-10,Claude Code,0
+2015-11,Claude Code,0
+2015-12,Claude Code,0
+2016-01,Claude Code,0
+2016-02,Claude Code,0
+2016-03,Claude Code,0
+2016-04,Claude Code,0
+2016-05,Claude Code,0
+2016-06,Claude Code,0
+2016-07,Claude Code,0
+2016-08,Claude Code,0
+2016-09,Claude Code,0
+2016-10,Claude Code,0
+2016-11,Claude Code,0
+2016-12,Claude Code,0
+2017-01,Claude Code,0
+2017-02,Claude Code,0
+2017-03,Claude Code,0
+2017-04,Claude Code,0
+2017-05,Claude Code,0
+2017-06,Claude Code,0
+2017-07,Claude Code,0
+2017-08,Claude Code,0
+2017-09,Claude Code,0
+2017-10,Claude Code,0
+2017-11,Claude Code,0
+2017-12,Claude Code,0
+2018-01,Claude Code,0
+2018-02,Claude Code,0
+2018-03,Claude Code,0
+2018-04,Claude Code,0
+2018-05,Claude Code,0
+2018-06,Claude Code,0
+2018-07,Claude Code,0
+2018-08,Claude Code,0
+2018-09,Claude Code,0
+2018-10,Claude Code,0
+2018-11,Claude Code,0
+2018-12,Claude Code,0
+2019-01,Claude Code,0
+2019-02,Claude Code,0
+2019-03,Claude Code,0
+2019-04,Claude Code,0
+2019-05,Claude Code,0
+2019-06,Claude Code,0
+2019-07,Claude Code,0
+2019-08,Claude Code,0
+2019-09,Claude Code,0
+2019-10,Claude Code,0
+2019-11,Claude Code,0
+2019-12,Claude Code,0
+2020-01,Claude Code,0
+2020-02,Claude Code,0
+2020-03,Claude Code,0
+2020-04,Claude Code,0
+2020-05,Claude Code,0
+2020-06,Claude Code,0
+2020-07,Claude Code,0
+2020-08,Claude Code,0
+2020-09,Claude Code,0
+2020-10,Claude Code,0
+2020-11,Claude Code,0
+2020-12,Claude Code,0
+2021-01,Claude Code,0
+2021-02,Claude Code,0
+2021-03,Claude Code,0
+2021-04,Claude Code,0
+2021-05,Claude Code,0
+2021-06,Claude Code,0
+2021-07,Claude Code,0
+2021-08,Claude Code,0
+2021-09,Claude Code,0
+2021-10,Claude Code,0
+2021-11,Claude Code,0
+2021-12,Claude Code,0
+2022-01,Claude Code,0
+2022-02,Claude Code,0
+2022-03,Claude Code,0
+2022-04,Claude Code,0
+2022-05,Claude Code,0
+2022-06,Claude Code,0
+2022-07,Claude Code,0
+2022-08,Claude Code,0
+2022-09,Claude Code,0
+2022-10,Claude Code,0
+2022-11,Claude Code,0
+2022-12,Claude Code,0
+2023-01,Claude Code,0
+2023-02,Claude Code,0
+2023-03,Claude Code,0
+2023-04,Claude Code,0
+2023-05,Claude Code,0
+2023-06,Claude Code,0
+2023-07,Claude Code,0
+2023-08,Claude Code,0
+2023-09,Claude Code,0
+2023-10,Claude Code,0
+2023-11,Claude Code,0
+2023-12,Claude Code,0
+2024-01,Claude Code,0
+2024-02,Claude Code,0
+2024-03,Claude Code,0
+2024-04,Claude Code,0
+2024-05,Claude Code,0
+2024-06,Claude Code,0
+2024-07,Claude Code,0
+2024-08,Claude Code,0
+2024-09,Claude Code,0
+2024-10,Claude Code,0
+2024-11,Claude Code,0
+2024-12,Claude Code,0
+2025-01,Claude Code,0
+2025-02,Claude Code,4
+2025-03,Claude Code,7
+2025-04,Claude Code,5
+2025-05,Claude Code,9
+2025-06,Claude Code,15
+2025-07,Claude Code,27
+2025-08,Claude Code,49
+2025-09,Claude Code,26
+2025-10,Claude Code,29
+2025-11,Claude Code,26
+2025-12,Claude Code,62
+2026-01,Claude Code,147
+2026-02,Claude Code,215
+2026-03,Claude Code,193
+2026-04,Claude Code,125
+2026-05,Claude Code,74
+2026-06,Claude Code,101
+2026-07,Claude Code,110
+2026-08,Claude Code,76
+2026-09,Claude Code,88
+2012-01,Cursor,0
+2012-02,Cursor,0
+2012-03,Cursor,0
+2012-04,Cursor,0
+2012-05,Cursor,0
+2012-06,Cursor,0
+2012-07,Cursor,0
+2012-08,Cursor,0
+2012-09,Cursor,0
+2012-10,Cursor,0
+2012-11,Cursor,0
+2012-12,Cursor,1
+2013-01,Cursor,0
+2013-02,Cursor,0
+2013-03,Cursor,2
+2013-04,Cursor,0
+2013-05,Cursor,0
+2013-06,Cursor,0
+2013-07,Cursor,0
+2013-08,Cursor,0
+2013-09,Cursor,0
+2013-10,Cursor,0
+2013-11,Cursor,0
+2013-12,Cursor,0
+2014-01,Cursor,0
+2014-02,Cursor,0
+2014-03,Cursor,0
+2014-04,Cursor,0
+2014-05,Cursor,0
+2014-06,Cursor,0
+2014-07,Cursor,0
+2014-08,Cursor,0
+2014-09,Cursor,1
+2014-10,Cursor,0
+2014-11,Cursor,0
+2014-12,Cursor,0
+2015-01,Cursor,1
+2015-02,Cursor,0
+2015-03,Cursor,1
+2015-04,Cursor,0
+2015-05,Cursor,0
+2015-06,Cursor,0
+2015-07,Cursor,0
+2015-08,Cursor,0
+2015-09,Cursor,0
+2015-10,Cursor,0
+2015-11,Cursor,1
+2015-12,Cursor,0
+2016-01,Cursor,0
+2016-02,Cursor,0
+2016-03,Cursor,0
+2016-04,Cursor,2
+2016-05,Cursor,0
+2016-06,Cursor,0
+2016-07,Cursor,0
+2016-08,Cursor,0
+2016-09,Cursor,1
+2016-10,Cursor,0
+2016-11,Cursor,0
+2016-12,Cursor,0
+2017-01,Cursor,0
+2017-02,Cursor,0
+2017-03,Cursor,0
+2017-04,Cursor,1
+2017-05,Cursor,0
+2017-06,Cursor,0
+2017-07,Cursor,1
+2017-08,Cursor,0
+2017-09,Cursor,0
+2017-10,Cursor,0
+2017-11,Cursor,0
+2017-12,Cursor,0
+2018-01,Cursor,0
+2018-02,Cursor,2
+2018-03,Cursor,0
+2018-04,Cursor,0
+2018-05,Cursor,0
+2018-06,Cursor,0
+2018-07,Cursor,0
+2018-08,Cursor,0
+2018-09,Cursor,0
+2018-10,Cursor,1
+2018-11,Cursor,0
+2018-12,Cursor,0
+2019-01,Cursor,0
+2019-02,Cursor,0
+2019-03,Cursor,0
+2019-04,Cursor,0
+2019-05,Cursor,0
+2019-06,Cursor,0
+2019-07,Cursor,0
+2019-08,Cursor,0
+2019-09,Cursor,0
+2019-10,Cursor,0
+2019-11,Cursor,0
+2019-12,Cursor,0
+2020-01,Cursor,0
+2020-02,Cursor,0
+2020-03,Cursor,0
+2020-04,Cursor,1
+2020-05,Cursor,1
+2020-06,Cursor,0
+2020-07,Cursor,0
+2020-08,Cursor,0
+2020-09,Cursor,0
+2020-10,Cursor,1
+2020-11,Cursor,0
+2020-12,Cursor,0
+2021-01,Cursor,0
+2021-02,Cursor,0
+2021-03,Cursor,0
+2021-04,Cursor,1
+2021-05,Cursor,1
+2021-06,Cursor,0
+2021-07,Cursor,0
+2021-08,Cursor,0
+2021-09,Cursor,0
+2021-10,Cursor,1
+2021-11,Cursor,0
+2021-12,Cursor,0
+2022-01,Cursor,4
+2022-02,Cursor,0
+2022-03,Cursor,0
+2022-04,Cursor,1
+2022-05,Cursor,0
+2022-06,Cursor,0
+2022-07,Cursor,2
+2022-08,Cursor,1
+2022-09,Cursor,1
+2022-10,Cursor,0
+2022-11,Cursor,1
+2022-12,Cursor,0
+2023-01,Cursor,0
+2023-02,Cursor,0
+2023-03,Cursor,1
+2023-04,Cursor,0
+2023-05,Cursor,1
+2023-06,Cursor,0
+2023-07,Cursor,0
+2023-08,Cursor,0
+2023-09,Cursor,0
+2023-10,Cursor,1
+2023-11,Cursor,0
+2023-12,Cursor,0
+2024-01,Cursor,1
+2024-02,Cursor,0
+2024-03,Cursor,0
+2024-04,Cursor,1
+2024-05,Cursor,3
+2024-06,Cursor,0
+2024-07,Cursor,0
+2024-08,Cursor,7
+2024-09,Cursor,5
+2024-10,Cursor,0
+2024-11,Cursor,8
+2024-12,Cursor,5
+2025-01,Cursor,3
+2025-02,Cursor,10
+2025-03,Cursor,30
+2025-04,Cursor,20
+2025-05,Cursor,15
+2025-06,Cursor,20
+2025-07,Cursor,17
+2025-08,Cursor,18
+2025-09,Cursor,16
+2025-10,Cursor,10
+2025-11,Cursor,13
+2025-12,Cursor,14
+2026-01,Cursor,24
+2026-02,Cursor,22
+2026-03,Cursor,29
+2026-04,Cursor,21
+2026-05,Cursor,9
+2026-06,Cursor,10
+2026-07,Cursor,21
+2026-08,Cursor,15
+2026-09,Cursor,10
+2012-01,Copilot,0
+2012-02,Copilot,0
+2012-03,Copilot,0
+2012-04,Copilot,0
+2012-05,Copilot,0
+2012-06,Copilot,0
+2012-07,Copilot,0
+2012-08,Copilot,0
+2012-09,Copilot,0
+2012-10,Copilot,0
+2012-11,Copilot,0
+2012-12,Copilot,0
+2013-01,Copilot,0
+2013-02,Copilot,0
+2013-03,Copilot,0
+2013-04,Copilot,0
+2013-05,Copilot,0
+2013-06,Copilot,0
+2013-07,Copilot,0
+2013-08,Copilot,0
+2013-09,Copilot,0
+2013-10,Copilot,0
+2013-11,Copilot,0
+2013-12,Copilot,0
+2014-01,Copilot,0
+2014-02,Copilot,0
+2014-03,Copilot,0
+2014-04,Copilot,0
+2014-05,Copilot,0
+2014-06,Copilot,0
+2014-07,Copilot,0
+2014-08,Copilot,0
+2014-09,Copilot,0
+2014-10,Copilot,0
+2014-11,Copilot,0
+2014-12,Copilot,0
+2015-01,Copilot,0
+2015-02,Copilot,0
+2015-03,Copilot,0
+2015-04,Copilot,0
+2015-05,Copilot,0
+2015-06,Copilot,1
+2015-07,Copilot,0
+2015-08,Copilot,0
+2015-09,Copilot,0
+2015-10,Copilot,0
+2015-11,Copilot,0
+2015-12,Copilot,0
+2016-01,Copilot,0
+2016-02,Copilot,0
+2016-03,Copilot,0
+2016-04,Copilot,0
+2016-05,Copilot,0
+2016-06,Copilot,0
+2016-07,Copilot,0
+2016-08,Copilot,0
+2016-09,Copilot,0
+2016-10,Copilot,0
+2016-11,Copilot,0
+2016-12,Copilot,0
+2017-01,Copilot,0
+2017-02,Copilot,0
+2017-03,Copilot,1
+2017-04,Copilot,0
+2017-05,Copilot,0
+2017-06,Copilot,0
+2017-07,Copilot,0
+2017-08,Copilot,0
+2017-09,Copilot,0
+2017-10,Copilot,0
+2017-11,Copilot,0
+2017-12,Copilot,0
+2018-01,Copilot,0
+2018-02,Copilot,0
+2018-03,Copilot,0
+2018-04,Copilot,0
+2018-05,Copilot,0
+2018-06,Copilot,0
+2018-07,Copilot,0
+2018-08,Copilot,0
+2018-09,Copilot,0
+2018-10,Copilot,0
+2018-11,Copilot,0
+2018-12,Copilot,0
+2019-01,Copilot,0
+2019-02,Copilot,0
+2019-03,Copilot,0
+2019-04,Copilot,0
+2019-05,Copilot,0
+2019-06,Copilot,0
+2019-07,Copilot,0
+2019-08,Copilot,0
+2019-09,Copilot,0
+2019-10,Copilot,0
+2019-11,Copilot,0
+2019-12,Copilot,0
+2020-01,Copilot,0
+2020-02,Copilot,0
+2020-03,Copilot,0
+2020-04,Copilot,0
+2020-05,Copilot,0
+2020-06,Copilot,0
+2020-07,Copilot,0
+2020-08,Copilot,0
+2020-09,Copilot,0
+2020-10,Copilot,0
+2020-11,Copilot,0
+2020-12,Copilot,0
+2021-01,Copilot,0
+2021-02,Copilot,0
+2021-03,Copilot,0
+2021-04,Copilot,0
+2021-05,Copilot,0
+2021-06,Copilot,1
+2021-07,Copilot,2
+2021-08,Copilot,0
+2021-09,Copilot,1
+2021-10,Copilot,1
+2021-11,Copilot,0
+2021-12,Copilot,0
+2022-01,Copilot,0
+2022-02,Copilot,0
+2022-03,Copilot,0
+2022-04,Copilot,0
+2022-05,Copilot,0
+2022-06,Copilot,2
+2022-07,Copilot,0
+2022-08,Copilot,1
+2022-09,Copilot,0
+2022-10,Copilot,1
+2022-11,Copilot,3
+2022-12,Copilot,1
+2023-01,Copilot,3
+2023-02,Copilot,3
+2023-03,Copilot,1
+2023-04,Copilot,10
+2023-05,Copilot,4
+2023-06,Copilot,7
+2023-07,Copilot,2
+2023-08,Copilot,5
+2023-09,Copilot,8
+2023-10,Copilot,2
+2023-11,Copilot,6
+2023-12,Copilot,6
+2024-01,Copilot,6
+2024-02,Copilot,3
+2024-03,Copilot,8
+2024-04,Copilot,6
+2024-05,Copilot,6
+2024-06,Copilot,4
+2024-07,Copilot,5
+2024-08,Copilot,3
+2024-09,Copilot,10
+2024-10,Copilot,4
+2024-11,Copilot,8
+2024-12,Copilot,5
+2025-01,Copilot,4
+2025-02,Copilot,1
+2025-03,Copilot,5
+2025-04,Copilot,5
+2025-05,Copilot,3
+2025-06,Copilot,8
+2025-07,Copilot,7
+2025-08,Copilot,5
+2025-09,Copilot,6
+2025-10,Copilot,5
+2025-11,Copilot,6
+2025-12,Copilot,8
+2026-01,Copilot,8
+2026-02,Copilot,8
+2026-03,Copilot,12
+2026-04,Copilot,5
+2026-05,Copilot,6
+2026-06,Copilot,8
+2026-07,Copilot,5
+2026-08,Copilot,1
+2026-09,Copilot,4
+2012-01,Codex,0
+2012-02,Codex,0
+2012-03,Codex,0
+2012-04,Codex,0
+2012-05,Codex,0
+2012-06,Codex,0
+2012-07,Codex,0
+2012-08,Codex,0
+2012-09,Codex,0
+2012-10,Codex,0
+2012-11,Codex,0
+2012-12,Codex,0
+2013-01,Codex,0
+2013-02,Codex,0
+2013-03,Codex,0
+2013-04,Codex,1
+2013-05,Codex,0
+2013-06,Codex,0
+2013-07,Codex,0
+2013-08,Codex,0
+2013-09,Codex,0
+2013-10,Codex,0
+2013-11,Codex,0
+2013-12,Codex,0
+2014-01,Codex,0
+2014-02,Codex,0
+2014-03,Codex,0
+2014-04,Codex,0
+2014-05,Codex,0
+2014-06,Codex,0
+2014-07,Codex,0
+2014-08,Codex,0
+2014-09,Codex,0
+2014-10,Codex,0
+2014-11,Codex,0
+2014-12,Codex,0
+2015-01,Codex,0
+2015-02,Codex,0
+2015-03,Codex,0
+2015-04,Codex,0
+2015-05,Codex,0
+2015-06,Codex,0
+2015-07,Codex,0
+2015-08,Codex,0
+2015-09,Codex,0
+2015-10,Codex,0
+2015-11,Codex,0
+2015-12,Codex,0
+2016-01,Codex,1
+2016-02,Codex,0
+2016-03,Codex,0
+2016-04,Codex,0
+2016-05,Codex,0
+2016-06,Codex,0
+2016-07,Codex,0
+2016-08,Codex,0
+2016-09,Codex,0
+2016-10,Codex,0
+2016-11,Codex,0
+2016-12,Codex,0
+2017-01,Codex,0
+2017-02,Codex,0
+2017-03,Codex,0
+2017-04,Codex,0
+2017-05,Codex,0
+2017-06,Codex,0
+2017-07,Codex,0
+2017-08,Codex,0
+2017-09,Codex,0
+2017-10,Codex,0
+2017-11,Codex,1
+2017-12,Codex,0
+2018-01,Codex,0
+2018-02,Codex,0
+2018-03,Codex,0
+2018-04,Codex,0
+2018-05,Codex,0
+2018-06,Codex,0
+2018-07,Codex,0
+2018-08,Codex,0
+2018-09,Codex,0
+2018-10,Codex,0
+2018-11,Codex,0
+2018-12,Codex,0
+2019-01,Codex,0
+2019-02,Codex,0
+2019-03,Codex,0
+2019-04,Codex,0
+2019-05,Codex,0
+2019-06,Codex,0
+2019-07,Codex,0
+2019-08,Codex,0
+2019-09,Codex,0
+2019-10,Codex,0
+2019-11,Codex,0
+2019-12,Codex,0
+2020-01,Codex,0
+2020-02,Codex,0
+2020-03,Codex,0
+2020-04,Codex,0
+2020-05,Codex,0
+2020-06,Codex,0
+2020-07,Codex,0
+2020-08,Codex,0
+2020-09,Codex,0
+2020-10,Codex,0
+2020-11,Codex,0
+2020-12,Codex,0
+2021-01,Codex,0
+2021-02,Codex,0
+2021-03,Codex,0
+2021-04,Codex,1
+2021-05,Codex,0
+2021-06,Codex,0
+2021-07,Codex,0
+2021-08,Codex,1
+2021-09,Codex,2
+2021-10,Codex,0
+2021-11,Codex,0
+2021-12,Codex,1
+2022-01,Codex,2
+2022-02,Codex,0
+2022-03,Codex,1
+2022-04,Codex,1
+2022-05,Codex,0
+2022-06,Codex,0
+2022-07,Codex,0
+2022-08,Codex,0
+2022-09,Codex,1
+2022-10,Codex,0
+2022-11,Codex,0
+2022-12,Codex,1
+2023-01,Codex,1
+2023-02,Codex,0
+2023-03,Codex,1
+2023-04,Codex,0
+2023-05,Codex,0
+2023-06,Codex,1
+2023-07,Codex,0
+2023-08,Codex,0
+2023-09,Codex,0
+2023-10,Codex,0
+2023-11,Codex,0
+2023-12,Codex,0
+2024-01,Codex,0
+2024-02,Codex,0
+2024-03,Codex,0
+2024-04,Codex,0
+2024-05,Codex,0
+2024-06,Codex,0
+2024-07,Codex,0
+2024-08,Codex,0
+2024-09,Codex,0
+2024-10,Codex,0
+2024-11,Codex,0
+2024-12,Codex,0
+2025-01,Codex,0
+2025-02,Codex,0
+2025-03,Codex,0
+2025-04,Codex,3
+2025-05,Codex,9
+2025-06,Codex,5
+2025-07,Codex,1
+2025-08,Codex,4
+2025-09,Codex,15
+2025-10,Codex,6
+2025-11,Codex,6
+2025-12,Codex,9
+2026-01,Codex,20
+2026-02,Codex,51
+2026-03,Codex,45
+2026-04,Codex,29
+2026-05,Codex,41
+2026-06,Codex,45
+2026-07,Codex,70
+2026-08,Codex,53
+2026-09,Codex,53
+2012-01,ChatGPT,0
+2012-02,ChatGPT,0
+2012-03,ChatGPT,0
+2012-04,ChatGPT,0
+2012-05,ChatGPT,0
+2012-06,ChatGPT,0
+2012-07,ChatGPT,0
+2012-08,ChatGPT,0
+2012-09,ChatGPT,0
+2012-10,ChatGPT,0
+2012-11,ChatGPT,0
+2012-12,ChatGPT,0
+2013-01,ChatGPT,0
+2013-02,ChatGPT,0
+2013-03,ChatGPT,0
+2013-04,ChatGPT,0
+2013-05,ChatGPT,0
+2013-06,ChatGPT,0
+2013-07,ChatGPT,0
+2013-08,ChatGPT,0
+2013-09,ChatGPT,0
+2013-10,ChatGPT,0
+2013-11,ChatGPT,0
+2013-12,ChatGPT,0
+2014-01,ChatGPT,0
+2014-02,ChatGPT,0
+2014-03,ChatGPT,0
+2014-04,ChatGPT,0
+2014-05,ChatGPT,0
+2014-06,ChatGPT,0
+2014-07,ChatGPT,0
+2014-08,ChatGPT,0
+2014-09,ChatGPT,0
+2014-10,ChatGPT,0
+2014-11,ChatGPT,0
+2014-12,ChatGPT,0
+2015-01,ChatGPT,0
+2015-02,ChatGPT,0
+2015-03,ChatGPT,0
+2015-04,ChatGPT,0
+2015-05,ChatGPT,0
+2015-06,ChatGPT,0
+2015-07,ChatGPT,0
+2015-08,ChatGPT,0
+2015-09,ChatGPT,0
+2015-10,ChatGPT,0
+2015-11,ChatGPT,0
+2015-12,ChatGPT,0
+2016-01,ChatGPT,0
+2016-02,ChatGPT,0
+2016-03,ChatGPT,0
+2016-04,ChatGPT,0
+2016-05,ChatGPT,0
+2016-06,ChatGPT,0
+2016-07,ChatGPT,0
+2016-08,ChatGPT,0
+2016-09,ChatGPT,0
+2016-10,ChatGPT,0
+2016-11,ChatGPT,0
+2016-12,ChatGPT,0
+2017-01,ChatGPT,0
+2017-02,ChatGPT,0
+2017-03,ChatGPT,0
+2017-04,ChatGPT,0
+2017-05,ChatGPT,0
+2017-06,ChatGPT,0
+2017-07,ChatGPT,0
+2017-08,ChatGPT,0
+2017-09,ChatGPT,0
+2017-10,ChatGPT,0
+2017-11,ChatGPT,0
+2017-12,ChatGPT,0
+2018-01,ChatGPT,0
+2018-02,ChatGPT,0
+2018-03,ChatGPT,0
+2018-04,ChatGPT,0
+2018-05,ChatGPT,0
+2018-06,ChatGPT,0
+2018-07,ChatGPT,0
+2018-08,ChatGPT,0
+2018-09,ChatGPT,0
+2018-10,ChatGPT,0
+2018-11,ChatGPT,0
+2018-12,ChatGPT,0
+2019-01,ChatGPT,0
+2019-02,ChatGPT,0
+2019-03,ChatGPT,0
+2019-04,ChatGPT,0
+2019-05,ChatGPT,0
+2019-06,ChatGPT,0
+2019-07,ChatGPT,0
+2019-08,ChatGPT,0
+2019-09,ChatGPT,0
+2019-10,ChatGPT,0
+2019-11,ChatGPT,0
+2019-12,ChatGPT,0
+2020-01,ChatGPT,0
+2020-02,ChatGPT,0
+2020-03,ChatGPT,0
+2020-04,ChatGPT,0
+2020-05,ChatGPT,0
+2020-06,ChatGPT,0
+2020-07,ChatGPT,0
+2020-08,ChatGPT,0
+2020-09,ChatGPT,0
+2020-10,ChatGPT,0
+2020-11,ChatGPT,0
+2020-12,ChatGPT,0
+2021-01,ChatGPT,0
+2021-02,ChatGPT,0
+2021-03,ChatGPT,0
+2021-04,ChatGPT,0
+2021-05,ChatGPT,0
+2021-06,ChatGPT,0
+2021-07,ChatGPT,0
+2021-08,ChatGPT,0
+2021-09,ChatGPT,0
+2021-10,ChatGPT,0
+2021-11,ChatGPT,0
+2021-12,ChatGPT,0
+2022-01,ChatGPT,0
+2022-02,ChatGPT,0
+2022-03,ChatGPT,0
+2022-04,ChatGPT,0
+2022-05,ChatGPT,0
+2022-06,ChatGPT,0
+2022-07,ChatGPT,0
+2022-08,ChatGPT,0
+2022-09,ChatGPT,0
+2022-10,ChatGPT,0
+2022-11,ChatGPT,0
+2022-12,ChatGPT,86
+2023-01,ChatGPT,33
+2023-02,ChatGPT,39
+2023-03,ChatGPT,189
+2023-04,ChatGPT,112
+2023-05,ChatGPT,79
+2023-06,ChatGPT,75
+2023-07,ChatGPT,30
+2023-08,ChatGPT,32
+2023-09,ChatGPT,29
+2023-10,ChatGPT,27
+2023-11,ChatGPT,41
+2023-12,ChatGPT,24
+2024-01,ChatGPT,18
+2024-02,ChatGPT,21
+2024-03,ChatGPT,10
+2024-04,ChatGPT,8
+2024-05,ChatGPT,19
+2024-06,ChatGPT,17
+2024-07,ChatGPT,13
+2024-08,ChatGPT,9
+2024-09,ChatGPT,15
+2024-10,ChatGPT,10
+2024-11,ChatGPT,11
+2024-12,ChatGPT,18
+2025-01,ChatGPT,12
+2025-02,ChatGPT,9
+2025-03,ChatGPT,18
+2025-04,ChatGPT,16
+2025-05,ChatGPT,25
+2025-06,ChatGPT,14
+2025-07,ChatGPT,25
+2025-08,ChatGPT,24
+2025-09,ChatGPT,14
+2025-10,ChatGPT,25
+2025-11,ChatGPT,14
+2025-12,ChatGPT,18
+2026-01,ChatGPT,28
+2026-02,ChatGPT,23
+2026-03,ChatGPT,22
+2026-04,ChatGPT,8
+2026-05,ChatGPT,8
+2026-06,ChatGPT,18
+2026-07,ChatGPT,16
+2026-08,ChatGPT,16
+2026-09,ChatGPT,21
+2012-01,Vibe coding,0
+2012-02,Vibe coding,0
+2012-03,Vibe coding,0
+2012-04,Vibe coding,0
+2012-05,Vibe coding,0
+2012-06,Vibe coding,0
+2012-07,Vibe coding,0
+2012-08,Vibe coding,0
+2012-09,Vibe coding,0
+2012-10,Vibe coding,0
+2012-11,Vibe coding,0
+2012-12,Vibe coding,0
+2013-01,Vibe coding,0
+2013-02,Vibe coding,0
+2013-03,Vibe coding,0
+2013-04,Vibe coding,0
+2013-05,Vibe coding,0
+2013-06,Vibe coding,0
+2013-07,Vibe coding,0
+2013-08,Vibe coding,0
+2013-09,Vibe coding,0
+2013-10,Vibe coding,0
+2013-11,Vibe coding,0
+2013-12,Vibe coding,0
+2014-01,Vibe coding,0
+2014-02,Vibe coding,0
+2014-03,Vibe coding,0
+2014-04,Vibe coding,0
+2014-05,Vibe coding,0
+2014-06,Vibe coding,0
+2014-07,Vibe coding,0
+2014-08,Vibe coding,0
+2014-09,Vibe coding,0
+2014-10,Vibe coding,0
+2014-11,Vibe coding,0
+2014-12,Vibe coding,0
+2015-01,Vibe coding,0
+2015-02,Vibe coding,0
+2015-03,Vibe coding,0
+2015-04,Vibe coding,0
+2015-05,Vibe coding,0
+2015-06,Vibe coding,0
+2015-07,Vibe coding,0
+2015-08,Vibe coding,0
+2015-09,Vibe coding,0
+2015-10,Vibe coding,0
+2015-11,Vibe coding,0
+2015-12,Vibe coding,0
+2016-01,Vibe coding,0
+2016-02,Vibe coding,0
+2016-03,Vibe coding,0
+2016-04,Vibe coding,0
+2016-05,Vibe coding,0
+2016-06,Vibe coding,0
+2016-07,Vibe coding,0
+2016-08,Vibe coding,0
+2016-09,Vibe coding,0
+2016-10,Vibe coding,0
+2016-11,Vibe coding,0
+2016-12,Vibe coding,0
+2017-01,Vibe coding,0
+2017-02,Vibe coding,0
+2017-03,Vibe coding,0
+2017-04,Vibe coding,0
+2017-05,Vibe coding,0
+2017-06,Vibe coding,0
+2017-07,Vibe coding,0
+2017-08,Vibe coding,0
+2017-09,Vibe coding,0
+2017-10,Vibe coding,0
+2017-11,Vibe coding,0
+2017-12,Vibe coding,0
+2018-01,Vibe coding,0
+2018-02,Vibe coding,0
+2018-03,Vibe coding,0
+2018-04,Vibe coding,0
+2018-05,Vibe coding,0
+2018-06,Vibe coding,0
+2018-07,Vibe coding,0
+2018-08,Vibe coding,0
+2018-09,Vibe coding,0
+2018-10,Vibe coding,0
+2018-11,Vibe coding,0
+2018-12,Vibe coding,0
+2019-01,Vibe coding,0
+2019-02,Vibe coding,0
+2019-03,Vibe coding,0
+2019-04,Vibe coding,0
+2019-05,Vibe coding,0
+2019-06,Vibe coding,0
+2019-07,Vibe coding,0
+2019-08,Vibe coding,0
+2019-09,Vibe coding,0
+2019-10,Vibe coding,0
+2019-11,Vibe coding,0
+2019-12,Vibe coding,0
+2020-01,Vibe coding,0
+2020-02,Vibe coding,0
+2020-03,Vibe coding,0
+2020-04,Vibe coding,0
+2020-05,Vibe coding,0
+2020-06,Vibe coding,0
+2020-07,Vibe coding,0
+2020-08,Vibe coding,0
+2020-09,Vibe coding,0
+2020-10,Vibe coding,0
+2020-11,Vibe coding,0
+2020-12,Vibe coding,0
+2021-01,Vibe coding,0
+2021-02,Vibe coding,0
+2021-03,Vibe coding,0
+2021-04,Vibe coding,0
+2021-05,Vibe coding,0
+2021-06,Vibe coding,0
+2021-07,Vibe coding,0
+2021-08,Vibe coding,0
+2021-09,Vibe coding,0
+2021-10,Vibe coding,0
+2021-11,Vibe coding,0
+2021-12,Vibe coding,0
+2022-01,Vibe coding,0
+2022-02,Vibe coding,0
+2022-03,Vibe coding,0
+2022-04,Vibe coding,0
+2022-05,Vibe coding,0
+2022-06,Vibe coding,0
+2022-07,Vibe coding,0
+2022-08,Vibe coding,0
+2022-09,Vibe coding,0
+2022-10,Vibe coding,0
+2022-11,Vibe coding,0
+2022-12,Vibe coding,0
+2023-01,Vibe coding,0
+2023-02,Vibe coding,0
+2023-03,Vibe coding,0
+2023-04,Vibe coding,0
+2023-05,Vibe coding,0
+2023-06,Vibe coding,0
+2023-07,Vibe coding,0
+2023-08,Vibe coding,0
+2023-09,Vibe coding,0
+2023-10,Vibe coding,0
+2023-11,Vibe coding,0
+2023-12,Vibe coding,0
+2024-01,Vibe coding,0
+2024-02,Vibe coding,0
+2024-03,Vibe coding,0
+2024-04,Vibe coding,0
+2024-05,Vibe coding,0
+2024-06,Vibe coding,0
+2024-07,Vibe coding,0
+2024-08,Vibe coding,0
+2024-09,Vibe coding,0
+2024-10,Vibe coding,0
+2024-11,Vibe coding,0
+2024-12,Vibe coding,0
+2025-01,Vibe coding,0
+2025-02,Vibe coding,2
+2025-03,Vibe coding,30
+2025-04,Vibe coding,30
+2025-05,Vibe coding,19
+2025-06,Vibe coding,21
+2025-07,Vibe coding,7
+2025-08,Vibe coding,16
+2025-09,Vibe coding,19
+2025-10,Vibe coding,7
+2025-11,Vibe coding,14
+2025-12,Vibe coding,30
+2026-01,Vibe coding,31
+2026-02,Vibe coding,43
+2026-03,Vibe coding,17
+2026-04,Vibe coding,16
+2026-05,Vibe coding,27
+2026-06,Vibe coding,4
+2026-07,Vibe coding,10
+2026-08,Vibe coding,5
+2026-09,Vibe coding,16
+2012-01,Built with AI,0
+2012-02,Built with AI,0
+2012-03,Built with AI,0
+2012-04,Built with AI,0
+2012-05,Built with AI,0
+2012-06,Built with AI,0
+2012-07,Built with AI,0
+2012-08,Built with AI,0
+2012-09,Built with AI,0
+2012-10,Built with AI,0
+2012-11,Built with AI,0
+2012-12,Built with AI,0
+2013-01,Built with AI,0
+2013-02,Built with AI,0
+2013-03,Built with AI,0
+2013-04,Built with AI,0
+2013-05,Built with AI,0
+2013-06,Built with AI,0
+2013-07,Built with AI,0
+2013-08,Built with AI,0
+2013-09,Built with AI,0
+2013-10,Built with AI,0
+2013-11,Built with AI,0
+2013-12,Built with AI,0
+2014-01,Built with AI,0
+2014-02,Built with AI,0
+2014-03,Built with AI,0
+2014-04,Built with AI,0
+2014-05,Built with AI,0
+2014-06,Built with AI,0
+2014-07,Built with AI,0
+2014-08,Built with AI,0
+2014-09,Built with AI,0
+2014-10,Built with AI,0
+2014-11,Built with AI,0
+2014-12,Built with AI,0
+2015-01,Built with AI,0
+2015-02,Built with AI,0
+2015-03,Built with AI,0
+2015-04,Built with AI,0
+2015-05,Built with AI,0
+2015-06,Built with AI,0
+2015-07,Built with AI,0
+2015-08,Built with AI,0
+2015-09,Built with AI,0
+2015-10,Built with AI,0
+2015-11,Built with AI,0
+2015-12,Built with AI,0
+2016-01,Built with AI,0
+2016-02,Built with AI,0
+2016-03,Built with AI,0
+2016-04,Built with AI,0
+2016-05,Built with AI,0
+2016-06,Built with AI,0
+2016-07,Built with AI,0
+2016-08,Built with AI,0
+2016-09,Built with AI,0
+2016-10,Built with AI,0
+2016-11,Built with AI,0
+2016-12,Built with AI,0
+2017-01,Built with AI,0
+2017-02,Built with AI,0
+2017-03,Built with AI,0
+2017-04,Built with AI,0
+2017-05,Built with AI,0
+2017-06,Built with AI,0
+2017-07,Built with AI,0
+2017-08,Built with AI,0
+2017-09,Built with AI,0
+2017-10,Built with AI,0
+2017-11,Built with AI,0
+2017-12,Built with AI,0
+2018-01,Built with AI,0
+2018-02,Built with AI,0
+2018-03,Built with AI,0
+2018-04,Built with AI,0
+2018-05,Built with AI,0
+2018-06,Built with AI,0
+2018-07,Built with AI,0
+2018-08,Built with AI,0
+2018-09,Built with AI,0
+2018-10,Built with AI,0
+2018-11,Built with AI,0
+2018-12,Built with AI,0
+2019-01,Built with AI,0
+2019-02,Built with AI,0
+2019-03,Built with AI,0
+2019-04,Built with AI,0
+2019-05,Built with AI,0
+2019-06,Built with AI,0
+2019-07,Built with AI,0
+2019-08,Built with AI,0
+2019-09,Built with AI,0
+2019-10,Built with AI,0
+2019-11,Built with AI,0
+2019-12,Built with AI,0
+2020-01,Built with AI,0
+2020-02,Built with AI,0
+2020-03,Built with AI,0
+2020-04,Built with AI,0
+2020-05,Built with AI,0
+2020-06,Built with AI,0
+2020-07,Built with AI,0
+2020-08,Built with AI,0
+2020-09,Built with AI,0
+2020-10,Built with AI,0
+2020-11,Built with AI,0
+2020-12,Built with AI,0
+2021-01,Built with AI,0
+2021-02,Built with AI,0
+2021-03,Built with AI,0
+2021-04,Built with AI,0
+2021-05,Built with AI,0
+2021-06,Built with AI,0
+2021-07,Built with AI,0
+2021-08,Built with AI,0
+2021-09,Built with AI,0
+2021-10,Built with AI,0
+2021-11,Built with AI,0
+2021-12,Built with AI,0
+2022-01,Built with AI,0
+2022-02,Built with AI,0
+2022-03,Built with AI,0
+2022-04,Built with AI,0
+2022-05,Built with AI,0
+2022-06,Built with AI,0
+2022-07,Built with AI,0
+2022-08,Built with AI,0
+2022-09,Built with AI,0
+2022-10,Built with AI,0
+2022-11,Built with AI,0
+2022-12,Built with AI,0
+2023-01,Built with AI,0
+2023-02,Built with AI,0
+2023-03,Built with AI,0
+2023-04,Built with AI,0
+2023-05,Built with AI,0
+2023-06,Built with AI,0
+2023-07,Built with AI,0
+2023-08,Built with AI,0
+2023-09,Built with AI,0
+2023-10,Built with AI,0
+2023-11,Built with AI,0
+2023-12,Built with AI,0
+2024-01,Built with AI,0
+2024-02,Built with AI,0
+2024-03,Built with AI,0
+2024-04,Built with AI,1
+2024-05,Built with AI,0
+2024-06,Built with AI,0
+2024-07,Built with AI,0
+2024-08,Built with AI,0
+2024-09,Built with AI,0
+2024-10,Built with AI,0
+2024-11,Built with AI,1
+2024-12,Built with AI,0
+2025-01,Built with AI,0
+2025-02,Built with AI,0
+2025-03,Built with AI,1
+2025-04,Built with AI,0
+2025-05,Built with AI,0
+2025-06,Built with AI,0
+2025-07,Built with AI,0
+2025-08,Built with AI,0
+2025-09,Built with AI,0
+2025-10,Built with AI,0
+2025-11,Built with AI,0
+2025-12,Built with AI,1
+2026-01,Built with AI,2
+2026-02,Built with AI,5
+2026-03,Built with AI,3
+2026-04,Built with AI,0
+2026-05,Built with AI,0
+2026-06,Built with AI,0
+2026-07,Built with AI,0
+2026-08,Built with AI,0
+2026-09,Built with AI,0
+2012-01,Lovable,0
+2012-02,Lovable,0
+2012-03,Lovable,0
+2012-04,Lovable,0
+2012-05,Lovable,0
+2012-06,Lovable,0
+2012-07,Lovable,0
+2012-08,Lovable,0
+2012-09,Lovable,0
+2012-10,Lovable,0
+2012-11,Lovable,0
+2012-12,Lovable,0
+2013-01,Lovable,0
+2013-02,Lovable,0
+2013-03,Lovable,0
+2013-04,Lovable,0
+2013-05,Lovable,0
+2013-06,Lovable,0
+2013-07,Lovable,0
+2013-08,Lovable,0
+2013-09,Lovable,0
+2013-10,Lovable,0
+2013-11,Lovable,0
+2013-12,Lovable,0
+2014-01,Lovable,0
+2014-02,Lovable,0
+2014-03,Lovable,0
+2014-04,Lovable,0
+2014-05,Lovable,0
+2014-06,Lovable,0
+2014-07,Lovable,0
+2014-08,Lovable,0
+2014-09,Lovable,0
+2014-10,Lovable,0
+2014-11,Lovable,0
+2014-12,Lovable,0
+2015-01,Lovable,0
+2015-02,Lovable,0
+2015-03,Lovable,0
+2015-04,Lovable,0
+2015-05,Lovable,0
+2015-06,Lovable,0
+2015-07,Lovable,0
+2015-08,Lovable,0
+2015-09,Lovable,0
+2015-10,Lovable,0
+2015-11,Lovable,0
+2015-12,Lovable,0
+2016-01,Lovable,0
+2016-02,Lovable,0
+2016-03,Lovable,0
+2016-04,Lovable,0
+2016-05,Lovable,0
+2016-06,Lovable,0
+2016-07,Lovable,0
+2016-08,Lovable,0
+2016-09,Lovable,0
+2016-10,Lovable,0
+2016-11,Lovable,0
+2016-12,Lovable,0
+2017-01,Lovable,0
+2017-02,Lovable,0
+2017-03,Lovable,0
+2017-04,Lovable,0
+2017-05,Lovable,0
+2017-06,Lovable,0
+2017-07,Lovable,0
+2017-08,Lovable,0
+2017-09,Lovable,0
+2017-10,Lovable,0
+2017-11,Lovable,0
+2017-12,Lovable,0
+2018-01,Lovable,0
+2018-02,Lovable,0
+2018-03,Lovable,0
+2018-04,Lovable,0
+2018-05,Lovable,0
+2018-06,Lovable,0
+2018-07,Lovable,1
+2018-08,Lovable,0
+2018-09,Lovable,0
+2018-10,Lovable,0
+2018-11,Lovable,0
+2018-12,Lovable,0
+2019-01,Lovable,0
+2019-02,Lovable,0
+2019-03,Lovable,0
+2019-04,Lovable,0
+2019-05,Lovable,0
+2019-06,Lovable,0
+2019-07,Lovable,0
+2019-08,Lovable,0
+2019-09,Lovable,0
+2019-10,Lovable,0
+2019-11,Lovable,0
+2019-12,Lovable,0
+2020-01,Lovable,0
+2020-02,Lovable,0
+2020-03,Lovable,0
+2020-04,Lovable,0
+2020-05,Lovable,0
+2020-06,Lovable,0
+2020-07,Lovable,0
+2020-08,Lovable,0
+2020-09,Lovable,0
+2020-10,Lovable,0
+2020-11,Lovable,0
+2020-12,Lovable,0
+2021-01,Lovable,0
+2021-02,Lovable,0
+2021-03,Lovable,0
+2021-04,Lovable,0
+2021-05,Lovable,0
+2021-06,Lovable,0
+2021-07,Lovable,0
+2021-08,Lovable,0
+2021-09,Lovable,0
+2021-10,Lovable,0
+2021-11,Lovable,0
+2021-12,Lovable,0
+2022-01,Lovable,0
+2022-02,Lovable,0
+2022-03,Lovable,0
+2022-04,Lovable,0
+2022-05,Lovable,0
+2022-06,Lovable,0
+2022-07,Lovable,0
+2022-08,Lovable,0
+2022-09,Lovable,0
+2022-10,Lovable,0
+2022-11,Lovable,0
+2022-12,Lovable,0
+2023-01,Lovable,0
+2023-02,Lovable,0
+2023-03,Lovable,0
+2023-04,Lovable,0
+2023-05,Lovable,0
+2023-06,Lovable,0
+2023-07,Lovable,0
+2023-08,Lovable,0
+2023-09,Lovable,0
+2023-10,Lovable,0
+2023-11,Lovable,0
+2023-12,Lovable,0
+2024-01,Lovable,0
+2024-02,Lovable,0
+2024-03,Lovable,0
+2024-04,Lovable,0
+2024-05,Lovable,0
+2024-06,Lovable,0
+2024-07,Lovable,0
+2024-08,Lovable,0
+2024-09,Lovable,0
+2024-10,Lovable,0
+2024-11,Lovable,0
+2024-12,Lovable,0
+2025-01,Lovable,1
+2025-02,Lovable,1
+2025-03,Lovable,3
+2025-04,Lovable,2
+2025-05,Lovable,9
+2025-06,Lovable,4
+2025-07,Lovable,3
+2025-08,Lovable,4
+2025-09,Lovable,3
+2025-10,Lovable,3
+2025-11,Lovable,6
+2025-12,Lovable,3
+2026-01,Lovable,4
+2026-02,Lovable,3
+2026-03,Lovable,4
+2026-04,Lovable,3
+2026-05,Lovable,1
+2026-06,Lovable,2
+2026-07,Lovable,1
+2026-08,Lovable,1
+2026-09,Lovable,1
+2012-01,Bolt.new,0
+2012-02,Bolt.new,0
+2012-03,Bolt.new,0
+2012-04,Bolt.new,0
+2012-05,Bolt.new,0
+2012-06,Bolt.new,0
+2012-07,Bolt.new,0
+2012-08,Bolt.new,0
+2012-09,Bolt.new,0
+2012-10,Bolt.new,0
+2012-11,Bolt.new,0
+2012-12,Bolt.new,0
+2013-01,Bolt.new,0
+2013-02,Bolt.new,0
+2013-03,Bolt.new,0
+2013-04,Bolt.new,0
+2013-05,Bolt.new,0
+2013-06,Bolt.new,0
+2013-07,Bolt.new,0
+2013-08,Bolt.new,0
+2013-09,Bolt.new,0
+2013-10,Bolt.new,0
+2013-11,Bolt.new,0
+2013-12,Bolt.new,0
+2014-01,Bolt.new,0
+2014-02,Bolt.new,0
+2014-03,Bolt.new,0
+2014-04,Bolt.new,0
+2014-05,Bolt.new,0
+2014-06,Bolt.new,0
+2014-07,Bolt.new,0
+2014-08,Bolt.new,0
+2014-09,Bolt.new,0
+2014-10,Bolt.new,0
+2014-11,Bolt.new,0
+2014-12,Bolt.new,0
+2015-01,Bolt.new,0
+2015-02,Bolt.new,0
+2015-03,Bolt.new,0
+2015-04,Bolt.new,0
+2015-05,Bolt.new,0
+2015-06,Bolt.new,0
+2015-07,Bolt.new,0
+2015-08,Bolt.new,0
+2015-09,Bolt.new,0
+2015-10,Bolt.new,0
+2015-11,Bolt.new,0
+2015-12,Bolt.new,0
+2016-01,Bolt.new,0
+2016-02,Bolt.new,0
+2016-03,Bolt.new,0
+2016-04,Bolt.new,0
+2016-05,Bolt.new,0
+2016-06,Bolt.new,0
+2016-07,Bolt.new,0
+2016-08,Bolt.new,0
+2016-09,Bolt.new,0
+2016-10,Bolt.new,0
+2016-11,Bolt.new,0
+2016-12,Bolt.new,0
+2017-01,Bolt.new,0
+2017-02,Bolt.new,0
+2017-03,Bolt.new,0
+2017-04,Bolt.new,0
+2017-05,Bolt.new,0
+2017-06,Bolt.new,0
+2017-07,Bolt.new,0
+2017-08,Bolt.new,0
+2017-09,Bolt.new,0
+2017-10,Bolt.new,0
+2017-11,Bolt.new,0
+2017-12,Bolt.new,0
+2018-01,Bolt.new,0
+2018-02,Bolt.new,0
+2018-03,Bolt.new,0
+2018-04,Bolt.new,0
+2018-05,Bolt.new,0
+2018-06,Bolt.new,0
+2018-07,Bolt.new,0
+2018-08,Bolt.new,0
+2018-09,Bolt.new,0
+2018-10,Bolt.new,0
+2018-11,Bolt.new,0
+2018-12,Bolt.new,0
+2019-01,Bolt.new,0
+2019-02,Bolt.new,0
+2019-03,Bolt.new,0
+2019-04,Bolt.new,0
+2019-05,Bolt.new,0
+2019-06,Bolt.new,0
+2019-07,Bolt.new,0
+2019-08,Bolt.new,0
+2019-09,Bolt.new,0
+2019-10,Bolt.new,0
+2019-11,Bolt.new,0
+2019-12,Bolt.new,0
+2020-01,Bolt.new,0
+2020-02,Bolt.new,0
+2020-03,Bolt.new,0
+2020-04,Bolt.new,0
+2020-05,Bolt.new,0
+2020-06,Bolt.new,0
+2020-07,Bolt.new,0
+2020-08,Bolt.new,0
+2020-09,Bolt.new,0
+2020-10,Bolt.new,0
+2020-11,Bolt.new,0
+2020-12,Bolt.new,0
+2021-01,Bolt.new,0
+2021-02,Bolt.new,0
+2021-03,Bolt.new,0
+2021-04,Bolt.new,0
+2021-05,Bolt.new,0
+2021-06,Bolt.new,0
+2021-07,Bolt.new,0
+2021-08,Bolt.new,0
+2021-09,Bolt.new,0
+2021-10,Bolt.new,0
+2021-11,Bolt.new,0
+2021-12,Bolt.new,0
+2022-01,Bolt.new,0
+2022-02,Bolt.new,0
+2022-03,Bolt.new,0
+2022-04,Bolt.new,0
+2022-05,Bolt.new,0
+2022-06,Bolt.new,0
+2022-07,Bolt.new,0
+2022-08,Bolt.new,0
+2022-09,Bolt.new,0
+2022-10,Bolt.new,0
+2022-11,Bolt.new,0
+2022-12,Bolt.new,0
+2023-01,Bolt.new,0
+2023-02,Bolt.new,0
+2023-03,Bolt.new,0
+2023-04,Bolt.new,0
+2023-05,Bolt.new,0
+2023-06,Bolt.new,0
+2023-07,Bolt.new,0
+2023-08,Bolt.new,0
+2023-09,Bolt.new,0
+2023-10,Bolt.new,0
+2023-11,Bolt.new,0
+2023-12,Bolt.new,0
+2024-01,Bolt.new,0
+2024-02,Bolt.new,0
+2024-03,Bolt.new,0
+2024-04,Bolt.new,0
+2024-05,Bolt.new,0
+2024-06,Bolt.new,0
+2024-07,Bolt.new,0
+2024-08,Bolt.new,0
+2024-09,Bolt.new,0
+2024-10,Bolt.new,1
+2024-11,Bolt.new,0
+2024-12,Bolt.new,0
+2025-01,Bolt.new,1
+2025-02,Bolt.new,0
+2025-03,Bolt.new,0
+2025-04,Bolt.new,0
+2025-05,Bolt.new,1
+2025-06,Bolt.new,2
+2025-07,Bolt.new,0
+2025-08,Bolt.new,0
+2025-09,Bolt.new,0
+2025-10,Bolt.new,0
+2025-11,Bolt.new,0
+2025-12,Bolt.new,0
+2026-01,Bolt.new,0
+2026-02,Bolt.new,1
+2026-03,Bolt.new,0
+2026-04,Bolt.new,0
+2026-05,Bolt.new,0
+2026-06,Bolt.new,0
+2026-07,Bolt.new,0
+2026-08,Bolt.new,0
+2026-09,Bolt.new,0
+2012-01,v0 (Vercel),0
+2012-02,v0 (Vercel),0
+2012-03,v0 (Vercel),0
+2012-04,v0 (Vercel),0
+2012-05,v0 (Vercel),0
+2012-06,v0 (Vercel),0
+2012-07,v0 (Vercel),0
+2012-08,v0 (Vercel),0
+2012-09,v0 (Vercel),0
+2012-10,v0 (Vercel),0
+2012-11,v0 (Vercel),0
+2012-12,v0 (Vercel),0
+2013-01,v0 (Vercel),0
+2013-02,v0 (Vercel),0
+2013-03,v0 (Vercel),0
+2013-04,v0 (Vercel),0
+2013-05,v0 (Vercel),0
+2013-06,v0 (Vercel),0
+2013-07,v0 (Vercel),0
+2013-08,v0 (Vercel),0
+2013-09,v0 (Vercel),0
+2013-10,v0 (Vercel),0
+2013-11,v0 (Vercel),0
+2013-12,v0 (Vercel),0
+2014-01,v0 (Vercel),0
+2014-02,v0 (Vercel),0
+2014-03,v0 (Vercel),0
+2014-04,v0 (Vercel),0
+2014-05,v0 (Vercel),0
+2014-06,v0 (Vercel),0
+2014-07,v0 (Vercel),0
+2014-08,v0 (Vercel),0
+2014-09,v0 (Vercel),0
+2014-10,v0 (Vercel),0
+2014-11,v0 (Vercel),0
+2014-12,v0 (Vercel),0
+2015-01,v0 (Vercel),0
+2015-02,v0 (Vercel),0
+2015-03,v0 (Vercel),0
+2015-04,v0 (Vercel),0
+2015-05,v0 (Vercel),0
+2015-06,v0 (Vercel),0
+2015-07,v0 (Vercel),0
+2015-08,v0 (Vercel),0
+2015-09,v0 (Vercel),0
+2015-10,v0 (Vercel),0
+2015-11,v0 (Vercel),0
+2015-12,v0 (Vercel),0
+2016-01,v0 (Vercel),0
+2016-02,v0 (Vercel),0
+2016-03,v0 (Vercel),0
+2016-04,v0 (Vercel),0
+2016-05,v0 (Vercel),0
+2016-06,v0 (Vercel),0
+2016-07,v0 (Vercel),0
+2016-08,v0 (Vercel),0
+2016-09,v0 (Vercel),0
+2016-10,v0 (Vercel),0
+2016-11,v0 (Vercel),0
+2016-12,v0 (Vercel),0
+2017-01,v0 (Vercel),0
+2017-02,v0 (Vercel),0
+2017-03,v0 (Vercel),0
+2017-04,v0 (Vercel),0
+2017-05,v0 (Vercel),0
+2017-06,v0 (Vercel),0
+2017-07,v0 (Vercel),0
+2017-08,v0 (Vercel),0
+2017-09,v0 (Vercel),0
+2017-10,v0 (Vercel),0
+2017-11,v0 (Vercel),0
+2017-12,v0 (Vercel),0
+2018-01,v0 (Vercel),0
+2018-02,v0 (Vercel),0
+2018-03,v0 (Vercel),0
+2018-04,v0 (Vercel),0
+2018-05,v0 (Vercel),0
+2018-06,v0 (Vercel),0
+2018-07,v0 (Vercel),0
+2018-08,v0 (Vercel),0
+2018-09,v0 (Vercel),0
+2018-10,v0 (Vercel),0
+2018-11,v0 (Vercel),0
+2018-12,v0 (Vercel),0
+2019-01,v0 (Vercel),0
+2019-02,v0 (Vercel),0
+2019-03,v0 (Vercel),0
+2019-04,v0 (Vercel),0
+2019-05,v0 (Vercel),0
+2019-06,v0 (Vercel),0
+2019-07,v0 (Vercel),0
+2019-08,v0 (Vercel),0
+2019-09,v0 (Vercel),0
+2019-10,v0 (Vercel),0
+2019-11,v0 (Vercel),0
+2019-12,v0 (Vercel),0
+2020-01,v0 (Vercel),0
+2020-02,v0 (Vercel),0
+2020-03,v0 (Vercel),0
+2020-04,v0 (Vercel),0
+2020-05,v0 (Vercel),0
+2020-06,v0 (Vercel),0
+2020-07,v0 (Vercel),0
+2020-08,v0 (Vercel),0
+2020-09,v0 (Vercel),0
+2020-10,v0 (Vercel),0
+2020-11,v0 (Vercel),0
+2020-12,v0 (Vercel),0
+2021-01,v0 (Vercel),0
+2021-02,v0 (Vercel),0
+2021-03,v0 (Vercel),0
+2021-04,v0 (Vercel),0
+2021-05,v0 (Vercel),0
+2021-06,v0 (Vercel),0
+2021-07,v0 (Vercel),0
+2021-08,v0 (Vercel),0
+2021-09,v0 (Vercel),0
+2021-10,v0 (Vercel),0
+2021-11,v0 (Vercel),0
+2021-12,v0 (Vercel),0
+2022-01,v0 (Vercel),0
+2022-02,v0 (Vercel),0
+2022-03,v0 (Vercel),0
+2022-04,v0 (Vercel),0
+2022-05,v0 (Vercel),0
+2022-06,v0 (Vercel),0
+2022-07,v0 (Vercel),0
+2022-08,v0 (Vercel),0
+2022-09,v0 (Vercel),0
+2022-10,v0 (Vercel),0
+2022-11,v0 (Vercel),0
+2022-12,v0 (Vercel),0
+2023-01,v0 (Vercel),0
+2023-02,v0 (Vercel),0
+2023-03,v0 (Vercel),0
+2023-04,v0 (Vercel),0
+2023-05,v0 (Vercel),0
+2023-06,v0 (Vercel),0
+2023-07,v0 (Vercel),0
+2023-08,v0 (Vercel),0
+2023-09,v0 (Vercel),1
+2023-10,v0 (Vercel),1
+2023-11,v0 (Vercel),0
+2023-12,v0 (Vercel),1
+2024-01,v0 (Vercel),0
+2024-02,v0 (Vercel),0
+2024-03,v0 (Vercel),0
+2024-04,v0 (Vercel),0
+2024-05,v0 (Vercel),0
+2024-06,v0 (Vercel),0
+2024-07,v0 (Vercel),1
+2024-08,v0 (Vercel),0
+2024-09,v0 (Vercel),0
+2024-10,v0 (Vercel),0
+2024-11,v0 (Vercel),0
+2024-12,v0 (Vercel),1
+2025-01,v0 (Vercel),0
+2025-02,v0 (Vercel),0
+2025-03,v0 (Vercel),0
+2025-04,v0 (Vercel),1
+2025-05,v0 (Vercel),0
+2025-06,v0 (Vercel),1
+2025-07,v0 (Vercel),0
+2025-08,v0 (Vercel),0
+2025-09,v0 (Vercel),1
+2025-10,v0 (Vercel),0
+2025-11,v0 (Vercel),0
+2025-12,v0 (Vercel),0
+2026-01,v0 (Vercel),0
+2026-02,v0 (Vercel),0
+2026-03,v0 (Vercel),0
+2026-04,v0 (Vercel),0
+2026-05,v0 (Vercel),0
+2026-06,v0 (Vercel),0
+2026-07,v0 (Vercel),0
+2026-08,v0 (Vercel),0
+2026-09,v0 (Vercel),0
+2012-01,Replit,0
+2012-02,Replit,0
+2012-03,Replit,0
+2012-04,Replit,0
+2012-05,Replit,0
+2012-06,Replit,0
+2012-07,Replit,0
+2012-08,Replit,0
+2012-09,Replit,0
+2012-10,Replit,0
+2012-11,Replit,0
+2012-12,Replit,0
+2013-01,Replit,0
+2013-02,Replit,0
+2013-03,Replit,0
+2013-04,Replit,0
+2013-05,Replit,0
+2013-06,Replit,0
+2013-07,Replit,0
+2013-08,Replit,0
+2013-09,Replit,0
+2013-10,Replit,0
+2013-11,Replit,0
+2013-12,Replit,0
+2014-01,Replit,0
+2014-02,Replit,0
+2014-03,Replit,0
+2014-04,Replit,0
+2014-05,Replit,0
+2014-06,Replit,0
+2014-07,Replit,0
+2014-08,Replit,0
+2014-09,Replit,0
+2014-10,Replit,0
+2014-11,Replit,0
+2014-12,Replit,0
+2015-01,Replit,0
+2015-02,Replit,0
+2015-03,Replit,0
+2015-04,Replit,0
+2015-05,Replit,0
+2015-06,Replit,0
+2015-07,Replit,0
+2015-08,Replit,0
+2015-09,Replit,0
+2015-10,Replit,0
+2015-11,Replit,0
+2015-12,Replit,0
+2016-01,Replit,0
+2016-02,Replit,0
+2016-03,Replit,0
+2016-04,Replit,0
+2016-05,Replit,0
+2016-06,Replit,0
+2016-07,Replit,0
+2016-08,Replit,0
+2016-09,Replit,0
+2016-10,Replit,0
+2016-11,Replit,0
+2016-12,Replit,0
+2017-01,Replit,0
+2017-02,Replit,0
+2017-03,Replit,0
+2017-04,Replit,0
+2017-05,Replit,0
+2017-06,Replit,0
+2017-07,Replit,0
+2017-08,Replit,0
+2017-09,Replit,0
+2017-10,Replit,0
+2017-11,Replit,0
+2017-12,Replit,0
+2018-01,Replit,0
+2018-02,Replit,0
+2018-03,Replit,0
+2018-04,Replit,0
+2018-05,Replit,0
+2018-06,Replit,0
+2018-07,Replit,0
+2018-08,Replit,0
+2018-09,Replit,0
+2018-10,Replit,0
+2018-11,Replit,0
+2018-12,Replit,0
+2019-01,Replit,0
+2019-02,Replit,0
+2019-03,Replit,0
+2019-04,Replit,0
+2019-05,Replit,0
+2019-06,Replit,0
+2019-07,Replit,0
+2019-08,Replit,0
+2019-09,Replit,0
+2019-10,Replit,0
+2019-11,Replit,0
+2019-12,Replit,0
+2020-01,Replit,0
+2020-02,Replit,0
+2020-03,Replit,0
+2020-04,Replit,0
+2020-05,Replit,0
+2020-06,Replit,0
+2020-07,Replit,0
+2020-08,Replit,0
+2020-09,Replit,0
+2020-10,Replit,0
+2020-11,Replit,0
+2020-12,Replit,0
+2021-01,Replit,0
+2021-02,Replit,0
+2021-03,Replit,1
+2021-04,Replit,0
+2021-05,Replit,0
+2021-06,Replit,0
+2021-07,Replit,0
+2021-08,Replit,0
+2021-09,Replit,0
+2021-10,Replit,1
+2021-11,Replit,0
+2021-12,Replit,0
+2022-01,Replit,1
+2022-02,Replit,2
+2022-03,Replit,0
+2022-04,Replit,0
+2022-05,Replit,1
+2022-06,Replit,0
+2022-07,Replit,1
+2022-08,Replit,0
+2022-09,Replit,0
+2022-10,Replit,0
+2022-11,Replit,0
+2022-12,Replit,0
+2023-01,Replit,2
+2023-02,Replit,0
+2023-03,Replit,1
+2023-04,Replit,0
+2023-05,Replit,0
+2023-06,Replit,0
+2023-07,Replit,2
+2023-08,Replit,0
+2023-09,Replit,0
+2023-10,Replit,0
+2023-11,Replit,1
+2023-12,Replit,0
+2024-01,Replit,0
+2024-02,Replit,0
+2024-03,Replit,0
+2024-04,Replit,0
+2024-05,Replit,1
+2024-06,Replit,1
+2024-07,Replit,0
+2024-08,Replit,0
+2024-09,Replit,0
+2024-10,Replit,0
+2024-11,Replit,0
+2024-12,Replit,0
+2025-01,Replit,0
+2025-02,Replit,1
+2025-03,Replit,1
+2025-04,Replit,1
+2025-05,Replit,2
+2025-06,Replit,0
+2025-07,Replit,1
+2025-08,Replit,0
+2025-09,Replit,0
+2025-10,Replit,1
+2025-11,Replit,0
+2025-12,Replit,3
+2026-01,Replit,0
+2026-02,Replit,1
+2026-03,Replit,0
+2026-04,Replit,1
+2026-05,Replit,0
+2026-06,Replit,0
+2026-07,Replit,0
+2026-08,Replit,0
+2026-09,Replit,1
+2012-01,Windsurf,0
+2012-02,Windsurf,0
+2012-03,Windsurf,0
+2012-04,Windsurf,0
+2012-05,Windsurf,0
+2012-06,Windsurf,0
+2012-07,Windsurf,0
+2012-08,Windsurf,0
+2012-09,Windsurf,0
+2012-10,Windsurf,0
+2012-11,Windsurf,0
+2012-12,Windsurf,0
+2013-01,Windsurf,0
+2013-02,Windsurf,0
+2013-03,Windsurf,0
+2013-04,Windsurf,0
+2013-05,Windsurf,0
+2013-06,Windsurf,0
+2013-07,Windsurf,0
+2013-08,Windsurf,0
+2013-09,Windsurf,0
+2013-10,Windsurf,0
+2013-11,Windsurf,0
+2013-12,Windsurf,0
+2014-01,Windsurf,0
+2014-02,Windsurf,0
+2014-03,Windsurf,0
+2014-04,Windsurf,0
+2014-05,Windsurf,0
+2014-06,Windsurf,0
+2014-07,Windsurf,0
+2014-08,Windsurf,0
+2014-09,Windsurf,0
+2014-10,Windsurf,0
+2014-11,Windsurf,0
+2014-12,Windsurf,0
+2015-01,Windsurf,0
+2015-02,Windsurf,0
+2015-03,Windsurf,0
+2015-04,Windsurf,0
+2015-05,Windsurf,0
+2015-06,Windsurf,0
+2015-07,Windsurf,0
+2015-08,Windsurf,0
+2015-09,Windsurf,0
+2015-10,Windsurf,0
+2015-11,Windsurf,0
+2015-12,Windsurf,0
+2016-01,Windsurf,0
+2016-02,Windsurf,0
+2016-03,Windsurf,0
+2016-04,Windsurf,0
+2016-05,Windsurf,0
+2016-06,Windsurf,0
+2016-07,Windsurf,0
+2016-08,Windsurf,0
+2016-09,Windsurf,0
+2016-10,Windsurf,0
+2016-11,Windsurf,0
+2016-12,Windsurf,0
+2017-01,Windsurf,0
+2017-02,Windsurf,0
+2017-03,Windsurf,0
+2017-04,Windsurf,0
+2017-05,Windsurf,0
+2017-06,Windsurf,0
+2017-07,Windsurf,0
+2017-08,Windsurf,0
+2017-09,Windsurf,0
+2017-10,Windsurf,0
+2017-11,Windsurf,0
+2017-12,Windsurf,0
+2018-01,Windsurf,0
+2018-02,Windsurf,0
+2018-03,Windsurf,0
+2018-04,Windsurf,0
+2018-05,Windsurf,0
+2018-06,Windsurf,0
+2018-07,Windsurf,0
+2018-08,Windsurf,0
+2018-09,Windsurf,0
+2018-10,Windsurf,0
+2018-11,Windsurf,0
+2018-12,Windsurf,0
+2019-01,Windsurf,0
+2019-02,Windsurf,0
+2019-03,Windsurf,0
+2019-04,Windsurf,0
+2019-05,Windsurf,0
+2019-06,Windsurf,0
+2019-07,Windsurf,0
+2019-08,Windsurf,0
+2019-09,Windsurf,0
+2019-10,Windsurf,0
+2019-11,Windsurf,0
+2019-12,Windsurf,0
+2020-01,Windsurf,0
+2020-02,Windsurf,0
+2020-03,Windsurf,0
+2020-04,Windsurf,0
+2020-05,Windsurf,0
+2020-06,Windsurf,0
+2020-07,Windsurf,0
+2020-08,Windsurf,0
+2020-09,Windsurf,0
+2020-10,Windsurf,0
+2020-11,Windsurf,0
+2020-12,Windsurf,0
+2021-01,Windsurf,0
+2021-02,Windsurf,0
+2021-03,Windsurf,0
+2021-04,Windsurf,0
+2021-05,Windsurf,0
+2021-06,Windsurf,0
+2021-07,Windsurf,0
+2021-08,Windsurf,0
+2021-09,Windsurf,0
+2021-10,Windsurf,0
+2021-11,Windsurf,0
+2021-12,Windsurf,0
+2022-01,Windsurf,0
+2022-02,Windsurf,0
+2022-03,Windsurf,0
+2022-04,Windsurf,0
+2022-05,Windsurf,0
+2022-06,Windsurf,0
+2022-07,Windsurf,0
+2022-08,Windsurf,0
+2022-09,Windsurf,0
+2022-10,Windsurf,0
+2022-11,Windsurf,0
+2022-12,Windsurf,0
+2023-01,Windsurf,0
+2023-02,Windsurf,0
+2023-03,Windsurf,0
+2023-04,Windsurf,0
+2023-05,Windsurf,0
+2023-06,Windsurf,0
+2023-07,Windsurf,0
+2023-08,Windsurf,0
+2023-09,Windsurf,0
+2023-10,Windsurf,0
+2023-11,Windsurf,0
+2023-12,Windsurf,0
+2024-01,Windsurf,0
+2024-02,Windsurf,0
+2024-03,Windsurf,0
+2024-04,Windsurf,0
+2024-05,Windsurf,0
+2024-06,Windsurf,0
+2024-07,Windsurf,0
+2024-08,Windsurf,0
+2024-09,Windsurf,0
+2024-10,Windsurf,0
+2024-11,Windsurf,1
+2024-12,Windsurf,0
+2025-01,Windsurf,0
+2025-02,Windsurf,0
+2025-03,Windsurf,3
+2025-04,Windsurf,1
+2025-05,Windsurf,3
+2025-06,Windsurf,1
+2025-07,Windsurf,1
+2025-08,Windsurf,0
+2025-09,Windsurf,0
+2025-10,Windsurf,0
+2025-11,Windsurf,0
+2025-12,Windsurf,1
+2026-01,Windsurf,1
+2026-02,Windsurf,1
+2026-03,Windsurf,1
+2026-04,Windsurf,1
+2026-05,Windsurf,0
+2026-06,Windsurf,0
+2026-07,Windsurf,0
+2026-08,Windsurf,0
+2026-09,Windsurf,0

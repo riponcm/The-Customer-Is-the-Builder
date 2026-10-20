@@ -1,0 +1,1004 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mrrxwyz"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: I vibe coded a free <em>screen</em> <em>studio</em> <em>alternative</em> that runs in the browser"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen"
+          ],
+          "value": "https://<em>screen</em>.now"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mrrxwyz",
+        "story_43251576",
+        "show_hn"
+      ],
+      "author": "mrrxwyz",
+      "children": [
+        43253042,
+        43253246
+      ],
+      "created_at": "2025-03-04T07:44:06Z",
+      "created_at_i": 1741074246,
+      "num_comments": 4,
+      "objectID": "43251576",
+      "points": 12,
+      "story_id": 43251576,
+      "title": "Show HN: I vibe coded a free screen studio alternative that runs in the browser",
+      "updated_at": "2025-03-07T04:35:08Z",
+      "url": "https://screen.now"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ben_hrris"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "studio"
+          ],
+          "value": "Hey, I built Debut because I wanted <em>Screen</em> <em>Studio</em>'s polish without the price tag.\nIt does smooth cursor animations, automatic zoom effects, and clean exports: basically the stuff that makes <em>screen</em> recordings look professional without hours in a video editor.\n$25 lifetime for personal use, works on 2 devices.\nWould love feedback, especially from anyone who's tried <em>Screen</em> <em>Studio</em> or other recording tools and found them lacking."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: Debut – A $25 <em>Screen</em> <em>Studio</em> <em>alternative</em> for macOS"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://debut.sh/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ben_hrris",
+        "story_46506458",
+        "show_hn"
+      ],
+      "author": "ben_hrris",
+      "children": [
+        46507145,
+        46510589
+      ],
+      "created_at": "2026-01-05T23:08:42Z",
+      "created_at_i": 1767654522,
+      "num_comments": 4,
+      "objectID": "46506458",
+      "points": 7,
+      "story_id": 46506458,
+      "story_text": "Hey, I built Debut because I wanted Screen Studio&#x27;s polish without the price tag.\nIt does smooth cursor animations, automatic zoom effects, and clean exports: basically the stuff that makes screen recordings look professional without hours in a video editor.\n$25 lifetime for personal use, works on 2 devices.\nWould love feedback, especially from anyone who&#x27;s tried Screen Studio or other recording tools and found them lacking.",
+      "title": "Show HN: Debut – A $25 Screen Studio alternative for macOS",
+      "updated_at": "2026-03-05T23:16:49Z",
+      "url": "https://debut.sh/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "timkonie"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen"
+          ],
+          "value": "Hey HN!<p>I kept seeing those awesome animated <em>screen</em> recordings on X and wanted to make videos like that too. I couldn't find any good <em>screen</em> recorders with automatic effects for Windows, so I decided to build my own!<p>It currently\n- makes the cursor smooth\n- follows the cursor\n- zooms in on clicks\n- records &amp; animates webcam\n- and a bunch of other stuff that's available in the editor (change background, generate subtitles, speed up video segments...)<p>It's a paid app but there's a free trial if you want to play around with it - I'd love to hear what you think!<p>PS: I'm aware of the warning when downloading / installing the app. It's because I can currently only sign the installer with an IV code signing cert. Unfortunately there isn't much I can do at the moment - apparently code signing is hard and quite gatekeep-ey."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: I couldn't find a <em>Screen</em> <em>Studio</em> <em>alternative</em> for Windows, so I made one"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://getrapidemo.com/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_timkonie",
+        "story_41499972",
+        "show_hn"
+      ],
+      "author": "timkonie",
+      "children": [
+        41500366,
+        41501658
+      ],
+      "created_at": "2024-09-10T12:15:01Z",
+      "created_at_i": 1725970501,
+      "num_comments": 3,
+      "objectID": "41499972",
+      "points": 3,
+      "story_id": 41499972,
+      "story_text": "Hey HN!<p>I kept seeing those awesome animated screen recordings on X and wanted to make videos like that too. I couldn&#x27;t find any good screen recorders with automatic effects for Windows, so I decided to build my own!<p>It currently\n- makes the cursor smooth\n- follows the cursor\n- zooms in on clicks\n- records &amp; animates webcam\n- and a bunch of other stuff that&#x27;s available in the editor (change background, generate subtitles, speed up video segments...)<p>It&#x27;s a paid app but there&#x27;s a free trial if you want to play around with it - I&#x27;d love to hear what you think!<p>PS: I&#x27;m aware of the warning when downloading &#x2F; installing the app. It&#x27;s because I can currently only sign the installer with an IV code signing cert. Unfortunately there isn&#x27;t much I can do at the moment - apparently code signing is hard and quite gatekeep-ey.",
+      "title": "Show HN: I couldn't find a Screen Studio alternative for Windows, so I made one",
+      "updated_at": "2024-09-20T17:49:58Z",
+      "url": "https://getrapidemo.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "etienne_l"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: OpenScreen 2.0 – open-source <em>Screen</em> <em>Studio</em> <em>alternative</em> (Win/Mac/Linux)"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://getopenscreen.com/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_etienne_l",
+        "story_49977858",
+        "show_hn"
+      ],
+      "author": "etienne_l",
+      "children": [
+        49977862
+      ],
+      "created_at": "2026-10-06T13:07:12Z",
+      "created_at_i": 1791292032,
+      "num_comments": 0,
+      "objectID": "49977858",
+      "points": 3,
+      "story_id": 49977858,
+      "title": "Show HN: OpenScreen 2.0 – open-source Screen Studio alternative (Win/Mac/Linux)",
+      "updated_at": "2026-10-06T13:51:17Z",
+      "url": "https://getopenscreen.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "johnwheeler"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Hello hacker news. A while ago I started building a browser extension for recording interactive product demos, and I released it on product hunt and it didn’t do very well.<p>So I began going through and talking to people on Reddit and that led to me creating a discord and that led me to creating a channel.<p>The name of the channel and the premise behind it is coding, but clueless about marketing.<p>In the video above, I add a feature to my application that allows you to select backgrounds.<p>I also think this video is really interesting because it shows how an experienced programmer works with Claude and asks the right questions to get Claude to automate most of the work."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: Building a web-based <em>screen</em> <em>studio</em> <em>alternative</em> in public"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.youtube.com/watch?v=_IkvVTfXdYg"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_johnwheeler",
+        "story_40995970",
+        "show_hn"
+      ],
+      "author": "johnwheeler",
+      "created_at": "2024-07-18T14:35:58Z",
+      "created_at_i": 1721313358,
+      "num_comments": 0,
+      "objectID": "40995970",
+      "points": 3,
+      "story_id": 40995970,
+      "story_text": "Hello hacker news. A while ago I started building a browser extension for recording interactive product demos, and I released it on product hunt and it didn’t do very well.<p>So I began going through and talking to people on Reddit and that led to me creating a discord and that led me to creating a channel.<p>The name of the channel and the premise behind it is coding, but clueless about marketing.<p>In the video above, I add a feature to my application that allows you to select backgrounds.<p>I also think this video is really interesting because it shows how an experienced programmer works with Claude and asks the right questions to get Claude to automate most of the work.",
+      "title": "Show HN: Building a web-based screen studio alternative in public",
+      "updated_at": "2024-09-20T17:31:52Z",
+      "url": "https://www.youtube.com/watch?v=_IkvVTfXdYg"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ben_hrris"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "studio"
+          ],
+          "value": "Hey, I built this because <em>Screen</em> <em>Studio</em> is amazing, but incredibly expensive. My solution is a native Mac app with the same functionality (smart zooms, full fledged video editor) with a price that doesn't make you shiver."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: I made a $25 lifetime <em>Screen</em> <em>Studio</em> <em>alternative</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://debut.sh/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ben_hrris",
+        "story_46596632",
+        "show_hn"
+      ],
+      "author": "ben_hrris",
+      "created_at": "2026-01-13T02:11:54Z",
+      "created_at_i": 1768270314,
+      "num_comments": 0,
+      "objectID": "46596632",
+      "points": 2,
+      "story_id": 46596632,
+      "story_text": "Hey, I built this because Screen Studio is amazing, but incredibly expensive. My solution is a native Mac app with the same functionality (smart zooms, full fledged video editor) with a price that doesn&#x27;t make you shiver.",
+      "title": "Show HN: I made a $25 lifetime Screen Studio alternative",
+      "updated_at": "2026-03-05T23:22:29Z",
+      "url": "https://debut.sh/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "souhail_dev"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "feedbacks are welcome\n(auto zoom is no implemnted yet, for now only smooth cursor movements is available)<p>Download: clipzr.com"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: <em>Screen</em> <em>studio</em> <em>alternative</em> for windows (free and no watermark)"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_souhail_dev",
+        "story_47377847",
+        "show_hn"
+      ],
+      "author": "souhail_dev",
+      "children": [
+        47378340
+      ],
+      "created_at": "2026-03-14T15:46:50Z",
+      "created_at_i": 1773503210,
+      "num_comments": 2,
+      "objectID": "47377847",
+      "points": 1,
+      "story_id": 47377847,
+      "story_text": "feedbacks are welcome\n(auto zoom is no implemnted yet, for now only smooth cursor movements is available)<p>Download: clipzr.com",
+      "title": "Show HN: Screen studio alternative for windows (free and no watermark)",
+      "updated_at": "2026-03-14T23:43:15Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "femtobusa"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "studio"
+          ],
+          "value": "Mac has <em>Screen</em> <em>Studio</em>, Windows has FocuSee but Ubuntu had nothing comparable<p>I built Screenix to fill that gap. It does smooth cursor-following zoom effects during recording, 60fps capture, no post-processing needed. The kind of tool that just works without spending an hour in OBS settings.<p>X11/Xorg only for now. Wayland cursor position is restricted at the protocol level so I focused on getting Ubuntu X11 right first before expanding.<p>screenix.<em>studio</em>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: Screenix, a <em>Screen</em> <em>Studio</em> <em>Alternative</em> for Ubuntu"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "studio"
+          ],
+          "value": "https://screenix.<em>studio</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_femtobusa",
+        "story_47109959",
+        "show_hn"
+      ],
+      "author": "femtobusa",
+      "children": [
+        47125534
+      ],
+      "created_at": "2026-02-22T10:41:57Z",
+      "created_at_i": 1771756917,
+      "num_comments": 1,
+      "objectID": "47109959",
+      "points": 1,
+      "story_id": 47109959,
+      "story_text": "Mac has Screen Studio, Windows has FocuSee but Ubuntu had nothing comparable<p>I built Screenix to fill that gap. It does smooth cursor-following zoom effects during recording, 60fps capture, no post-processing needed. The kind of tool that just works without spending an hour in OBS settings.<p>X11&#x2F;Xorg only for now. Wayland cursor position is restricted at the protocol level so I focused on getting Ubuntu X11 right first before expanding.<p>screenix.studio",
+      "title": "Show HN: Screenix, a Screen Studio Alternative for Ubuntu",
+      "updated_at": "2026-03-05T23:34:45Z",
+      "url": "https://screenix.studio"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "lenvl"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN:  <em>ScreenStudio</em> <em>Alternative</em> with one-time purchase"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "studio"
+          ],
+          "value": "https://aftercut.<em>studio</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_lenvl",
+        "story_46995331",
+        "show_hn"
+      ],
+      "author": "lenvl",
+      "children": [
+        46995332
+      ],
+      "created_at": "2026-02-12T21:19:00Z",
+      "created_at_i": 1770931140,
+      "num_comments": 1,
+      "objectID": "46995331",
+      "points": 1,
+      "story_id": 46995331,
+      "title": "Show HN:  ScreenStudio Alternative with one-time purchase",
+      "updated_at": "2026-03-05T23:35:47Z",
+      "url": "https://aftercut.studio/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "syi0808"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "studio"
+          ],
+          "value": "I like to create trivial services. I also like open-source software.<p>I wanted to make a high-quality video for promotion or introduction. Meanwhile, I found a service called <em>Screen</em> <em>Studio</em>, and I was impressed with the results.<p>I searched for a free service, and there was no suitable replacement. I'm working on this service because I'm challenging the impossibility with Claude Code these days.<p>Of course, there are still parts that do not meet the quality of <em>Screen</em> <em>Studio</em>, but I would like to develop it into excellent quality software with your help."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: Screenize - <em>Screen</em> <em>Studio</em> <em>Alternative</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/syi0808/screenize"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_syi0808",
+        "story_46824649",
+        "show_hn"
+      ],
+      "author": "syi0808",
+      "created_at": "2026-01-30T14:16:36Z",
+      "created_at_i": 1769782596,
+      "num_comments": 0,
+      "objectID": "46824649",
+      "points": 1,
+      "story_id": 46824649,
+      "story_text": "I like to create trivial services. I also like open-source software.<p>I wanted to make a high-quality video for promotion or introduction. Meanwhile, I found a service called Screen Studio, and I was impressed with the results.<p>I searched for a free service, and there was no suitable replacement. I&#x27;m working on this service because I&#x27;m challenging the impossibility with Claude Code these days.<p>Of course, there are still parts that do not meet the quality of Screen Studio, but I would like to develop it into excellent quality software with your help.",
+      "title": "Show HN: Screenize - Screen Studio Alternative",
+      "updated_at": "2026-03-05T23:27:06Z",
+      "url": "https://github.com/syi0808/screenize"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ahmddnr"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: I Made a <em>Screen</em> <em>Studio</em> <em>Alternative</em> for Windows and macOS"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://motionik.com"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ahmddnr",
+        "story_45824493",
+        "show_hn"
+      ],
+      "author": "ahmddnr",
+      "created_at": "2025-11-05T16:07:06Z",
+      "created_at_i": 1762358826,
+      "num_comments": 0,
+      "objectID": "45824493",
+      "points": 1,
+      "story_id": 45824493,
+      "title": "Show HN: I Made a Screen Studio Alternative for Windows and macOS",
+      "updated_at": "2026-03-05T22:57:38Z",
+      "url": "https://motionik.com"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Yaramsa-Gautham"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "So, I built Videoyards Extension which is a <em>screen</em> recording tool helps founders and indie creators to create professional <em>screen</em> recording videos or product demos of their SaaS or apps. It's basically like <em>screen</em> <em>studio</em> <em>alternative</em> for like windows... (This is currently stable for windows OS, chrome, brave, edge browsers and for mac, linux users it will be coming soon..)<p>Here are the results after 6-weeks (1&amp;half month ) since launch:-\n- 6000+ visitors\n- 200+ users signups\n- 150+ videos are exported\n- 13 total paid users\n- USD 705 in total revenue\n- 112 install on my chrome extension\n- 4-Five star review on my chrome extension\n- My extension got featured by chrome<p>It took me 8 months to build this application and now after seeing the responses, feedback I feel so happy that I've finally built something that people actually need.... This is still int he beta version, I'm constantly improving from the feedbacks and user requests..."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: I Built Videoyards to create professional demos videos"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://videoyards.com"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Yaramsa-Gautham",
+        "story_45625872",
+        "show_hn"
+      ],
+      "author": "Yaramsa-Gautham",
+      "created_at": "2025-10-18T08:37:06Z",
+      "created_at_i": 1760776626,
+      "num_comments": 0,
+      "objectID": "45625872",
+      "points": 1,
+      "story_id": 45625872,
+      "story_text": "So, I built Videoyards Extension which is a screen recording tool helps founders and indie creators to create professional screen recording videos or product demos of their SaaS or apps. It&#x27;s basically like screen studio alternative for like windows... (This is currently stable for windows OS, chrome, brave, edge browsers and for mac, linux users it will be coming soon..)<p>Here are the results after 6-weeks (1&amp;half month ) since launch:-\n- 6000+ visitors\n- 200+ users signups\n- 150+ videos are exported\n- 13 total paid users\n- USD 705 in total revenue\n- 112 install on my chrome extension\n- 4-Five star review on my chrome extension\n- My extension got featured by chrome<p>It took me 8 months to build this application and now after seeing the responses, feedback I feel so happy that I&#x27;ve finally built something that people actually need.... This is still int he beta version, I&#x27;m constantly improving from the feedbacks and user requests...",
+      "title": "Show HN: I Built Videoyards to create professional demos videos",
+      "updated_at": "2026-03-05T22:49:49Z",
+      "url": "https://videoyards.com"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "johnwheeler"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: I made a web-based, free <em>alternative</em> to <em>Screen</em> <em>Studio</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.screenrecorder.me"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_johnwheeler",
+        "story_43816419",
+        "show_hn"
+      ],
+      "author": "johnwheeler",
+      "children": [
+        43816775,
+        43816800,
+        43816849,
+        43816883,
+        43816891,
+        43816898,
+        43816908,
+        43817029,
+        43817072,
+        43817128,
+        43817143,
+        43817326,
+        43817450,
+        43817511,
+        43817561,
+        43817597,
+        43817737,
+        43818140,
+        43818345,
+        43818379,
+        43818446,
+        43818524,
+        43818562,
+        43818623,
+        43818671,
+        43818676,
+        43818689,
+        43818735,
+        43819032,
+        43819036,
+        43819132,
+        43819416,
+        43819903,
+        43819955,
+        43820232,
+        43820291,
+        43820513,
+        43820625,
+        43820729,
+        43821915,
+        43822132,
+        43822635,
+        43823064,
+        43824156,
+        43824567,
+        43825656,
+        43828034,
+        43830173,
+        43842866,
+        43881066
+      ],
+      "created_at": "2025-04-28T00:38:53Z",
+      "created_at_i": 1745800733,
+      "num_comments": 117,
+      "objectID": "43816419",
+      "points": 462,
+      "story_id": 43816419,
+      "title": "Show HN: I made a web-based, free alternative to Screen Studio",
+      "updated_at": "2026-02-14T13:50:53Z",
+      "url": "https://www.screenrecorder.me"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "xviniette"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "studio"
+          ],
+          "value": "Hello HN,<p>I've always found <em>Screen</em> <em>Studio</em> recordings superb.<p>Unfortunately I'm not on a Mac, so I've developed my own tool that works in the browser for all OS.<p>I hope you'll find it useful, and I'd be delighted to hear your feedback."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: I made a free web <em>alternative</em> of <em>Screen</em> <em>Studio</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://smooth.video/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_xviniette",
+        "story_41748824",
+        "show_hn"
+      ],
+      "author": "xviniette",
+      "children": [
+        41754811,
+        41757236,
+        41763887,
+        41766103,
+        41774110,
+        41777997,
+        41786039
+      ],
+      "created_at": "2024-10-05T10:13:15Z",
+      "created_at_i": 1728123195,
+      "num_comments": 16,
+      "objectID": "41748824",
+      "points": 34,
+      "story_id": 41748824,
+      "story_text": "Hello HN,<p>I&#x27;ve always found Screen Studio recordings superb.<p>Unfortunately I&#x27;m not on a Mac, so I&#x27;ve developed my own tool that works in the browser for all OS.<p>I hope you&#x27;ll find it useful, and I&#x27;d be delighted to hear your feedback.",
+      "title": "Show HN: I made a free web alternative of Screen Studio",
+      "updated_at": "2024-10-17T19:12:14Z",
+      "url": "https://smooth.video/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "imWildCat"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Hello folks, I've been lately recording a huge amount of demos for my apps or some tutorials (for YouTube like for OpenClaw or random stuff).\nThe exporting speed of <em>Screen</em> <em>Studio</em> is a blocker for my flow.\nSo I created a free <em>alternative</em> to <em>Screen</em> <em>Studio</em>, a native macOS app, ScreenKite.<p>My goal is to have like 4x exporting speed with similar functionalities.<p>Welcome to try!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: ScreenKite: Free <em>alternative</em> to <em>Screen</em> <em>Studio</em> with 4x export speed"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.screenkite.com/en"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_imWildCat",
+        "story_47016221",
+        "show_hn"
+      ],
+      "author": "imWildCat",
+      "children": [
+        47016370,
+        47072536
+      ],
+      "created_at": "2026-02-14T17:14:44Z",
+      "created_at_i": 1771089284,
+      "num_comments": 3,
+      "objectID": "47016221",
+      "points": 4,
+      "story_id": 47016221,
+      "story_text": "Hello folks, I&#x27;ve been lately recording a huge amount of demos for my apps or some tutorials (for YouTube like for OpenClaw or random stuff).\nThe exporting speed of Screen Studio is a blocker for my flow.\nSo I created a free alternative to Screen Studio, a native macOS app, ScreenKite.<p>My goal is to have like 4x exporting speed with similar functionalities.<p>Welcome to try!",
+      "title": "Show HN: ScreenKite: Free alternative to Screen Studio with 4x export speed",
+      "updated_at": "2026-06-26T12:11:55Z",
+      "url": "https://www.screenkite.com/en"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "this-is-shreya"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: I built a free <em>alternative</em> to <em>Screen</em> <em>Studio</em> and Focusee"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://rookieclip.com/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_this-is-shreya",
+        "story_47527537",
+        "show_hn"
+      ],
+      "author": "this-is-shreya",
+      "children": [
+        47527555
+      ],
+      "created_at": "2026-03-26T07:19:55Z",
+      "created_at_i": 1774509595,
+      "num_comments": 1,
+      "objectID": "47527537",
+      "points": 2,
+      "story_id": 47527537,
+      "title": "Show HN: I built a free alternative to Screen Studio and Focusee",
+      "updated_at": "2026-03-26T17:01:49Z",
+      "url": "https://rookieclip.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "luizcamargodev"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "studio"
+          ],
+          "value": "Hey, everyone!<p>I’ve been working on a web-based tool that I believe will be super helpful for anyone who needs smooth, dynamic zooms in their videos. You might have heard of <em>Screen</em> <em>Studio</em>, which allows you to add zoom effects, but I wanted to create something that’s easy to use, super fast, and works entirely in the browser, not just macOS.<p>So, I built Zoomify <em>Studio</em>, where you can simply record your <em>screen</em> or just upload your video, create stunning zoom transitions, and export your enhanced video, right from your Browser.<p>Key Features:\n* 100% Browser-Based: No downloads or installs required. Just open your browser, upload your video, and start zooming.\n* Smooth Zoom Transitions: Create cinematic zoom effects to highlight key points or focus on details in your videos.\n* Highly Customizable: Control the zoom intensity, point in video and duration. Make your zooms as subtle or dramatic as you need.\n* Video Cutting: Easily cut your video into sections, remove unwanted parts, and keep only the best content.<p>Who’s This For?\n* Indie Hackers who want to create magnetic and engaging product demos that captivate their audience and highlight key features in their products.\n* Content Creators looking for a fast and easy way to add professional-looking zoom effects and cut their videos.\n* Educators and Trainers who need to zoom in on key points in instructional videos or presentations and trim the content for better focus.<p>I’ve designed Zoomify <em>Studio</em> to be as user-friendly as possible. It’s intuitive, with a simple interface, so you can start editing right away without a steep learning curve. You can preview your zoom effects and cuts in real-time and make adjustments until it’s just right.<p>Your feedback and suggestions are always appreciated, especially since I’m still working on some additional features and improvements.<p>Check it out at: <a href=\"https://zoomify.studio\" rel=\"nofollow\">https://zoomify.<em>studio</em></a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: I Built a Web-Based <em>Alternative</em> to <em>Screen</em> <em>Studio</em> for Smooth Zooms"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "studio"
+          ],
+          "value": "https://zoomify.<em>studio</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_luizcamargodev",
+        "story_42611377",
+        "show_hn"
+      ],
+      "author": "luizcamargodev",
+      "created_at": "2025-01-06T15:31:31Z",
+      "created_at_i": 1736177491,
+      "num_comments": 0,
+      "objectID": "42611377",
+      "points": 2,
+      "story_id": 42611377,
+      "story_text": "Hey, everyone!<p>I’ve been working on a web-based tool that I believe will be super helpful for anyone who needs smooth, dynamic zooms in their videos. You might have heard of Screen Studio, which allows you to add zoom effects, but I wanted to create something that’s easy to use, super fast, and works entirely in the browser, not just macOS.<p>So, I built Zoomify Studio, where you can simply record your screen or just upload your video, create stunning zoom transitions, and export your enhanced video, right from your Browser.<p>Key Features:\n* 100% Browser-Based: No downloads or installs required. Just open your browser, upload your video, and start zooming.\n* Smooth Zoom Transitions: Create cinematic zoom effects to highlight key points or focus on details in your videos.\n* Highly Customizable: Control the zoom intensity, point in video and duration. Make your zooms as subtle or dramatic as you need.\n* Video Cutting: Easily cut your video into sections, remove unwanted parts, and keep only the best content.<p>Who’s This For?\n* Indie Hackers who want to create magnetic and engaging product demos that captivate their audience and highlight key features in their products.\n* Content Creators looking for a fast and easy way to add professional-looking zoom effects and cut their videos.\n* Educators and Trainers who need to zoom in on key points in instructional videos or presentations and trim the content for better focus.<p>I’ve designed Zoomify Studio to be as user-friendly as possible. It’s intuitive, with a simple interface, so you can start editing right away without a steep learning curve. You can preview your zoom effects and cuts in real-time and make adjustments until it’s just right.<p>Your feedback and suggestions are always appreciated, especially since I’m still working on some additional features and improvements.<p>Check it out at: <a href=\"https:&#x2F;&#x2F;zoomify.studio\" rel=\"nofollow\">https:&#x2F;&#x2F;zoomify.studio</a>",
+      "title": "Show HN: I Built a Web-Based Alternative to Screen Studio for Smooth Zooms",
+      "updated_at": "2025-01-06T15:54:23Z",
+      "url": "https://zoomify.studio/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Yaramsa-Gautham"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "studio"
+          ],
+          "value": "I built Videoyards, a browser-based <em>screen</em> recording and editing tool made for indie hackers and SaaS founders who want to create clean, professional demo videos without wasting time switching tools.<p>It works directly via a Chrome extension, no downloads, no setup. You can record your <em>screen</em>, camera, and mic, then instantly edit with auto zooms, cursor highlights, and silence removal right in your browser &amp; Exports are available in HD or 4K 60FPS.<p>The main benefit is speed. you can record, polish, and share a demo in minutes instead of hours. It’s built to help you show your product clearly, make your demos look professional, and save time so you can focus on building instead of editing.<p>Free plan includes 1-minute HD recordings with watermark. Early supporters can grab a $39.99 lifetime deal for unlimited 4K recordings, camera/mic support, and lifetime updates. Currently i had 200+ users using it and got an rating of 5.0. Still in the beta version and trying to make it better.<p>Here are the results after 6-weeks (1&amp;half month ) since launch:- 7000+ visitors, 250+ users signups, 150+ videos are exported, 13 total paid users, $705 in total revenue, 112 install on my chrome extension, 5-Five star review on my chrome extension, My extension got featured by chrome<p>Would love your feedback on the recording speed, editing flow, and overall UX compared to Loom or <em>Screen</em> <em>Studio</em>."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "Show HN: Videoyards – <em>Alternative</em> to <em>Screen</em> <em>Studio</em> for Windows"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://videoyards.com"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Yaramsa-Gautham",
+        "story_45679204",
+        "show_hn"
+      ],
+      "author": "Yaramsa-Gautham",
+      "children": [
+        45679263
+      ],
+      "created_at": "2025-10-23T07:32:24Z",
+      "created_at_i": 1761204744,
+      "num_comments": 2,
+      "objectID": "45679204",
+      "points": 1,
+      "story_id": 45679204,
+      "story_text": "I built Videoyards, a browser-based screen recording and editing tool made for indie hackers and SaaS founders who want to create clean, professional demo videos without wasting time switching tools.<p>It works directly via a Chrome extension, no downloads, no setup. You can record your screen, camera, and mic, then instantly edit with auto zooms, cursor highlights, and silence removal right in your browser &amp; Exports are available in HD or 4K 60FPS.<p>The main benefit is speed. you can record, polish, and share a demo in minutes instead of hours. It’s built to help you show your product clearly, make your demos look professional, and save time so you can focus on building instead of editing.<p>Free plan includes 1-minute HD recordings with watermark. Early supporters can grab a $39.99 lifetime deal for unlimited 4K recordings, camera&#x2F;mic support, and lifetime updates. Currently i had 200+ users using it and got an rating of 5.0. Still in the beta version and trying to make it better.<p>Here are the results after 6-weeks (1&amp;half month ) since launch:- 7000+ visitors, 250+ users signups, 150+ videos are exported, 13 total paid users, $705 in total revenue, 112 install on my chrome extension, 5-Five star review on my chrome extension, My extension got featured by chrome<p>Would love your feedback on the recording speed, editing flow, and overall UX compared to Loom or Screen Studio.",
+      "title": "Show HN: Videoyards – Alternative to Screen Studio for Windows",
+      "updated_at": "2026-03-05T22:53:20Z",
+      "url": "https://videoyards.com"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "greentfrapp"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "studio",
+            "alternative"
+          ],
+          "value": "I made Testreel as a programmatic <em>alternative</em> to <em>ScreenStudio</em>.<p>This has two primary value props:\n1. Not having to manual re-record a demo because of a typo or misclick; just update the config and regenerate\n2. Allows LLM agents to generate demo videos for your web app, complete with cursor overlay, and a customizable desktop background<p>Testreel is an npm package that lets you describe interactions (click, type, scroll, zoom etc.) in JSON, YAML or Playwright. Then generate a polished webm/mp4/gif video with cursor overlay, click ripples, gradient background etc.<p>Made with Claude Code. Built on Playwright + FFMPEG. MIT License.<p>Repo: <a href=\"https://github.com/greentfrapp/testreel\" rel=\"nofollow\">https://github.com/greentfrapp/testreel</a>"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Testreel – Programmatic product demo videos from JSON and Playwright"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/greentfrapp/testreel"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_greentfrapp",
+        "story_47676489",
+        "show_hn"
+      ],
+      "author": "greentfrapp",
+      "created_at": "2026-04-07T15:01:47Z",
+      "created_at_i": 1775574107,
+      "num_comments": 0,
+      "objectID": "47676489",
+      "points": 2,
+      "story_id": 47676489,
+      "story_text": "I made Testreel as a programmatic alternative to ScreenStudio.<p>This has two primary value props:\n1. Not having to manual re-record a demo because of a typo or misclick; just update the config and regenerate\n2. Allows LLM agents to generate demo videos for your web app, complete with cursor overlay, and a customizable desktop background<p>Testreel is an npm package that lets you describe interactions (click, type, scroll, zoom etc.) in JSON, YAML or Playwright. Then generate a polished webm&#x2F;mp4&#x2F;gif video with cursor overlay, click ripples, gradient background etc.<p>Made with Claude Code. Built on Playwright + FFMPEG. MIT License.<p>Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;greentfrapp&#x2F;testreel\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;greentfrapp&#x2F;testreel</a>",
+      "title": "Show HN: Testreel – Programmatic product demo videos from JSON and Playwright",
+      "updated_at": "2026-04-07T15:13:10Z",
+      "url": "https://github.com/greentfrapp/testreel"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 19,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=screen+studio+alternative&tags=show_hn&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 30,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 22
+    },
+    "fetch": {
+      "query": 26,
+      "scanning": 2,
+      "total": 29
+    },
+    "total": 30
+  },
+  "query": "screen studio alternative",
+  "serverTimeMS": 32
+}

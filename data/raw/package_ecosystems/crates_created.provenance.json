@@ -1,0 +1,6 @@
+{
+  "source": "https://crates.io/api/v1/crates?sort=new&per_page=100 (seek pagination)",
+  "retrieved_utc": "",
+  "n_crates": 349998,
+  "pages": 3500
+}

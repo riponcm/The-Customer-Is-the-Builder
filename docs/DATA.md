@@ -1,0 +1,113 @@
+# Data sources
+
+## 01 : BEA private fixed investment in software, by type
+
+- https://apps.bea.gov/national/Release/TXT/SeriesRegister.txt
+- https://apps.bea.gov/national/Release/TXT/NipaDataA.txt
+- https://apps.bea.gov/national/Release/TXT/NipaDataQ.txt
+- https://apps.bea.gov/national/Release/TXT/TablesRegister.txt
+
+## 02 : GitHub Innovation Graph
+
+- https://raw.githubusercontent.com/github/innovationgraph/main/data/developers.csv
+- https://raw.githubusercontent.com/github/innovationgraph/main/data/repositories.csv
+- https://raw.githubusercontent.com/github/innovationgraph/main/data/git_pushes.csv
+- https://raw.githubusercontent.com/github/innovationgraph/main/data/organizations.csv
+- https://raw.githubusercontent.com/github/innovationgraph/main/data/languages.csv
+- https://raw.githubusercontent.com/github/innovationgraph/main/data/licenses.csv
+- https://raw.githubusercontent.com/github/innovationgraph/main/data/topics.csv
+- https://github.com/github/innovationgraph/blob/main/docs/datasheet.md
+
+## 03 : Package ecosystems — new packages and registry downloads
+
+- https://sql-clickhouse.clickhouse.com/?user=demo
+- https://docs.pypi.org/api/bigquery/
+- https://rubygems.org/pages/data;
+- https://crates.io/api/v1/crates?sort=new&per_page=100
+- https://crates.io/data-access,
+- https://crates.io/policies
+- https://packagist.org/statistics
+- https://api.npmjs.org/downloads/range/
+- https://github.com/npm/registry/blob/main/docs/download-counts.md
+- https://packages.ecosyste.ms/api/v1/registries/npmjs.org/packages
+- https://static.crates.io/db-dump.tar.gz
+
+## 04 : GitHub repository creation trends (volume, languages, "alternative"/"clone" repos)
+
+- https://api.github.com/search/repositories?q=
+
+## 05 : Documented AI involvement in public commits
+
+- https://api.github.com/search/commits?q=
+- https://api.github.com/search/code?q=filename:
+- https://raw.githubusercontent.com/github/innovationgraph/main/data/git_pushes.csv
+- https://claude.ai/code
+
+## 06 : Hacker News (Show HN) — data notes
+
+- https://hn.algolia.com/api/v1/search_by_date
+
+## 07 : Stack Overflow — data notes
+
+- https://api.stackexchange.com/2.3/questions?site=stackoverflow&fromdate=
+- https://survey.stackoverflow.co/2023/
+- https://survey.stackoverflow.co/2024/ai
+- https://survey.stackoverflow.co/2025/ai
+- https://survey.stackoverflow.co/2026/ai/data
+- https://survey.stackoverflow.co/2026/technology/data/build-tool
+- https://survey.stackoverflow.co/2026/community/data/so-change
+
+## 08 : Software-developer labour-market signals
+
+- https://fred.stlouisfed.org/graph/fredgraph.csv?id=IHLIDXUSTPSOFTDEVE
+- https://fred.stlouisfed.org/graph/fredgraph.csv?id=IHLIDXUS
+- https://api.bls.gov/publicAPI/v2/timeseries/data/CES5051320001
+- https://api.bls.gov/publicAPI/v2/timeseries/data/CES6054151101
+- https://api.bls.gov/publicAPI/v2/timeseries/data/CES6054151201
+- https://fred.stlouisfed.org/graph/fredgraph.csv?id=USPRIV
+- https://fred.stlouisfed.org/legal/
+
+## 09 : AI coding capability and cost trends
+
+- https://metr.org/assets/benchmark_results_1_1.yaml
+- https://metr.org/time-horizons/
+- https://metr.org/assets/task_results_1_1.yaml
+- https://github.com/METR/eval-analysis-public
+- https://epoch.ai/data/benchmark_data.zip
+- https://epoch.ai/eci
+- https://epoch.ai/benchmarks/frontierswe
+- https://www.frontierswe.com/
+- https://aider.chat/docs/leaderboards/
+- https://epoch.ai/data-insights/llm-inference-price-trends
+- https://openai.com/index/introducing-gpt-6-sol-and-luna/
+- https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/
+- https://epoch.ai/benchmarks/swe-bench-verified/review
+
+## 10 - Open-source alternatives vs commercial products (pilot)
+
+- https://api.ossinsight.io/v1/repos/{owner}/{repo}/stargazers/history?per=month
+- https://formulae.brew.sh/api/analytics/cask-install/365d.json
+
+## 16 - Case study: the ArtCraft "Craft" suite (`storytold/*`)
+
+
+
+## 17 : Capability projections
+
+
+
+## 18 : Freelance platform evidence
+
+- https://investors.upwork.com/news-releases/news-release-details/upwork-reports-second-quarter-2026-financial-results
+- https://investors.fiverr.com/news-releases/news-release-details/fiverr-announces-second-quarter-2026-results
+
+## 20. Application building and reported purchasing decisions
+
+- https://www.vals.ai/benchmarks/vibe-code
+- https://arxiv.org/abs/2603.04601
+- https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
+- https://arxiv.org/abs/2607.04329
+
+## Definitions and limits
+
+Language shares use summed language-pusher counts, so a developer can count in multiple languages. Repository and account totals can include inactive projects and accounts. Downloads and installs do not identify unique users or canceled subscriptions. Broad alternative candidates are screened workflow matches pending independent validation. AI credit identifies attributed commits, not the proportion of code generated by AI. Craft instruction documents are archived as text files under the case-study raw data; they are research observations. METR horizons measure human task duration at a specified success rate, not autonomous agent running time. Benchmark scores from different evaluation setups are not interchangeable.

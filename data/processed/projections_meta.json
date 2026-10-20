@@ -1,0 +1,12 @@
+{
+  "source": "Module 09 processed METR Time Horizon 1.1 data (agent_capability_cost_metr_horizons.csv)",
+  "method": "OLS of log2(horizon minutes) on release date; model-level bootstrap (10,000) of slope+intercept; 5-95% bands",
+  "thresholds_minutes": {
+    "workday": 480,
+    "workweek": 2400,
+    "workmonth": 10020,
+    "workyear": 120000
+  },
+  "latest_observation": "2026-04-07",
+  "caveat": "Extrapolation of a measured benchmark trend, not a forecast. METR horizon = human time of tasks an agent completes at the stated success rate on METR's task suite; not autonomous job duration."
+}

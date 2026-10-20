@@ -1,0 +1,5 @@
+{
+  "source": "https://sql-clickhouse.clickhouse.com/ table pypi.projects",
+  "retrieved_utc": "",
+  "query": "\nSELECT toStartOfMonth(first_upload) AS month,\n       count() AS new_packages,\n       countIf(n_versions >= 2 AND dateDiff('day', first_upload, second_upload) <= 90) AS new_packages_filtered\nFROM (\n    SELECT name, min(t) AS first_upload, arraySort(groupArray(t)) AS ts, length(ts) AS n_versions,\n           if(n_versions >= 2, ts[2], toDateTime64('2100-01-01 00:00:00', 3)) AS second_upload\n    FROM (\n        SELECT lower(replaceRegexpAll(name, '[-_.]+', '-')) AS name, version, min(upload_time) AS t\n        FROM pypi.projects GROUP BY name, version\n    )\n    GROUP BY name\n)\nGROUP BY month ORDER BY month\n"
+}

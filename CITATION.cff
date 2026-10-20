@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the associated paper when using this repository."
+title: "The Customer Is the Builder: How AI Coding Agents Are Rewriting the Economics of Software"
+type: software
+authors:
+  - family-names: Malo
+    given-names: Ripon Chandra
+    affiliation: University of Utah
+  - family-names: Yu
+    given-names: Zimeng
+    affiliation: University of Utah
+  - family-names: Qiu
+    given-names: Tong
+    affiliation: University of Utah

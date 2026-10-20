@@ -1,0 +1,1122 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mcilroy"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Show HN: I made an open-source <em>Loom</em> <em>alternative</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://Cap.so"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mcilroy",
+        "story_40338275",
+        "show_hn"
+      ],
+      "author": "mcilroy",
+      "children": [
+        40338429,
+        40338446,
+        40338523,
+        40338535,
+        40338559,
+        40338608,
+        40338667,
+        40338701,
+        40338706,
+        40338722,
+        40338900,
+        40338994,
+        40339096,
+        40339143,
+        40339179,
+        40339460,
+        40339474,
+        40339500,
+        40339528,
+        40339598,
+        40339630,
+        40339659,
+        40339755,
+        40339829,
+        40339860,
+        40339887,
+        40339943,
+        40340022,
+        40340145,
+        40340299,
+        40340428,
+        40340432,
+        40340524,
+        40340980,
+        40341383,
+        40341391,
+        40341688,
+        40342066,
+        40344196,
+        40345648,
+        40345985
+      ],
+      "created_at": "2024-05-12T23:09:08Z",
+      "created_at_i": 1715555348,
+      "num_comments": 177,
+      "objectID": "40338275",
+      "points": 351,
+      "story_id": 40338275,
+      "title": "Show HN: I made an open-source Loom alternative",
+      "updated_at": "2025-06-12T18:36:36Z",
+      "url": "https://Cap.so"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mcilroy"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Hey everyone!<p>We launched the first version of Cap earlier this year. It wasn't great. We had tons of feedback.<p>A couple of months ago we started rebuilding Cap from the ground up (Tauri V2 + SolidJS).<p>We're now focused on being local first. Cap is 100% free to use locally.<p>New features include a powerful editor, screenshots, hotkeys and just overall a much better experience.<p>Would love for you to test it out - appreciate you!<p>Cheers,\nRichie"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Show HN: Reintroducing Cap, the open source <em>Loom</em> <em>alternative</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/CapSoftware/Cap"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mcilroy",
+        "story_41741422",
+        "show_hn"
+      ],
+      "author": "mcilroy",
+      "children": [
+        41742327,
+        41742720,
+        41742862,
+        41747928,
+        41749715,
+        41751265,
+        41755514
+      ],
+      "created_at": "2024-10-04T13:53:13Z",
+      "created_at_i": 1728049993,
+      "num_comments": 10,
+      "objectID": "41741422",
+      "points": 57,
+      "story_id": 41741422,
+      "story_text": "Hey everyone!<p>We launched the first version of Cap earlier this year. It wasn&#x27;t great. We had tons of feedback.<p>A couple of months ago we started rebuilding Cap from the ground up (Tauri V2 + SolidJS).<p>We&#x27;re now focused on being local first. Cap is 100% free to use locally.<p>New features include a powerful editor, screenshots, hotkeys and just overall a much better experience.<p>Would love for you to test it out - appreciate you!<p>Cheers,\nRichie",
+      "title": "Show HN: Reintroducing Cap, the open source Loom alternative",
+      "updated_at": "2025-05-26T19:11:00Z",
+      "url": "https://github.com/CapSoftware/Cap"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "marconlp"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Show HN: Snapify – open-source <em>Loom</em> <em>alternative</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/MarconLP/snapify"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_marconlp",
+        "story_36790947",
+        "show_hn"
+      ],
+      "author": "marconlp",
+      "children": [
+        36790948,
+        36793269,
+        36793767,
+        36796170,
+        36798681
+      ],
+      "created_at": "2023-07-19T18:23:54Z",
+      "created_at_i": 1689791034,
+      "num_comments": 16,
+      "objectID": "36790947",
+      "points": 44,
+      "story_id": 36790947,
+      "title": "Show HN: Snapify – open-source Loom alternative",
+      "updated_at": "2025-01-02T21:09:09Z",
+      "url": "https://github.com/MarconLP/snapify"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "neerajdotname2"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "loom"
+          ],
+          "value": "Hi HN,<p>Today, we are launching neetoRecord <a href=\"https://www.neeto.com/neetorecord\" rel=\"nofollow\">https://www.neeto.com/neetorecord</a>.<p>neeto is a 100% remote company. We are building many products, which require a lot of communication. Very early on, \nwe had decided that jumping on a &quot;Zoom call&quot;  for every small discussion was not a scalable solution. So, we \nchose to use asynchronous communication.<p>However, with async communication, we found that written text didn't adequately express the message emotionally. A voice \ncan capture the emotion behind a change a person wants much more strongly than written texts. Secondly, writing \ntakes a long time.<p>We started using <em>Loom</em> for async communication and loved it so much that we wanted to get it for the whole company. However, at $15/user/month, getting 100+ <em>Loom</em> seats would cost us substantially.<p>Like any engineer, we wondered how hard it could be to build just the core of <em>Loom</em>. So, we started building it in \nJuly 2023, and after nine months of development, we are ready to present neetoRecord to the world.<p>We have been using neetoRecord internally for the last six months.\nHere is a real-world example <a href=\"https://drive.google.com/file/d/1pjlzSOf7VPvzFzLz4ynM5Kk-pIl7IblT/view\" rel=\"nofollow\">https://drive.google.com/file/d/1pjlzSOf7VPvzFzLz4ynM5Kk-pIl...</a> where we \ndiscussed the website revamp. As you can see, six videos were posted on this issue. It means we had six fewer \nmeetings regarding that issue. Adding up all the hours saved amounts to quite a lot in any given month.<p>We believe that neetoRecord will be an indispensable tool for an effective remote team. At neeto it already is.<p>Our roadmap is currently empty. We will work on improving performance and bug fixes. \nWe will listen to user feedback and feature requests to decide what is next. The most important thing for us is to keep the price competitive to have a wider audience.<p>We have written three blogs on how we built neetoRecord.  \n<a href=\"https://www.bigbinary.com/blog/build-web-based-screen-recorder-loom-alternative-part-1\" rel=\"nofollow\">https://www.bigbinary.com/blog/build-web-based-screen-record...</a><p>Please give neetoRecord a try. We would love to hear your feedback.<p><a href=\"https://www.neeto.com/neetorecord\" rel=\"nofollow\">https://www.neeto.com/neetorecord</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Show HN: NeetoRecord – an affordable <em>Loom</em> <em>alternative</em> for remote work"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.neeto.com/neetorecord"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_neerajdotname2",
+        "story_39755303",
+        "show_hn"
+      ],
+      "author": "neerajdotname2",
+      "children": [
+        39768319
+      ],
+      "created_at": "2024-03-19T13:04:20Z",
+      "created_at_i": 1710853460,
+      "num_comments": 2,
+      "objectID": "39755303",
+      "points": 9,
+      "story_id": 39755303,
+      "story_text": "Hi HN,<p>Today, we are launching neetoRecord <a href=\"https:&#x2F;&#x2F;www.neeto.com&#x2F;neetorecord\" rel=\"nofollow\">https:&#x2F;&#x2F;www.neeto.com&#x2F;neetorecord</a>.<p>neeto is a 100% remote company. We are building many products, which require a lot of communication. Very early on, \nwe had decided that jumping on a &quot;Zoom call&quot;  for every small discussion was not a scalable solution. So, we \nchose to use asynchronous communication.<p>However, with async communication, we found that written text didn&#x27;t adequately express the message emotionally. A voice \ncan capture the emotion behind a change a person wants much more strongly than written texts. Secondly, writing \ntakes a long time.<p>We started using Loom for async communication and loved it so much that we wanted to get it for the whole company. However, at $15&#x2F;user&#x2F;month, getting 100+ Loom seats would cost us substantially.<p>Like any engineer, we wondered how hard it could be to build just the core of Loom. So, we started building it in \nJuly 2023, and after nine months of development, we are ready to present neetoRecord to the world.<p>We have been using neetoRecord internally for the last six months.\nHere is a real-world example <a href=\"https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1pjlzSOf7VPvzFzLz4ynM5Kk-pIl7IblT&#x2F;view\" rel=\"nofollow\">https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1pjlzSOf7VPvzFzLz4ynM5Kk-pIl...</a> where we \ndiscussed the website revamp. As you can see, six videos were posted on this issue. It means we had six fewer \nmeetings regarding that issue. Adding up all the hours saved amounts to quite a lot in any given month.<p>We believe that neetoRecord will be an indispensable tool for an effective remote team. At neeto it already is.<p>Our roadmap is currently empty. We will work on improving performance and bug fixes. \nWe will listen to user feedback and feature requests to decide what is next. The most important thing for us is to keep the price competitive to have a wider audience.<p>We have written three blogs on how we built neetoRecord.  \n<a href=\"https:&#x2F;&#x2F;www.bigbinary.com&#x2F;blog&#x2F;build-web-based-screen-recorder-loom-alternative-part-1\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bigbinary.com&#x2F;blog&#x2F;build-web-based-screen-record...</a><p>Please give neetoRecord a try. We would love to hear your feedback.<p><a href=\"https:&#x2F;&#x2F;www.neeto.com&#x2F;neetorecord\" rel=\"nofollow\">https:&#x2F;&#x2F;www.neeto.com&#x2F;neetorecord</a>",
+      "title": "Show HN: NeetoRecord – an affordable Loom alternative for remote work",
+      "updated_at": "2025-01-15T11:09:56Z",
+      "url": "https://www.neeto.com/neetorecord"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "tehcolo"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Hey! I built an open-source <em>Loom</em> <em>alternative</em> which allows you to record your screen, webcam and mic to easily create shareable videos.<p>Here's how to use it\n- Create an account with ScreenLink\n- Download the ScreenLink Desktop application\n- Record your screen &amp; instantly share!<p>Its built with ElectronJS for desktop and NextJS for web/APIs. I used TailwindCSS and shadcn/ui to make it look nice :D<p>Try it out and all feedback is appreciated"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Show HN: Open-Source <em>Loom</em> <em>Alternative</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.screenlink.io/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_tehcolo",
+        "story_38624539",
+        "show_hn"
+      ],
+      "author": "tehcolo",
+      "children": [
+        38629383,
+        38722221
+      ],
+      "created_at": "2023-12-13T09:00:36Z",
+      "created_at_i": 1702458036,
+      "num_comments": 3,
+      "objectID": "38624539",
+      "points": 6,
+      "story_id": 38624539,
+      "story_text": "Hey! I built an open-source Loom alternative which allows you to record your screen, webcam and mic to easily create shareable videos.<p>Here&#x27;s how to use it\n- Create an account with ScreenLink\n- Download the ScreenLink Desktop application\n- Record your screen &amp; instantly share!<p>Its built with ElectronJS for desktop and NextJS for web&#x2F;APIs. I used TailwindCSS and shadcn&#x2F;ui to make it look nice :D<p>Try it out and all feedback is appreciated",
+      "title": "Show HN: Open-Source Loom Alternative",
+      "updated_at": "2024-09-20T15:50:06Z",
+      "url": "https://www.screenlink.io/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mcilroy"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Show HN: Open-source, self-hostable <em>Loom</em> <em>alternative</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://Cap.so/docs/self-hosting"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mcilroy",
+        "story_44364314",
+        "show_hn"
+      ],
+      "author": "mcilroy",
+      "created_at": "2025-06-24T09:29:28Z",
+      "created_at_i": 1750757368,
+      "num_comments": 0,
+      "objectID": "44364314",
+      "points": 5,
+      "story_id": 44364314,
+      "title": "Show HN: Open-source, self-hostable Loom alternative",
+      "updated_at": "2025-06-24T10:53:20Z",
+      "url": "https://Cap.so/docs/self-hosting"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "anenthg"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "OpenLoom is a Chrome extension that records your screen using the browser's native Screen Capture and MediaRecorder APIs, composites a camera PIP overlay on a canvas, and uploads directly to your own Supabase project. No middleman server, no subscription, no vendor lock-in. The web player at openloom.live is a static site on GitHub Pages that fetches videos straight from your backend, it doesn't store or log anything. The entire thing is open source (extension, web viewer, provisioning flow), so you can audit every network request. Your recordings, your storage bucket, your rules.  Do check it out and share your feedback!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Show HN: OpenLoom, a <em>Loom</em> <em>alternative</em>, with your own Supabase"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://openloom.live/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_anenthg",
+        "story_47289332",
+        "show_hn"
+      ],
+      "author": "anenthg",
+      "children": [
+        47363537
+      ],
+      "created_at": "2026-03-07T16:56:59Z",
+      "created_at_i": 1772902619,
+      "num_comments": 1,
+      "objectID": "47289332",
+      "points": 1,
+      "story_id": 47289332,
+      "story_text": "OpenLoom is a Chrome extension that records your screen using the browser&#x27;s native Screen Capture and MediaRecorder APIs, composites a camera PIP overlay on a canvas, and uploads directly to your own Supabase project. No middleman server, no subscription, no vendor lock-in. The web player at openloom.live is a static site on GitHub Pages that fetches videos straight from your backend, it doesn&#x27;t store or log anything. The entire thing is open source (extension, web viewer, provisioning flow), so you can audit every network request. Your recordings, your storage bucket, your rules.  Do check it out and share your feedback!",
+      "title": "Show HN: OpenLoom, a Loom alternative, with your own Supabase",
+      "updated_at": "2026-03-13T12:27:40Z",
+      "url": "https://openloom.live/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "vaneyckseme"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "I’ve been a long-time <em>Loom</em> user, but I often just wanted a simple way to record my screen + camera and share the file anywhere, without being tied to a hosted platform. So I built Bloom.<p>Bloom features:<p>* Screen + camera overlay recording<p>* Saves videos locally (no cloud lock-in)<p>* Built with Electron (cross-platform support in progress)<p>* 100% open source<p>It’s still early — the basics work, but there are rough edges. I’d love feedback on:<p>* What features you’d expect from a <em>Loom</em> <em>alternative</em><p>* Cross-platform testing (I’ve only tried macOS so far)<p>* Any performance or UX issues you notice<p>Links:<p>- Mac OS DMG: <a href=\"https://github.com/thepublicdev/bloom/releases/tag/v1.0.0\" rel=\"nofollow\">https://github.com/thepublicdev/bloom/releases/tag/v1.0.0</a><p>- Repo: <a href=\"https://github.com/thepublicdev/bloom\" rel=\"nofollow\">https://github.com/thepublicdev/bloom</a><p>- Demo video: <a href=\"https://youtu.be/ijNySK5FaTI?si=3Sg9FmZeD-hRENMm\" rel=\"nofollow\">https://youtu.be/ijNySK5FaTI?si=3Sg9FmZeD-hRENMm</a><p>More updates coming soon."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Show HN: Bloom – an open-source <em>alternative</em> to <em>Loom</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.thepublic.dev/posts/bloom"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_vaneyckseme",
+        "story_45282667",
+        "show_hn"
+      ],
+      "author": "vaneyckseme",
+      "created_at": "2025-09-17T23:22:34Z",
+      "created_at_i": 1758151354,
+      "num_comments": 0,
+      "objectID": "45282667",
+      "points": 3,
+      "story_id": 45282667,
+      "story_text": "I’ve been a long-time Loom user, but I often just wanted a simple way to record my screen + camera and share the file anywhere, without being tied to a hosted platform. So I built Bloom.<p>Bloom features:<p>* Screen + camera overlay recording<p>* Saves videos locally (no cloud lock-in)<p>* Built with Electron (cross-platform support in progress)<p>* 100% open source<p>It’s still early — the basics work, but there are rough edges. I’d love feedback on:<p>* What features you’d expect from a Loom alternative<p>* Cross-platform testing (I’ve only tried macOS so far)<p>* Any performance or UX issues you notice<p>Links:<p>- Mac OS DMG: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;thepublicdev&#x2F;bloom&#x2F;releases&#x2F;tag&#x2F;v1.0.0\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;thepublicdev&#x2F;bloom&#x2F;releases&#x2F;tag&#x2F;v1.0.0</a><p>- Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;thepublicdev&#x2F;bloom\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;thepublicdev&#x2F;bloom</a><p>- Demo video: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;ijNySK5FaTI?si=3Sg9FmZeD-hRENMm\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;ijNySK5FaTI?si=3Sg9FmZeD-hRENMm</a><p>More updates coming soon.",
+      "title": "Show HN: Bloom – an open-source alternative to Loom",
+      "updated_at": "2026-03-05T22:43:35Z",
+      "url": "https://www.thepublic.dev/posts/bloom"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "alexneamtu"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Show HN: SendRec – Open-source, EU-hosted <em>alternative</em> to <em>Loom</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "https://sendrec.eu/blog/why-eu-teams-need-european-<em>loom</em>-<em>alternative</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_alexneamtu",
+        "story_46876633",
+        "show_hn"
+      ],
+      "author": "alexneamtu",
+      "children": [
+        46878740,
+        46881735
+      ],
+      "created_at": "2026-02-03T20:15:26Z",
+      "created_at_i": 1770149726,
+      "num_comments": 4,
+      "objectID": "46876633",
+      "points": 3,
+      "story_id": 46876633,
+      "title": "Show HN: SendRec – Open-source, EU-hosted alternative to Loom",
+      "updated_at": "2026-03-05T23:30:36Z",
+      "url": "https://sendrec.eu/blog/why-eu-teams-need-european-loom-alternative/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "jayfk"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Hey HN, we're excited to introduce Sorbay - an open source <em>alternative</em> to <em>Loom</em> for creating and sharing screen recordings.<p>With Sorbay, you can easily record your screen, camera, and microphone all at once. It is a complete solution that comes with its own backend service, allowing you to instantly share a link of your recording as soon as it is finished. The video is streamed directly to the backend service as the recording happens to make this possible.<p>With both founders based in different countries, we needed a tool to quickly share screen recordings to keep us up to date or to ask for feedback. Meetings are cool if you need to discuss something deeply, but for almost everything else a quick recording works better.<p>We had to settle for one of the proprietary solutions because none of the open source tools allowed us to quickly share something with each other. Doing the recording is one aspect, but having the ability to instantly share a link was crucial. Waiting on a 400mb video upload to a Dropbox is just too much interruption if you want to quickly share something.<p>The tipping point for us to actually build this open source tool came via an interaction from one of our day jobs. A third party provider sent a screen recording full of confidential information and to make things worse, all of it was uploaded by them to a different third party service. We strongly believe that information like this should stay within a company, ideally on infrastructure that they control themselves. Having a fully integrated open source solution is the best way to go for this.<p>Our goal with this first public release is to gather feedback. The critical code paths are working, but it is still a bit rough to use. We deliberately \ncut out all non-essential features, but have a clear roadmap on what we want to release this year.<p>There are a couple of known issues like audio glitches, non-working videos in Safari and crashing binaries that we hope to fix in the coming weeks. Later this \nyear, we plan on releasing a cloud hosted version of Sorbay that would let you connect your own S3 storage provider. Additionally, we will be releasing an on-prem option focused on features for enterprises (SSO, RBAC, compliance).<p>Both the Sorbay Client and the backend service are completely open source. For licensing we choose the AGPLv3 throughout the stack. The client is built \nwith Vue.js on top of Electron. The use of Electron might be a bit controversial here on Hackernews but given the resources we currently have that was \nthe only way that allowed us to get a working client out on all major platforms. The backend service is realized with Django. We use Keycloak for \nauthentication and Minio for S3 compatible storage. All of this is run alongside Postgres and Redis, running on Docker containers which are managed by Docker Compose.<p>We invite you to try Sorbay for yourself and join us on our issue tracker[1][2], Slack channel[3] or here on HN.<p>Thanks for checking out Sorbay!<p>[1]: <a href=\"https://github.com/sorbayhq/sorbay\">https://github.com/sorbayhq/sorbay</a><p>[2]: <a href=\"https://github.com/sorbayhq/sorbay-client\">https://github.com/sorbayhq/sorbay-client</a><p>[3]: <a href=\"https://join.slack.com/t/slack-oso6527/shared_invite/zt-1qd8gm543-KGdb5gD4WqikZEKEk8sSTA\" rel=\"nofollow\">https://join.slack.com/t/slack-oso6527/shared_invite/zt-1qd8...</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Show HN: Sorbay – Open-source <em>alternative</em> to <em>Loom</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://sorbay.io/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_jayfk",
+        "story_35042662",
+        "show_hn"
+      ],
+      "author": "jayfk",
+      "children": [
+        35046602,
+        35047092,
+        35048023,
+        35048929,
+        35049082,
+        35049461,
+        35050137,
+        35050218,
+        35051186,
+        35052178,
+        35067708
+      ],
+      "created_at": "2023-03-06T16:05:21Z",
+      "created_at_i": 1678118721,
+      "num_comments": 14,
+      "objectID": "35042662",
+      "points": 93,
+      "story_id": 35042662,
+      "story_text": "Hey HN, we&#x27;re excited to introduce Sorbay - an open source alternative to Loom for creating and sharing screen recordings.<p>With Sorbay, you can easily record your screen, camera, and microphone all at once. It is a complete solution that comes with its own backend service, allowing you to instantly share a link of your recording as soon as it is finished. The video is streamed directly to the backend service as the recording happens to make this possible.<p>With both founders based in different countries, we needed a tool to quickly share screen recordings to keep us up to date or to ask for feedback. Meetings are cool if you need to discuss something deeply, but for almost everything else a quick recording works better.<p>We had to settle for one of the proprietary solutions because none of the open source tools allowed us to quickly share something with each other. Doing the recording is one aspect, but having the ability to instantly share a link was crucial. Waiting on a 400mb video upload to a Dropbox is just too much interruption if you want to quickly share something.<p>The tipping point for us to actually build this open source tool came via an interaction from one of our day jobs. A third party provider sent a screen recording full of confidential information and to make things worse, all of it was uploaded by them to a different third party service. We strongly believe that information like this should stay within a company, ideally on infrastructure that they control themselves. Having a fully integrated open source solution is the best way to go for this.<p>Our goal with this first public release is to gather feedback. The critical code paths are working, but it is still a bit rough to use. We deliberately \ncut out all non-essential features, but have a clear roadmap on what we want to release this year.<p>There are a couple of known issues like audio glitches, non-working videos in Safari and crashing binaries that we hope to fix in the coming weeks. Later this \nyear, we plan on releasing a cloud hosted version of Sorbay that would let you connect your own S3 storage provider. Additionally, we will be releasing an on-prem option focused on features for enterprises (SSO, RBAC, compliance).<p>Both the Sorbay Client and the backend service are completely open source. For licensing we choose the AGPLv3 throughout the stack. The client is built \nwith Vue.js on top of Electron. The use of Electron might be a bit controversial here on Hackernews but given the resources we currently have that was \nthe only way that allowed us to get a working client out on all major platforms. The backend service is realized with Django. We use Keycloak for \nauthentication and Minio for S3 compatible storage. All of this is run alongside Postgres and Redis, running on Docker containers which are managed by Docker Compose.<p>We invite you to try Sorbay for yourself and join us on our issue tracker[1][2], Slack channel[3] or here on HN.<p>Thanks for checking out Sorbay!<p>[1]: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;sorbayhq&#x2F;sorbay\">https:&#x2F;&#x2F;github.com&#x2F;sorbayhq&#x2F;sorbay</a><p>[2]: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;sorbayhq&#x2F;sorbay-client\">https:&#x2F;&#x2F;github.com&#x2F;sorbayhq&#x2F;sorbay-client</a><p>[3]: <a href=\"https:&#x2F;&#x2F;join.slack.com&#x2F;t&#x2F;slack-oso6527&#x2F;shared_invite&#x2F;zt-1qd8gm543-KGdb5gD4WqikZEKEk8sSTA\" rel=\"nofollow\">https:&#x2F;&#x2F;join.slack.com&#x2F;t&#x2F;slack-oso6527&#x2F;shared_invite&#x2F;zt-1qd8...</a>",
+      "title": "Show HN: Sorbay – Open-source alternative to Loom",
+      "updated_at": "2024-09-20T13:26:02Z",
+      "url": "https://sorbay.io/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "sjcotto"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Show HN: Open-source <em>alternative</em> to <em>Loom</em> that only requires S3"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/goshops-com/clipshare"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_sjcotto",
+        "story_41347422",
+        "show_hn"
+      ],
+      "author": "sjcotto",
+      "children": [
+        41347423,
+        41347580,
+        41355747,
+        41390136,
+        41390178,
+        41393801
+      ],
+      "created_at": "2024-08-25T14:10:22Z",
+      "created_at_i": 1724595022,
+      "num_comments": 15,
+      "objectID": "41347422",
+      "points": 61,
+      "story_id": 41347422,
+      "title": "Show HN: Open-source alternative to Loom that only requires S3",
+      "updated_at": "2024-09-20T17:39:32Z",
+      "url": "https://github.com/goshops-com/clipshare"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mcilroy"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Show HN: Cap – open-source <em>alternative</em> to <em>Loom</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/cap-so/cap"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mcilroy",
+        "story_38445731",
+        "show_hn"
+      ],
+      "author": "mcilroy",
+      "children": [
+        38446020,
+        38449370,
+        38449843,
+        38450241,
+        38452150,
+        38453787,
+        38456158,
+        38458339,
+        38458708,
+        38458875,
+        38462056
+      ],
+      "created_at": "2023-11-28T14:00:52Z",
+      "created_at_i": 1701180052,
+      "num_comments": 14,
+      "objectID": "38445731",
+      "points": 53,
+      "story_id": 38445731,
+      "title": "Show HN: Cap – open-source alternative to Loom",
+      "updated_at": "2024-09-20T15:48:30Z",
+      "url": "https://github.com/cap-so/cap"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "jarodxu"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Hey there HN!<p>It took nearly 5 years for my team and me to truly find right direction. So, after introducing our work, I'm keen to share the story behind it. The following content is divided into two parts. If you're not interested in the backstory of the product, feel free to skip the content after the divider.<p>&gt; The Problem We're Solving:\nDuring a casual afternoon, while brainstorming what to do next on a WeWork sofa, we realized that almost everyone present had a habit of saving information via screenshots. When I opened my photo gallery, I was astonished to see that more than half were such screenshots. Given that traditional OCR and gallery apps hadn't really addressed our screenshot chaos, we decided to build something to solve our own problem.<p>&gt; How it works:\nAt first glance, you might think Trickle is a manual screenshot version of Rewind. But in reality, they're vastly different. All you need to do is send your screenshots, and let Trickle handle the rest:<p>[1] Trickle doesn't constantly record the entire desktop, so it won't consume all your Mac's storage or affect its performance. Moreover, it won't give you the unsettling feeling of being constantly watched.<p>[2] Although we have a Mac screenshot tool, and a browser extension is on its way, you don't actually need to install them. You can easily upload your screenshots via a web page. This makes it platform-agnostic; you can browse, search, and ask about your historical screenshots at any time via a browser. Of course, it doesn't occupy any of your local storage. Last but not least, it's Windows-user friendly.<p>[3] User-controlled screenshots mean that the embedded chunks are semantically more precise. Beyond the advanced reasoning capabilities of GPT-4, we've integrated some tricks of our own, allowing Trickle to truly comprehend your screenshots, rather than just summarizing the text. Sometimes you might be surprised when Trickle even reasons out essential information that's not present in the image. This also ensures a better experience when you try to recall information.<p>------------The Story Behind the Product:------------<p>In 2018, I left my consulting role and dove head-first into the startup world with two co-founders. Our initial venture involved creating a visual recognition model for a vending machine company, marking our first income. Yet, custom builds weren’t sustainable, prompting our first pivot.<p>By 2019, we were deep into retail tech, winning a demo day and launching a product to automate in-store promotions. The climax seemed to be our partnership with a large multinational, but 2020 and the pandemic shifted landscapes.<p>We then explored the realm of asynchronous video, building an <em>alternative</em> to <em>Loom</em>. By 2021, we hit 10k users, but profitability remained elusive. As workspaces evolved and people returned to offices, we sensed another opportunity. Our solution? An in-house social platform for teams, named &quot;Trickle&quot;. In 2022, after a launch on Product Hunt, even though we garnered attention from people like Ryan Hoover and former Microsoft VP Lu Qi, we faced a stark realization: Daily team updates might not be as 'cool' as anticipated.<p>Our anxiety steered us off-path, and soon, Trickle became a bulky hybrid, attempting to replace tools like Notion and Slack. Looking back, this detour was a misstep.<p>The turning point came mid-2023. A series of tepid Product Hunt launches forced introspection. We stripped Trickle down, retaining only its name and began anew. Today, with the original team intact, we're addressing an everyday issue that resonated with all of us: the chaos of managing screenshots.<p>Reflecting on our journey, it's clear that the essence of the startup spirit lies in adapting, evolving, and pursuing that 'Eureka' moment, no matter how winding the path."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Trickle – Let GPT-4 Understand Your Screenshots"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.trickle.so/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_jarodxu",
+        "story_37432793",
+        "show_hn"
+      ],
+      "author": "jarodxu",
+      "children": [
+        37433747,
+        37445134,
+        37454164
+      ],
+      "created_at": "2023-09-08T12:44:58Z",
+      "created_at_i": 1694177098,
+      "num_comments": 13,
+      "objectID": "37432793",
+      "points": 20,
+      "story_id": 37432793,
+      "story_text": "Hey there HN!<p>It took nearly 5 years for my team and me to truly find right direction. So, after introducing our work, I&#x27;m keen to share the story behind it. The following content is divided into two parts. If you&#x27;re not interested in the backstory of the product, feel free to skip the content after the divider.<p>&gt; The Problem We&#x27;re Solving:\nDuring a casual afternoon, while brainstorming what to do next on a WeWork sofa, we realized that almost everyone present had a habit of saving information via screenshots. When I opened my photo gallery, I was astonished to see that more than half were such screenshots. Given that traditional OCR and gallery apps hadn&#x27;t really addressed our screenshot chaos, we decided to build something to solve our own problem.<p>&gt; How it works:\nAt first glance, you might think Trickle is a manual screenshot version of Rewind. But in reality, they&#x27;re vastly different. All you need to do is send your screenshots, and let Trickle handle the rest:<p>[1] Trickle doesn&#x27;t constantly record the entire desktop, so it won&#x27;t consume all your Mac&#x27;s storage or affect its performance. Moreover, it won&#x27;t give you the unsettling feeling of being constantly watched.<p>[2] Although we have a Mac screenshot tool, and a browser extension is on its way, you don&#x27;t actually need to install them. You can easily upload your screenshots via a web page. This makes it platform-agnostic; you can browse, search, and ask about your historical screenshots at any time via a browser. Of course, it doesn&#x27;t occupy any of your local storage. Last but not least, it&#x27;s Windows-user friendly.<p>[3] User-controlled screenshots mean that the embedded chunks are semantically more precise. Beyond the advanced reasoning capabilities of GPT-4, we&#x27;ve integrated some tricks of our own, allowing Trickle to truly comprehend your screenshots, rather than just summarizing the text. Sometimes you might be surprised when Trickle even reasons out essential information that&#x27;s not present in the image. This also ensures a better experience when you try to recall information.<p>------------The Story Behind the Product:------------<p>In 2018, I left my consulting role and dove head-first into the startup world with two co-founders. Our initial venture involved creating a visual recognition model for a vending machine company, marking our first income. Yet, custom builds weren’t sustainable, prompting our first pivot.<p>By 2019, we were deep into retail tech, winning a demo day and launching a product to automate in-store promotions. The climax seemed to be our partnership with a large multinational, but 2020 and the pandemic shifted landscapes.<p>We then explored the realm of asynchronous video, building an alternative to Loom. By 2021, we hit 10k users, but profitability remained elusive. As workspaces evolved and people returned to offices, we sensed another opportunity. Our solution? An in-house social platform for teams, named &quot;Trickle&quot;. In 2022, after a launch on Product Hunt, even though we garnered attention from people like Ryan Hoover and former Microsoft VP Lu Qi, we faced a stark realization: Daily team updates might not be as &#x27;cool&#x27; as anticipated.<p>Our anxiety steered us off-path, and soon, Trickle became a bulky hybrid, attempting to replace tools like Notion and Slack. Looking back, this detour was a misstep.<p>The turning point came mid-2023. A series of tepid Product Hunt launches forced introspection. We stripped Trickle down, retaining only its name and began anew. Today, with the original team intact, we&#x27;re addressing an everyday issue that resonated with all of us: the chaos of managing screenshots.<p>Reflecting on our journey, it&#x27;s clear that the essence of the startup spirit lies in adapting, evolving, and pursuing that &#x27;Eureka&#x27; moment, no matter how winding the path.",
+      "title": "Show HN: Trickle – Let GPT-4 Understand Your Screenshots",
+      "updated_at": "2024-09-20T15:00:56Z",
+      "url": "https://www.trickle.so/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "arpitagarwal"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Hey folks,<p>We are the team behind Slik.<p>Over the past year, we have been hacking on SlikSafe [1] a Dropbox <em>alternative</em> where all your data is first encrypted on your own device and then stored on decentralized storage.<p>Some features we're most excited about are -<p><pre><code>  - multi-device data sync,\n  - auto-backups via desktop apps,\n  - search your docs by name or contents with end-to-end encryption,\n  - easy sharing via email, QR-code or private-link,\n  - Password-less login using MetaMask/Phantom\n\n</code></pre>\nWe leverage storage providers IPFS and Storj for global redundancy, reliability, and immutability.<p>You can use our web app [2] and macOS app [3] today. Our desktop app for Windows is currently in beta, and will be launched in early Jan.<p>You can read our WhitePaper [4] for the technical implementation, or see a quick demo [5] of the product.<p>Would love to hear what you think.<p>Arpit, Charvi<p>[1] SlikSafe: <a href=\"https://www.sliksafe.com\" rel=\"nofollow\">https://www.sliksafe.com</a><p>[2] Web app: <a href=\"https://app.sliksafe.com\" rel=\"nofollow\">https://app.sliksafe.com</a><p>[3] macOS app: <a href=\"https://sliksafe.com/downloads\" rel=\"nofollow\">https://sliksafe.com/downloads</a><p>[4] WhitePaper: <a href=\"https://sliksafe.com/whitepaper.pdf\" rel=\"nofollow\">https://sliksafe.com/whitepaper.pdf</a><p>[5] Demo video: <a href=\"https://www.loom.com/share/abe133c4ce874655a952a30601e99408\" rel=\"nofollow\">https://www.<em>loom</em>.com/share/abe133c4ce874655a952a30601e99408</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: SlikSafe – A decentralized, end-to-end encrypted <em>alternative</em> to Dropbox"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_arpitagarwal",
+        "story_29637188",
+        "show_hn"
+      ],
+      "author": "arpitagarwal",
+      "children": [
+        29637346,
+        29637720,
+        29638311,
+        29638313,
+        29638405,
+        29638464,
+        29638636,
+        29638895,
+        29638922,
+        29638944,
+        29639195,
+        29639196,
+        29639251,
+        29639560,
+        29639595,
+        29639745,
+        29639791,
+        29639981,
+        29640169,
+        29640194,
+        29640306,
+        29640323,
+        29640353,
+        29640382,
+        29640439,
+        29640447,
+        29640543,
+        29640596,
+        29640607,
+        29640636,
+        29640679,
+        29640837,
+        29641066,
+        29641146,
+        29641249,
+        29641459,
+        29641467,
+        29641640,
+        29641753,
+        29641911,
+        29641988,
+        29641994,
+        29642500,
+        29642679,
+        29643151,
+        29643219,
+        29643693,
+        29643726,
+        29644466,
+        29644594,
+        29648453,
+        29660490
+      ],
+      "created_at": "2021-12-21T13:33:13Z",
+      "created_at_i": 1640093593,
+      "num_comments": 185,
+      "objectID": "29637188",
+      "points": 284,
+      "story_id": 29637188,
+      "story_text": "Hey folks,<p>We are the team behind Slik.<p>Over the past year, we have been hacking on SlikSafe [1] a Dropbox alternative where all your data is first encrypted on your own device and then stored on decentralized storage.<p>Some features we&#x27;re most excited about are -<p><pre><code>  - multi-device data sync,\n  - auto-backups via desktop apps,\n  - search your docs by name or contents with end-to-end encryption,\n  - easy sharing via email, QR-code or private-link,\n  - Password-less login using MetaMask&#x2F;Phantom\n\n</code></pre>\nWe leverage storage providers IPFS and Storj for global redundancy, reliability, and immutability.<p>You can use our web app [2] and macOS app [3] today. Our desktop app for Windows is currently in beta, and will be launched in early Jan.<p>You can read our WhitePaper [4] for the technical implementation, or see a quick demo [5] of the product.<p>Would love to hear what you think.<p>Arpit, Charvi<p>[1] SlikSafe: <a href=\"https:&#x2F;&#x2F;www.sliksafe.com\" rel=\"nofollow\">https:&#x2F;&#x2F;www.sliksafe.com</a><p>[2] Web app: <a href=\"https:&#x2F;&#x2F;app.sliksafe.com\" rel=\"nofollow\">https:&#x2F;&#x2F;app.sliksafe.com</a><p>[3] macOS app: <a href=\"https:&#x2F;&#x2F;sliksafe.com&#x2F;downloads\" rel=\"nofollow\">https:&#x2F;&#x2F;sliksafe.com&#x2F;downloads</a><p>[4] WhitePaper: <a href=\"https:&#x2F;&#x2F;sliksafe.com&#x2F;whitepaper.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;sliksafe.com&#x2F;whitepaper.pdf</a><p>[5] Demo video: <a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;abe133c4ce874655a952a30601e99408\" rel=\"nofollow\">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;abe133c4ce874655a952a30601e99408</a>",
+      "title": "Show HN: SlikSafe – A decentralized, end-to-end encrypted alternative to Dropbox",
+      "updated_at": "2026-02-06T02:44:19Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "harshithmul"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "loom"
+          ],
+          "value": "Hi HN, we're Harshith, Manoj and Manik and we're building Tegon (<a href=\"https://github.com/tegonhq/tegon\">https://github.com/tegonhq/tegon</a>), open-source issue tracking software that uses AI to smartly automate manual workflows or provide more context to engineers for a given task. There's a demo video here: <a href=\"https://www.loom.com/share/b664b01e9b064a02be5791c12b77a107\" rel=\"nofollow\">https://www.<em>loom</em>.com/share/b664b01e9b064a02be5791c12b77a107</a>, and you can try out the product at <a href=\"https://demo.tegon.ai\">https://demo.tegon.ai</a> using these credentials:<p><pre><code>  Email: elon@xyz.com\n  Password: XfFNw6GwVJVQv6PA\n</code></pre>\nAs engineers, our experience with traditional tools like Jira hasn't been great. It is slow, bloated and often acts as a burden to engineers. These tools didn't help engineers in getting the work done faster, they only helped the management in tracking the work which enabled a lot of processes and micro-management which used to kill our productivity.<p>With the rise of LLMs, we thought about how project management and issue tracking would look 5-10 years from now. The current tools didn't match our vision, which excited us and started the journey of Tegon. We aim to build a tool where manual workflows are either automated or handled by AI. This tool will provide better context about a task to an engineer by smartly gathering data from all sources, helping teams with better prioritization.<p>Tegon loads all the data from local (indexed db) thus making it super fast to load and navigate. We make all of this happen by real-time sync in the background. Tegon also uses AI to simplify the issue-creation process by automatically creating titles, suggesting labels and assignees and identifying duplicates.\nTegon also simplifies the issue creation process from Slack, just apply an emoji to a Slack message and a tegon issue will be created making it easier for other teams to raise bugs or feature requests to engineering teams.<p>We deeply value the feedback from this community and have spent the last month revamping Tegon's design based on the feedback from our last launch. We just got started and there's a lot more to come. We're eager to get more feedback and keep building. Let us know what you think in the comments :)"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: Tegon: Open-source <em>alternative</em> to Jira, Linear"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/tegonhq/tegon"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_harshithmul",
+        "story_40912920",
+        "show_hn"
+      ],
+      "author": "harshithmul",
+      "children": [
+        40913674,
+        40913757,
+        40914030,
+        40914167,
+        40914276,
+        40914419,
+        40914437,
+        40914444,
+        40916160,
+        40916201,
+        40918115,
+        40918843,
+        40919374,
+        40921117,
+        40921517,
+        40921774,
+        40922361,
+        40922382,
+        40922506,
+        40944334
+      ],
+      "created_at": "2024-07-09T06:01:47Z",
+      "created_at_i": 1720504907,
+      "num_comments": 128,
+      "objectID": "40912920",
+      "points": 163,
+      "story_id": 40912920,
+      "story_text": "Hi HN, we&#x27;re Harshith, Manoj and Manik and we&#x27;re building Tegon (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;tegonhq&#x2F;tegon\">https:&#x2F;&#x2F;github.com&#x2F;tegonhq&#x2F;tegon</a>), open-source issue tracking software that uses AI to smartly automate manual workflows or provide more context to engineers for a given task. There&#x27;s a demo video here: <a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;b664b01e9b064a02be5791c12b77a107\" rel=\"nofollow\">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;b664b01e9b064a02be5791c12b77a107</a>, and you can try out the product at <a href=\"https:&#x2F;&#x2F;demo.tegon.ai\">https:&#x2F;&#x2F;demo.tegon.ai</a> using these credentials:<p><pre><code>  Email: elon@xyz.com\n  Password: XfFNw6GwVJVQv6PA\n</code></pre>\nAs engineers, our experience with traditional tools like Jira hasn&#x27;t been great. It is slow, bloated and often acts as a burden to engineers. These tools didn&#x27;t help engineers in getting the work done faster, they only helped the management in tracking the work which enabled a lot of processes and micro-management which used to kill our productivity.<p>With the rise of LLMs, we thought about how project management and issue tracking would look 5-10 years from now. The current tools didn&#x27;t match our vision, which excited us and started the journey of Tegon. We aim to build a tool where manual workflows are either automated or handled by AI. This tool will provide better context about a task to an engineer by smartly gathering data from all sources, helping teams with better prioritization.<p>Tegon loads all the data from local (indexed db) thus making it super fast to load and navigate. We make all of this happen by real-time sync in the background. Tegon also uses AI to simplify the issue-creation process by automatically creating titles, suggesting labels and assignees and identifying duplicates.\nTegon also simplifies the issue creation process from Slack, just apply an emoji to a Slack message and a tegon issue will be created making it easier for other teams to raise bugs or feature requests to engineering teams.<p>We deeply value the feedback from this community and have spent the last month revamping Tegon&#x27;s design based on the feedback from our last launch. We just got started and there&#x27;s a lot more to come. We&#x27;re eager to get more feedback and keep building. Let us know what you think in the comments :)",
+      "title": "Show HN: Tegon: Open-source alternative to Jira, Linear",
+      "updated_at": "2026-07-14T14:32:32Z",
+      "url": "https://github.com/tegonhq/tegon"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "antonap"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "loom",
+            "alternative"
+          ],
+          "value": "Hi HN, we are the founders of Relari (<a href=\"https://www.relari.ai\">https://www.relari.ai</a>). We launched our LLM evaluation stack on HN a few months ago (<a href=\"https://news.ycombinator.com/item?id=39641105\">https://news.ycombinator.com/item?id=39641105</a>), which is now used in production by AI teams at companies like Vanta and PwC. We have since expanded to directly optimizing parts of an LLM pipeline using a data-driven approach. In particular, we see a lot of potential in the Auto Prompt Optimization—which could be an attractive <em>alternative</em> to fine-tuning in many cases—to use data to align LLMs for domain-specific tasks.<p>Here’s a demo video: <a href=\"https://www.loom.com/share/4ad30bf1053e46a3846fc5a07495c486\" rel=\"nofollow\">https://www.<em>loom</em>.com/share/4ad30bf1053e46a3846fc5a07495c486</a><p>We started working on the auto prompt optimizer because of our own frustration with developing, iterating, and maintaining prompts across different use cases and models. A minor update to the underlying LLM, a change in user requirements, or a shift in application infrastructure can render a carefully crafted prompt useless. As one user put it, “Prompt engineering is not software engineering; it’s wishful thinking.”<p>We tried prompt optimization tools like DSPy and TextGrad, but realized they require you to adopt new frameworks, craft custom metrics from scratch, and offer limited visibility into the optimization process (or even the final optimized prompt). This lack of transparency left us guessing whether the new prompts are genuinely better or just different.<p>Our Auto Prompt Optimizer aims to be an easy-to-use yet robust <em>alternative</em>, with maximum visibility into the optimization process and final results. It takes two inputs: a dataset with inputs and expected outputs for a given LLM task, and a target metric (we have 30+ out-of-the-box metrics). The optimizer then starts from your initial prompt and uses the dataset to align the LLM output with your desired outcomes. It does this iteratively, mutating the prompt based on feedback from the target metric. The optimizer automatically selects the examples from the datasets to create few-shot prompts and bake in common techniques such as chain of thought when appropriate.<p>Here are two examples of the results that include the initial prompt, each version of the new prompt, and its performance on the target metric<p>- Drug Review Prompt: <a href=\"https://app.relari.ai/demo/prompt/drug-review\">https://app.relari.ai/demo/prompt/drug-review</a> (a non-standard task where the optimizer created sophisticated instructions with detailed rating rubric and corner case handling)<p>- Summarization Prompt: <a href=\"https://app.relari.ai/demo/prompt/cnn-highlights\">https://app.relari.ai/demo/prompt/cnn-highlights</a> (a simple task where the optimizer added more straightforward instructions on styling)<p>We see the prompt optimizer as a lightweight and practical <em>alternative</em> for adapting LLMs for domain-specific tasks. It can deliver high-quality prompts with as few as 100 data points.<p>Try it yourself (<a href=\"https://app.relari.ai/\">https://app.relari.ai/</a>). You can upload your dataset or generate a simple synthetic dataset to start the optimization process. It is recommended to use a dataset with at least 30 samples. The optimization process can take up to an hour depending on the size of the dataset and metrics, so we ask you to create an account so we can keep track of each optimization run and will send you an email notice once it’s completed.<p>What’s next? We’re currently working on support for more advanced features like prompt chaining and agent tool call use cases. For power users, we offer custom metrics and multi-objective optimization to address the most complex use cases.<p>What’s been your biggest challenge with prompt engineering? Would a dataset-driven approach could improve your prompt workflow? We’d love to hear your thoughts and feedback on our approach."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: Relari – Auto Prompt Optimizer as Lightweight <em>Alternative</em> to Finetuning"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_antonap",
+        "story_41379408",
+        "show_hn"
+      ],
+      "author": "antonap",
+      "children": [
+        41381682,
+        41382865
+      ],
+      "created_at": "2024-08-28T13:40:33Z",
+      "created_at_i": 1724852433,
+      "num_comments": 4,
+      "objectID": "41379408",
+      "points": 32,
+      "story_id": 41379408,
+      "story_text": "Hi HN, we are the founders of Relari (<a href=\"https:&#x2F;&#x2F;www.relari.ai\">https:&#x2F;&#x2F;www.relari.ai</a>). We launched our LLM evaluation stack on HN a few months ago (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=39641105\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=39641105</a>), which is now used in production by AI teams at companies like Vanta and PwC. We have since expanded to directly optimizing parts of an LLM pipeline using a data-driven approach. In particular, we see a lot of potential in the Auto Prompt Optimization—which could be an attractive alternative to fine-tuning in many cases—to use data to align LLMs for domain-specific tasks.<p>Here’s a demo video: <a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;4ad30bf1053e46a3846fc5a07495c486\" rel=\"nofollow\">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;4ad30bf1053e46a3846fc5a07495c486</a><p>We started working on the auto prompt optimizer because of our own frustration with developing, iterating, and maintaining prompts across different use cases and models. A minor update to the underlying LLM, a change in user requirements, or a shift in application infrastructure can render a carefully crafted prompt useless. As one user put it, “Prompt engineering is not software engineering; it’s wishful thinking.”<p>We tried prompt optimization tools like DSPy and TextGrad, but realized they require you to adopt new frameworks, craft custom metrics from scratch, and offer limited visibility into the optimization process (or even the final optimized prompt). This lack of transparency left us guessing whether the new prompts are genuinely better or just different.<p>Our Auto Prompt Optimizer aims to be an easy-to-use yet robust alternative, with maximum visibility into the optimization process and final results. It takes two inputs: a dataset with inputs and expected outputs for a given LLM task, and a target metric (we have 30+ out-of-the-box metrics). The optimizer then starts from your initial prompt and uses the dataset to align the LLM output with your desired outcomes. It does this iteratively, mutating the prompt based on feedback from the target metric. The optimizer automatically selects the examples from the datasets to create few-shot prompts and bake in common techniques such as chain of thought when appropriate.<p>Here are two examples of the results that include the initial prompt, each version of the new prompt, and its performance on the target metric<p>- Drug Review Prompt: <a href=\"https:&#x2F;&#x2F;app.relari.ai&#x2F;demo&#x2F;prompt&#x2F;drug-review\">https:&#x2F;&#x2F;app.relari.ai&#x2F;demo&#x2F;prompt&#x2F;drug-review</a> (a non-standard task where the optimizer created sophisticated instructions with detailed rating rubric and corner case handling)<p>- Summarization Prompt: <a href=\"https:&#x2F;&#x2F;app.relari.ai&#x2F;demo&#x2F;prompt&#x2F;cnn-highlights\">https:&#x2F;&#x2F;app.relari.ai&#x2F;demo&#x2F;prompt&#x2F;cnn-highlights</a> (a simple task where the optimizer added more straightforward instructions on styling)<p>We see the prompt optimizer as a lightweight and practical alternative for adapting LLMs for domain-specific tasks. It can deliver high-quality prompts with as few as 100 data points.<p>Try it yourself (<a href=\"https:&#x2F;&#x2F;app.relari.ai&#x2F;\">https:&#x2F;&#x2F;app.relari.ai&#x2F;</a>). You can upload your dataset or generate a simple synthetic dataset to start the optimization process. It is recommended to use a dataset with at least 30 samples. The optimization process can take up to an hour depending on the size of the dataset and metrics, so we ask you to create an account so we can keep track of each optimization run and will send you an email notice once it’s completed.<p>What’s next? We’re currently working on support for more advanced features like prompt chaining and agent tool call use cases. For power users, we offer custom metrics and multi-objective optimization to address the most complex use cases.<p>What’s been your biggest challenge with prompt engineering? Would a dataset-driven approach could improve your prompt workflow? We’d love to hear your thoughts and feedback on our approach.",
+      "title": "Show HN: Relari – Auto Prompt Optimizer as Lightweight Alternative to Finetuning",
+      "updated_at": "2025-06-26T02:58:26Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "harshithmul"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "loom"
+          ],
+          "value": "Hey HN! We're Harshith, Manoj, and Manik, and we're thrilled to re-introduce Tegon, an open-source issue tracker built with engineers in mind. Here is our demo video (<a href=\"https://www.loom.com/share/b664b01e9b064a02be5791c12b77a107?sid=d4146365-1597-4ff5-88fd-a07b08ddb9f4\" rel=\"nofollow\">https://www.<em>loom</em>.com/share/b664b01e9b064a02be5791c12b77a107?...</a>)<p>You can check the demo on <a href=\"https://demo.tegon.ai\">https://demo.tegon.ai</a> with these credentials:<p><pre><code>  Email: elon@xyz.com\n\n  Password: XfFNw6GwVJVQv6PA\n</code></pre>\nTraditional issue trackers like Jira can be slow, bloated, and bogged down by unnecessary processes. Tegon takes a different approach, leveraging AI agents to streamline workflows and empower your team.<p>Tegon is AI-first<p>- Blazing Fast: Loads data instantly from your local machine for smooth navigation (powered by real-time background syncing).<p>- AI-powered Assistant: Automatically suggests titles, labels, and assignees, and even identifies duplicate issues while you create new ones.<p>- Smarter Summaries: Uses AI to generate concise summaries of issue activity, keeping you focused.<p>- Natural Language Search: Filter issues with ease by simply typing in plain text.<p>- Automated Triaging: AI saves time by automatically categorizing issues coming in triage<p>What's coming next<p>Tegon isn't stopping there. We're actively building features to:<p>- Prioritization Powerhouse: Groom and prioritise unscoped requirements for efficient development (check out our GitHub issue for more details<p>- Personal Section: A dedicated personal section containing My issues and My notes<p>- Context Enricher Agent: Tegon Agent will flag issues with insufficient descriptions to prevent misunderstandings<p>- Prioritisation Agent: Assist team leads in managing sprints by analyzing tasks, priorities, and bandwidth in real-time, suggesting adjustments for optimal workflow. [Coming soon]<p>Key Sources<p>Website - <a href=\"https://tegon.ai/\">https://tegon.ai/</a><p>Demo Video - <a href=\"https://www.loom.com/share/b664b01e9b064a02be5791c12b77a107?sid=d4146365-1597-4ff5-88fd-a07b08ddb9f4\" rel=\"nofollow\">https://www.<em>loom</em>.com/share/b664b01e9b064a02be5791c12b77a107?...</a><p>We Heard You!<p>We appreciate your feedback on our previous design. We've spent the last month revamping Tegon's look and feel to provide a fresher look.<p>Let's Build Together!<p>We're eager to hear your thoughts and keep improving Tegon. Feel free to share your feedback in the comments below!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: Tegon: Open source <em>alternative</em> to Jira and Linear"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/tegonhq/tegon"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_harshithmul",
+        "story_40855069",
+        "show_hn"
+      ],
+      "author": "harshithmul",
+      "children": [
+        40855379,
+        40856708,
+        40864065
+      ],
+      "created_at": "2024-07-02T10:03:15Z",
+      "created_at_i": 1719914595,
+      "num_comments": 4,
+      "objectID": "40855069",
+      "points": 27,
+      "story_id": 40855069,
+      "story_text": "Hey HN! We&#x27;re Harshith, Manoj, and Manik, and we&#x27;re thrilled to re-introduce Tegon, an open-source issue tracker built with engineers in mind. Here is our demo video (<a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;b664b01e9b064a02be5791c12b77a107?sid=d4146365-1597-4ff5-88fd-a07b08ddb9f4\" rel=\"nofollow\">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;b664b01e9b064a02be5791c12b77a107?...</a>)<p>You can check the demo on <a href=\"https:&#x2F;&#x2F;demo.tegon.ai\">https:&#x2F;&#x2F;demo.tegon.ai</a> with these credentials:<p><pre><code>  Email: elon@xyz.com\n\n  Password: XfFNw6GwVJVQv6PA\n</code></pre>\nTraditional issue trackers like Jira can be slow, bloated, and bogged down by unnecessary processes. Tegon takes a different approach, leveraging AI agents to streamline workflows and empower your team.<p>Tegon is AI-first<p>- Blazing Fast: Loads data instantly from your local machine for smooth navigation (powered by real-time background syncing).<p>- AI-powered Assistant: Automatically suggests titles, labels, and assignees, and even identifies duplicate issues while you create new ones.<p>- Smarter Summaries: Uses AI to generate concise summaries of issue activity, keeping you focused.<p>- Natural Language Search: Filter issues with ease by simply typing in plain text.<p>- Automated Triaging: AI saves time by automatically categorizing issues coming in triage<p>What&#x27;s coming next<p>Tegon isn&#x27;t stopping there. We&#x27;re actively building features to:<p>- Prioritization Powerhouse: Groom and prioritise unscoped requirements for efficient development (check out our GitHub issue for more details<p>- Personal Section: A dedicated personal section containing My issues and My notes<p>- Context Enricher Agent: Tegon Agent will flag issues with insufficient descriptions to prevent misunderstandings<p>- Prioritisation Agent: Assist team leads in managing sprints by analyzing tasks, priorities, and bandwidth in real-time, suggesting adjustments for optimal workflow. [Coming soon]<p>Key Sources<p>Website - <a href=\"https:&#x2F;&#x2F;tegon.ai&#x2F;\">https:&#x2F;&#x2F;tegon.ai&#x2F;</a><p>Demo Video - <a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;b664b01e9b064a02be5791c12b77a107?sid=d4146365-1597-4ff5-88fd-a07b08ddb9f4\" rel=\"nofollow\">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;b664b01e9b064a02be5791c12b77a107?...</a><p>We Heard You!<p>We appreciate your feedback on our previous design. We&#x27;ve spent the last month revamping Tegon&#x27;s look and feel to provide a fresher look.<p>Let&#x27;s Build Together!<p>We&#x27;re eager to hear your thoughts and keep improving Tegon. Feel free to share your feedback in the comments below!",
+      "title": "Show HN: Tegon: Open source alternative to Jira and Linear",
+      "updated_at": "2026-07-14T14:32:32Z",
+      "url": "https://github.com/tegonhq/tegon"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "aswinmohanme"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "loom"
+          ],
+          "value": "Hi HN, I am Aswin Mohan(<a href=\"https://aswinmohan.me\" rel=\"nofollow\">https://aswinmohan.me</a>), a full-stack mobile/web developer. I have been working on WorkBill (<a href=\"https://workbill.co\" rel=\"nofollow\">https://workbill.co</a>) for the past 6 weeks on the side and wanted to share it here.<p>demo: <a href=\"https://demo.workbill.co/inbox\" rel=\"nofollow\">https://demo.workbill.co/inbox</a> (no signup needed)\nvideo-demo: <a href=\"https://www.loom.com/share/9775811960ad47d7ada89007d8169d90\" rel=\"nofollow\">https://www.<em>loom</em>.com/share/9775811960ad47d7ada89007d8169d90</a><p>WorkBill is the modern, flexible accounting platform for small businesses. It is based on BeanCount(<a href=\"https://github.com/beancount/beancount\" rel=\"nofollow\">https://github.com/beancount/beancount</a>). You can can add entries, see the chart of accounts, parse bank statements, see the balance sheet and income statement and reconcile transactions manually. We currently only support USD.<p>Unlike traditional accounting software where you assign a category to a transaction, WorkBill enables you to create nested accounts (Expense:Payroll:Engineering) and represent the transaction as movement of money between these accounts. This enables us to model complex transactions easily, even when we do not have explicit support for them in our platform. This also gives us richer context about each transaction that we can use to do automate most of the grunt-work associated with accounting.<p>I had been using Beancount to track my personal finances for over 3 years and loved how flexible it was compared to others on the market. I loved it so much that I built a personal finance app based on these principles (<a href=\"https://news.ycombinator.com/item?id=42256125\">https://news.ycombinator.com/item?id=42256125</a>). When I started a Private Limited in India, I looked around for an accounting software, found everything to be lacking or in-flexible and ended up with Beancount again. That is when I decided to build out WorkBill. I have been using it for bookeeping at my own company.<p>The tech stack is Elixir, Phoenix combined with Inertia JS and React with help from ShadCN and TailwindCSS. It has been an incredibly productive framework. I have not used any AI tools, coded mostly in Zed with little help from ChatGPT.<p>We are getting started with WorkBill. With a stable accounting core, we can add invoices, bills, AR/AP automation to build the all-in-one financial stack for small businesses.<p>The grand idea of WorkBill is to build a world where accounting and bookkeeping mostly run on autopilot with accountants stepping in for strategic advice, planning and improving the business. if you would like to be part of that future, I are raising a small pre-seed round as well. You can ping me at aswin@workbill.co for more info.<p>If you would like an invite, please email aswin@workbill.co. Excited to hear your feedback!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: WorkBill – Modern <em>Alternative</em> to QuickBooks"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://demo.workbill.co/inbox"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_aswinmohanme",
+        "story_45891748",
+        "show_hn"
+      ],
+      "author": "aswinmohanme",
+      "created_at": "2025-11-11T19:34:23Z",
+      "created_at_i": 1762889663,
+      "num_comments": 0,
+      "objectID": "45891748",
+      "points": 2,
+      "story_id": 45891748,
+      "story_text": "Hi HN, I am Aswin Mohan(<a href=\"https:&#x2F;&#x2F;aswinmohan.me\" rel=\"nofollow\">https:&#x2F;&#x2F;aswinmohan.me</a>), a full-stack mobile&#x2F;web developer. I have been working on WorkBill (<a href=\"https:&#x2F;&#x2F;workbill.co\" rel=\"nofollow\">https:&#x2F;&#x2F;workbill.co</a>) for the past 6 weeks on the side and wanted to share it here.<p>demo: <a href=\"https:&#x2F;&#x2F;demo.workbill.co&#x2F;inbox\" rel=\"nofollow\">https:&#x2F;&#x2F;demo.workbill.co&#x2F;inbox</a> (no signup needed)\nvideo-demo: <a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;9775811960ad47d7ada89007d8169d90\" rel=\"nofollow\">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;9775811960ad47d7ada89007d8169d90</a><p>WorkBill is the modern, flexible accounting platform for small businesses. It is based on BeanCount(<a href=\"https:&#x2F;&#x2F;github.com&#x2F;beancount&#x2F;beancount\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;beancount&#x2F;beancount</a>). You can can add entries, see the chart of accounts, parse bank statements, see the balance sheet and income statement and reconcile transactions manually. We currently only support USD.<p>Unlike traditional accounting software where you assign a category to a transaction, WorkBill enables you to create nested accounts (Expense:Payroll:Engineering) and represent the transaction as movement of money between these accounts. This enables us to model complex transactions easily, even when we do not have explicit support for them in our platform. This also gives us richer context about each transaction that we can use to do automate most of the grunt-work associated with accounting.<p>I had been using Beancount to track my personal finances for over 3 years and loved how flexible it was compared to others on the market. I loved it so much that I built a personal finance app based on these principles (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42256125\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42256125</a>). When I started a Private Limited in India, I looked around for an accounting software, found everything to be lacking or in-flexible and ended up with Beancount again. That is when I decided to build out WorkBill. I have been using it for bookeeping at my own company.<p>The tech stack is Elixir, Phoenix combined with Inertia JS and React with help from ShadCN and TailwindCSS. It has been an incredibly productive framework. I have not used any AI tools, coded mostly in Zed with little help from ChatGPT.<p>We are getting started with WorkBill. With a stable accounting core, we can add invoices, bills, AR&#x2F;AP automation to build the all-in-one financial stack for small businesses.<p>The grand idea of WorkBill is to build a world where accounting and bookkeeping mostly run on autopilot with accountants stepping in for strategic advice, planning and improving the business. if you would like to be part of that future, I are raising a small pre-seed round as well. You can ping me at aswin@workbill.co for more info.<p>If you would like an invite, please email aswin@workbill.co. Excited to hear your feedback!",
+      "title": "Show HN: WorkBill – Modern Alternative to QuickBooks",
+      "updated_at": "2026-03-05T23:01:56Z",
+      "url": "https://demo.workbill.co/inbox"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ujnproduct"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Digger's (<a href=\"https://github.com/diggerhq/digger\">https://github.com/diggerhq/digger</a>) Open Policy Agent (OPA) integration for role based access control that we shipped last week extends Digger's existing capabilities by enabling you to define custom policies for fine-grained control over who can do what within your infrastructure.<p>This feature was highly requested by users as it makes it easier to enforce compliance requirements, implement security best practices, and maintain a well-governed infrastructure environment with granular control.<p>Please do share your feedback!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: Digger, an OS <em>Alternative</em> to Terraform Enterprise Now Has RBAC via OPA"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "loom"
+          ],
+          "value": "https://www.<em>loom</em>.com/share/e3fafa11145b4c7fbae6c1fa34a36fea?sid=85acf722-b7e3-4d7c-8cbe-8a46d1f53f20"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ujnproduct",
+        "story_36391891",
+        "show_hn"
+      ],
+      "author": "ujnproduct",
+      "created_at": "2023-06-19T15:05:16Z",
+      "created_at_i": 1687187116,
+      "num_comments": 0,
+      "objectID": "36391891",
+      "points": 2,
+      "story_id": 36391891,
+      "story_text": "Digger&#x27;s (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;diggerhq&#x2F;digger\">https:&#x2F;&#x2F;github.com&#x2F;diggerhq&#x2F;digger</a>) Open Policy Agent (OPA) integration for role based access control that we shipped last week extends Digger&#x27;s existing capabilities by enabling you to define custom policies for fine-grained control over who can do what within your infrastructure.<p>This feature was highly requested by users as it makes it easier to enforce compliance requirements, implement security best practices, and maintain a well-governed infrastructure environment with granular control.<p>Please do share your feedback!",
+      "title": "Show HN: Digger, an OS Alternative to Terraform Enterprise Now Has RBAC via OPA",
+      "updated_at": "2024-09-20T14:28:37Z",
+      "url": "https://www.loom.com/share/e3fafa11145b4c7fbae6c1fa34a36fea?sid=85acf722-b7e3-4d7c-8cbe-8a46d1f53f20"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Yaramsa-Gautham"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "loom"
+          ],
+          "value": "I built Videoyards, a browser-based screen recording and editing tool made for indie hackers and SaaS founders who want to create clean, professional demo videos without wasting time switching tools.<p>It works directly via a Chrome extension, no downloads, no setup. You can record your screen, camera, and mic, then instantly edit with auto zooms, cursor highlights, and silence removal right in your browser &amp; Exports are available in HD or 4K 60FPS.<p>The main benefit is speed. you can record, polish, and share a demo in minutes instead of hours. It’s built to help you show your product clearly, make your demos look professional, and save time so you can focus on building instead of editing.<p>Free plan includes 1-minute HD recordings with watermark. Early supporters can grab a $39.99 lifetime deal for unlimited 4K recordings, camera/mic support, and lifetime updates. Currently i had 200+ users using it and got an rating of 5.0. Still in the beta version and trying to make it better.<p>Here are the results after 6-weeks (1&amp;half month ) since launch:- 7000+ visitors, 250+ users signups, 150+ videos are exported, 13 total paid users, $705 in total revenue, 112 install on my chrome extension, 5-Five star review on my chrome extension, My extension got featured by chrome<p>Would love your feedback on the recording speed, editing flow, and overall UX compared to <em>Loom</em> or Screen Studio."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: Videoyards – <em>Alternative</em> to Screen Studio for Windows"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://videoyards.com"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Yaramsa-Gautham",
+        "story_45679204",
+        "show_hn"
+      ],
+      "author": "Yaramsa-Gautham",
+      "children": [
+        45679263
+      ],
+      "created_at": "2025-10-23T07:32:24Z",
+      "created_at_i": 1761204744,
+      "num_comments": 2,
+      "objectID": "45679204",
+      "points": 1,
+      "story_id": 45679204,
+      "story_text": "I built Videoyards, a browser-based screen recording and editing tool made for indie hackers and SaaS founders who want to create clean, professional demo videos without wasting time switching tools.<p>It works directly via a Chrome extension, no downloads, no setup. You can record your screen, camera, and mic, then instantly edit with auto zooms, cursor highlights, and silence removal right in your browser &amp; Exports are available in HD or 4K 60FPS.<p>The main benefit is speed. you can record, polish, and share a demo in minutes instead of hours. It’s built to help you show your product clearly, make your demos look professional, and save time so you can focus on building instead of editing.<p>Free plan includes 1-minute HD recordings with watermark. Early supporters can grab a $39.99 lifetime deal for unlimited 4K recordings, camera&#x2F;mic support, and lifetime updates. Currently i had 200+ users using it and got an rating of 5.0. Still in the beta version and trying to make it better.<p>Here are the results after 6-weeks (1&amp;half month ) since launch:- 7000+ visitors, 250+ users signups, 150+ videos are exported, 13 total paid users, $705 in total revenue, 112 install on my chrome extension, 5-Five star review on my chrome extension, My extension got featured by chrome<p>Would love your feedback on the recording speed, editing flow, and overall UX compared to Loom or Screen Studio.",
+      "title": "Show HN: Videoyards – Alternative to Screen Studio for Windows",
+      "updated_at": "2026-03-05T22:53:20Z",
+      "url": "https://videoyards.com"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 179,
+  "nbPages": 9,
+  "page": 0,
+  "params": "query=loom+alternative&tags=show_hn&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 5,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 6,
+      "roundTrip": 17
+    },
+    "afterFetch": {
+      "format": {
+        "highlighting": 2,
+        "total": 3
+      }
+    },
+    "fetch": {
+      "query": 4,
+      "total": 5
+    },
+    "total": 5
+  },
+  "query": "loom alternative",
+  "serverTimeMS": 15
+}

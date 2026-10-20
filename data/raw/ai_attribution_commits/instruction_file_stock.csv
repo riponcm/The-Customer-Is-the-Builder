@@ -1,0 +1,5 @@
+file,query,total_count,incomplete,retrieved_utc
+CLAUDE.md,filename:CLAUDE.md,872448,False,
+AGENTS.md,filename:AGENTS.md,1105920,False,
+.cursorrules,filename:.cursorrules,34176,False,
+copilot-instructions.md,filename:copilot-instructions.md path:.github,154624,False,

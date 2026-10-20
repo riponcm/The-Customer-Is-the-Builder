@@ -1,0 +1,113 @@
+repo,number,title,comments,reactions,state,created_at,author_association,bug_like_title
+cadcraft,347,Fusion 360 style parametric 3D CAD,3,3,open,2026-10-10T21:02:06Z,NONE,False
+cadcraft,1,I am UI Designer，I would like to provied App Icon,0,4,open,2026-10-07T08:22:59Z,NONE,False
+cadcraft,55,Web build: File > Open… does nothing,4,0,closed,2026-10-09T19:20:05Z,NONE,True
+cadcraft,544,Canvas freezes on real DWG files: pattern hatches expand to ~30M primitives per zoom step (measurements + patch),4,0,closed,2026-10-11T05:38:05Z,NONE,True
+cadcraft,40,Potential name change for trademark,1,2,open,2026-10-09T15:51:02Z,NONE,True
+cadcraft,53,web displays shortcuts as macOS on Windows 10,3,0,closed,2026-10-09T18:47:30Z,NONE,False
+cadcraft,98,fix(dxf): saved viewports lose their frozen-layer lists,3,0,closed,2026-10-10T03:02:19Z,NONE,False
+cadcraft,164,[Bug] DXF --save downgrades $ACADVER to AC1015 (R2000) but keeps UTF-8 text bytes — all non-ASCII text is corrupted for any compliant reader,3,0,closed,2026-10-10T13:44:19Z,NONE,True
+craft-launcher,33,[Feature Request] Support Downloading Portable Versions of Apps,6,5,open,2026-10-10T13:30:01Z,NONE,False
+craft-launcher,93,"[Suggestion] Choose folder for installed apps, either individually, or pick a root folder for them all.",2,7,open,2026-10-11T00:22:05Z,NONE,False
+craft-launcher,22,[BUG] Close button does not quit the application when run as AppImage via Gear Lever on KDE Fedora,7,1,closed,2026-10-10T09:34:54Z,NONE,True
+craft-launcher,46,[Windows] Not opening,8,0,open,2026-10-10T16:32:49Z,NONE,False
+craft-launcher,165,Unable to launch Artcraft Launcher v0.2.1 on Windows 11 25H2,8,0,open,2026-10-11T19:13:06Z,NONE,False
+craft-launcher,157,[feat] Ability to set a Custom Installation Folder,1,5,open,2026-10-11T18:37:56Z,NONE,False
+craft-launcher,82,add a custom path for .appimage installations please,2,3,open,2026-10-10T21:35:31Z,NONE,False
+craft-launcher,70,Launcher fails to Launch,2,2,closed,2026-10-10T20:11:19Z,NONE,False
+craft-libs,3,macOS: closing the window crashes in _NSTouchBarFinderObservation (affects most Craft apps),7,0,open,2026-10-10T12:28:11Z,NONE,True
+craft-libs,12,standardise settings across the craft apps,7,0,open,2026-10-11T09:20:47Z,NONE,False
+craft-libs,2,Shared library candidates: source audit and extraction priorities,3,1,open,2026-10-09T16:14:35Z,CONTRIBUTOR,False
+craft-libs,14,RFC: Shared document reliability & crash-safe atomic writes (craft-atomic),2,0,open,2026-10-11T09:27:46Z,NONE,True
+craft-libs,4,Explore shared text and image generation providers,1,0,open,2026-10-10T18:21:19Z,CONTRIBUTOR,False
+craft-libs,7,Validate craft-libs changes against consumer applications,1,0,open,2026-10-11T04:57:55Z,NONE,True
+craft-libs,10,Consumer workspace build performance and profile optimization standards,1,0,open,2026-10-11T06:24:10Z,NONE,False
+craft-libs,17,"UI text in non-Latin scripts: fallback in egui 0.37, bidi upstream",1,0,open,2026-10-11T13:40:16Z,NONE,False
+deckcraft,117,Issue - Transition duratons are reset to 1sec,3,0,open,2026-10-11T04:15:20Z,NONE,False
+deckcraft,50,fix(packaging): macOS DMG app fails strict signature verification,2,0,open,2026-10-09T22:16:43Z,NONE,False
+deckcraft,103,[Bug] Home button starts a new empty presentation,2,0,closed,2026-10-10T23:20:56Z,NONE,True
+deckcraft,163,0.5.0: `render --help` writes a PNG named `--help` instead of printing help (unknown --flags become the output path),2,0,open,2026-10-11T18:14:15Z,NONE,False
+deckcraft,17,A few Issues,1,0,open,2026-10-09T03:53:22Z,NONE,False
+deckcraft,18,Prompt user to add shortcut to desktop,0,1,open,2026-10-09T03:57:51Z,NONE,False
+deckcraft,33,Transitions not Working,1,0,closed,2026-10-09T17:48:09Z,NONE,False
+deckcraft,53,Can't copy and paste images,1,0,open,2026-10-10T00:10:52Z,NONE,True
+designcraft,21,INDD file support missing,2,10,open,2026-10-05T08:38:58Z,NONE,False
+designcraft,23,Issues when editing text (Text Frame behaviour),4,4,open,2026-10-05T09:39:50Z,NONE,False
+designcraft,48,Only finds 4 fonts (builtin?) on Linux,5,2,closed,2026-10-06T13:37:07Z,NONE,False
+designcraft,110,"macOS: system fonts not detected, only bundled fonts appear in font menu",7,0,open,2026-10-08T01:52:30Z,NONE,False
+designcraft,165,[Bug] Text frame linking / text chain is missing or broken; 'Primary Text Frame' is insufficient and creates undeletable pages. Linux Appimage version 0.4.0,2,4,open,2026-10-08T20:19:17Z,NONE,True
+designcraft,259,Integration branch: 117 open PRs merged with conflicts resolved (aiongg/designcraft `next`),5,0,open,2026-10-09T23:17:20Z,CONTRIBUTOR,False
+designcraft,323,"Hex color support, color selection issues",5,0,open,2026-10-10T12:38:00Z,NONE,False
+designcraft,77,[Feature Request] Direct link / live sync for .docx and Markdown support with style mapping,4,0,open,2026-10-07T10:52:30Z,NONE,False
+effectcraft,613,GPU compositor can't start on DirectX 12 (FXC fails on the `pointwise` kernel),11,0,open,2026-10-10T16:44:07Z,CONTRIBUTOR,True
+effectcraft,349,can't import exr format,3,6,closed,2026-10-09T05:45:17Z,NONE,True
+effectcraft,625,[FEATURE REQUEST] Port Duik Plugins to EffectCraft,8,0,open,2026-10-10T17:29:32Z,NONE,False
+effectcraft,190,.aep support,6,1,open,2026-10-07T09:51:25Z,NONE,False
+effectcraft,719,Poor performance with WebP files,7,0,open,2026-10-11T06:48:40Z,NONE,False
+effectcraft,335,Audio Sync/Crackling problems creating new comp.,4,2,open,2026-10-09T01:43:34Z,NONE,False
+effectcraft,293,EffectCraft renders sometimes with .ecproj suffix & motion blur codec issues,5,0,open,2026-10-08T14:11:51Z,NONE,False
+effectcraft,359,FFmpeg based export,4,1,open,2026-10-09T06:38:58Z,NONE,False
+filmcraft,30,"Hardware acceleration: GPU/media-engine decode, GPU effects and GPU export",10,8,open,2026-10-05T05:43:23Z,MEMBER,False
+filmcraft,301,Step forward 1 frame right doesnt work,12,0,open,2026-10-08T16:41:08Z,NONE,True
+filmcraft,23,alsa audio error,6,1,open,2026-10-04T18:19:37Z,NONE,True
+filmcraft,227,General Issues Filmcraft vs Original,5,2,open,2026-10-08T03:01:30Z,NONE,False
+filmcraft,313,FilmCraft Feature - Source Playback,7,0,open,2026-10-08T18:30:02Z,CONTRIBUTOR,False
+filmcraft,388,Feature request: Link EffectCraft compositions directly into FilmCraft with headless rendering,7,0,open,2026-10-09T07:58:21Z,NONE,False
+filmcraft,202,[FILMCRAFT] Inability to move tabs from one section/block to the other,4,2,open,2026-10-07T22:20:09Z,NONE,False
+filmcraft,268,Windows portable silently fails to run in Windows 10,4,2,open,2026-10-08T13:34:25Z,NONE,False
+gridcraft,6,VBA Macros support,1,4,closed,2026-10-08T07:42:26Z,NONE,False
+gridcraft,118,[Bug] Committing a cell value in the web app raises an uncaught Wasm trap,5,0,closed,2026-10-10T05:45:18Z,NONE,True
+gridcraft,69,"cannot open files in the ""Excel Workbook"" format.",3,1,closed,2026-10-09T19:18:15Z,NONE,True
+gridcraft,121,The old XLS support,1,3,closed,2026-10-10T06:14:36Z,NONE,False
+gridcraft,201,[Bug] Filterning Not working,4,0,closed,2026-10-10T18:34:01Z,NONE,True
+gridcraft,273,Clicking paste freezes the app instantly.,3,1,open,2026-10-11T09:38:54Z,NONE,True
+gridcraft,356,Feature Request: Possibility of Macros,3,1,open,2026-10-11T15:23:49Z,NONE,False
+gridcraft,32,[Bug] Thai Unicode Characters Not Rendering Correctly on Windows,2,1,closed,2026-10-09T08:14:14Z,NONE,True
+lightcraft,314,Not all RW2 formats supported?,23,0,open,2026-10-08T14:48:25Z,NONE,False
+lightcraft,197,Support for LRCat files (lightroom catalogs),4,18,open,2026-10-07T08:44:48Z,NONE,False
+lightcraft,195,Add support for fujifilm RAF raw files,6,14,closed,2026-10-07T08:35:24Z,NONE,False
+lightcraft,556,CR3,11,8,open,2026-10-09T16:36:45Z,NONE,False
+lightcraft,367,Slow piece of crap.,4,13,closed,2026-10-08T19:26:47Z,NONE,False
+lightcraft,301,"Hold on, I’ve spent the last year working through these same problems",6,10,open,2026-10-08T13:14:27Z,NONE,False
+lightcraft,515,RAW Files from sony cameras acting strange.,14,1,open,2026-10-09T13:29:14Z,NONE,False
+lightcraft,233,Add canon raw and olympus raw format support,6,8,open,2026-10-07T21:22:35Z,NONE,False
+pdfcraft,160,Available printer not showing.,5,11,open,2026-10-07T15:06:10Z,NONE,False
+pdfcraft,381,Chinese UI renders partial tofu boxes (□) — no CJK glyphs in the embedded UI font set,6,9,open,2026-10-08T23:30:56Z,NONE,False
+pdfcraft,728,[Bug] Windows 简体中文界面显示为豆腐块（tofu），system_fonts 缺少中文字体 fallback,2,10,open,2026-10-10T07:06:12Z,NONE,True
+pdfcraft,258,PrintCraft name change?,5,6,open,2026-10-08T11:39:55Z,NONE,True
+pdfcraft,444,[Issue] Slow Scrolling speed,6,5,closed,2026-10-09T07:19:03Z,NONE,False
+pdfcraft,127,option for adding signature from image is not present.,6,3,open,2026-10-07T05:50:25Z,NONE,False
+pdfcraft,303,Feature request: Add signature from image,7,2,open,2026-10-08T16:44:17Z,NONE,False
+pdfcraft,99,Feature Request Automatic Update,5,3,open,2026-10-06T20:22:00Z,CONTRIBUTOR,False
+photocraft,341,Is it really a clean room implementation if code is generated by LLM?,13,17,open,2026-10-06T14:41:22Z,NONE,False
+photocraft,342,Distribute via Homebrew,4,16,open,2026-10-06T14:49:47Z,NONE,False
+photocraft,386,Linux Wayland: dropping files on the window does nothing (winit 0.30 has no Wayland drag and drop),10,8,open,2026-10-06T20:36:30Z,CONTRIBUTOR,True
+photocraft,2012,Be more honest.,5,11,open,2026-10-09T18:24:52Z,NONE,False
+photocraft,1343,Mouse cursor lag — SurfaceConfig::HIGH_THROUGHPUT is wrong default for an image   editor,12,3,open,2026-10-08T18:22:52Z,NONE,True
+photocraft,1411,Flathub allows AI again,1,14,open,2026-10-08T20:35:03Z,NONE,False
+photocraft,41,"Generative AI editing: Generative Fill, Generative Expand, AI-assisted tools",8,3,open,2026-10-04T16:00:44Z,MEMBER,False
+photocraft,2717,"[Bug] Photoshop 2023 cannot open PSD/PSB re-saved from complex imported PSB, even without modifications",10,1,open,2026-10-10T17:50:17Z,NONE,True
+soundcraft,19,Trademarked name,10,3,open,2026-10-08T18:08:16Z,NONE,False
+soundcraft,38,Maybe it should be FL Studio or Ableton port?,5,4,open,2026-10-09T07:00:46Z,NONE,False
+soundcraft,180,"The name ""soundcraft"" may be a legal trademark - you may want to consider renaming",0,6,open,2026-10-11T06:23:28Z,NONE,False
+soundcraft,30,"VST2, LADSPA, LV2 support",1,4,open,2026-10-08T22:53:43Z,NONE,False
+soundcraft,196,Soundcraft in Linux needs to use Jack either direcctly or indirectly via Pipewire,3,1,open,2026-10-11T19:32:17Z,NONE,False
+soundcraft,41,"Windows: all Cmd+ keyboard shortcuts do nothing (Ctrl+A, Ctrl+B, Ctrl+Space, …)",3,0,open,2026-10-09T12:42:22Z,NONE,False
+soundcraft,62,Web build shows macOS shortcuts (Cmd+…) in menus on Windows 10,3,0,closed,2026-10-09T19:19:03Z,NONE,False
+soundcraft,63,Web build: File > Import > Audio… shows a free-text box instead of a file picker,3,0,closed,2026-10-09T19:19:26Z,NONE,False
+vectorcraft,663,"UI suggestions: preset double-click, Recent files, Discord button, Quick Look preview",12,0,open,2026-10-09T03:59:51Z,NONE,False
+vectorcraft,716,UI flickering and font selector shrinking when changing text fonts,10,0,closed,2026-10-09T07:54:40Z,NONE,True
+vectorcraft,372,Feature Request: Fully support .AI files + Wacom 6D Brushes,9,0,open,2026-10-07T20:49:23Z,NONE,False
+vectorcraft,829,Tool panels not movable,9,0,open,2026-10-09T20:48:43Z,NONE,False
+vectorcraft,637,"Illustrator EPS and .ai import: read layers, hidden objects and hidden text from the editing data",8,0,open,2026-10-09T00:19:12Z,CONTRIBUTOR,False
+vectorcraft,704,Fill The Shape is Not Working,8,0,closed,2026-10-09T07:08:08Z,NONE,False
+vectorcraft,852,Pen Pressure and Brush Options on Macos?,7,1,open,2026-10-09T23:32:20Z,NONE,False
+vectorcraft,491,Lack of support for drawing pad,7,0,closed,2026-10-08T12:19:24Z,NONE,False
+wordcraft,66,Full Arabic and RTL Support,3,5,open,2026-10-09T12:00:26Z,NONE,False
+wordcraft,78,Linux (GNOME Wayland): window title bar doesn't match the desktop theme,6,2,open,2026-10-09T15:24:37Z,NONE,True
+wordcraft,5,Hanging of the program - selecting font hangs the program,4,2,closed,2026-10-07T23:46:11Z,NONE,True
+wordcraft,61,"WordCraft 0.3.0 MSI shares DesignCraft UpgradeCode, blocks install",4,2,closed,2026-10-09T09:08:07Z,NONE,False
+wordcraft,199,arabic support,2,4,open,2026-10-10T08:06:24Z,NONE,False
+wordcraft,31,Hang When Open font selector [ LOG INCLUDE ],5,0,open,2026-10-08T17:04:56Z,NONE,True
+wordcraft,41,Track formatting changes as revisions (w:rPrChange / w:pPrChange),5,0,closed,2026-10-08T20:05:53Z,NONE,True
+wordcraft,44,Modifying Tables,3,2,closed,2026-10-08T21:45:16Z,NONE,False

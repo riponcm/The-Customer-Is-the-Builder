@@ -1,0 +1,13 @@
+repo,readme_chars,readme_cleanroom_mentions,desc_says_cleanroom,readme_alpha_mentions,readme_anthropic_mentions,readme_agent_mentions,readme_not_affiliated,retrieved_utc
+photocraft,31429,3,False,4,0,10,True,
+filmcraft,35990,3,False,2,0,14,True,
+lightcraft,39444,2,False,1,0,14,True,
+pdfcraft,35577,2,False,1,0,15,True,
+vectorcraft,22930,3,False,1,2,10,True,
+effectcraft,23398,2,False,3,0,9,True,
+designcraft,19581,3,False,1,0,7,True,
+wordcraft,24526,2,True,1,0,12,True,
+gridcraft,22937,3,True,1,0,10,True,
+deckcraft,17239,1,True,2,0,6,True,
+cadcraft,26564,1,True,0,0,8,True,
+soundcraft,24635,1,True,4,0,7,True,

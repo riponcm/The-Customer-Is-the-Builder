@@ -1,0 +1,13 @@
+product,vendor,category,pricing_model,wikipedia_title,homebrew_cask,notes
+Screen Studio,Screen Studio,screen_recording,subscription,,screen-studio,
+Loom,Atlassian,screen_recording,freemium_subscription,Loom_(company),loom,
+Grammarly,Grammarly Inc.,writing_assistance,freemium_subscription,Grammarly,grammarly-desktop,
+QuillBot,Learneo,writing_assistance,freemium_subscription,QuillBot,,
+Adobe Acrobat,Adobe,pdf_utilities,subscription,Adobe_Acrobat,adobe-acrobat-reader,
+Smallpdf,Smallpdf AG,pdf_utilities,freemium_subscription,Smallpdf,,
+Adobe Photoshop,Adobe,image_editing,subscription,Adobe_Photoshop,adobe-creative-cloud,
+Canva,Canva,image_editing,freemium_subscription,Canva,canva,
+Notion,Notion Labs,productivity,freemium_subscription,Notion_(productivity_software),notion,
+Trello,Atlassian,productivity,freemium_subscription,Trello,trello,
+Postman,Postman Inc.,developer_utilities,freemium_subscription,Postman_(software),postman,
+Retool,Retool,developer_utilities,usage_subscription,,,

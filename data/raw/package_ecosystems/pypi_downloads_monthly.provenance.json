@@ -1,0 +1,5 @@
+{
+  "source": "https://sql-clickhouse.clickhouse.com/ table pypi.pypi_downloads_per_month",
+  "retrieved_utc": "",
+  "query": "SELECT month, sum(count) AS downloads FROM pypi.pypi_downloads_per_month GROUP BY month ORDER BY month"
+}

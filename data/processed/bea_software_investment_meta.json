@@ -1,0 +1,13 @@
+{
+  "source": "https://apps.bea.gov/national/Release/TXT/",
+  "files": [
+    "SeriesRegister.txt",
+    "NipaDataA.txt",
+    "NipaDataQ.txt"
+  ],
+  "retrieved_utc": {
+    "SeriesRegister.txt": "",
+    "NipaDataA.txt": "",
+    "NipaDataQ.txt": ""
+  }
+}

@@ -1,0 +1,694 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "johnwheeler"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "alternative"
+          ],
+          "value": "Show HN: I made a web-based, free <em>alternative</em> to <em>Screen</em> Studio"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "recorder"
+          ],
+          "value": "https://www.<em>screenrecorder</em>.me"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_johnwheeler",
+        "story_43816419",
+        "show_hn"
+      ],
+      "author": "johnwheeler",
+      "children": [
+        43816775,
+        43816800,
+        43816849,
+        43816883,
+        43816891,
+        43816898,
+        43816908,
+        43817029,
+        43817072,
+        43817128,
+        43817143,
+        43817326,
+        43817450,
+        43817511,
+        43817561,
+        43817597,
+        43817737,
+        43818140,
+        43818345,
+        43818379,
+        43818446,
+        43818524,
+        43818562,
+        43818623,
+        43818671,
+        43818676,
+        43818689,
+        43818735,
+        43819032,
+        43819036,
+        43819132,
+        43819416,
+        43819903,
+        43819955,
+        43820232,
+        43820291,
+        43820513,
+        43820625,
+        43820729,
+        43821915,
+        43822132,
+        43822635,
+        43823064,
+        43824156,
+        43824567,
+        43825656,
+        43828034,
+        43830173,
+        43842866,
+        43881066
+      ],
+      "created_at": "2025-04-28T00:38:53Z",
+      "created_at_i": 1745800733,
+      "num_comments": 117,
+      "objectID": "43816419",
+      "points": 462,
+      "story_id": 43816419,
+      "title": "Show HN: I made a web-based, free alternative to Screen Studio",
+      "updated_at": "2026-02-14T13:50:53Z",
+      "url": "https://www.screenrecorder.me"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "timkonie"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "recorder"
+          ],
+          "value": "Hey HN!<p>I kept seeing those awesome animated <em>screen</em> recordings on X and wanted to make videos like that too. I couldn't find any good <em>screen</em> <em>recorders</em> with automatic effects for Windows, so I decided to build my own!<p>It currently\n- makes the cursor smooth\n- follows the cursor\n- zooms in on clicks\n- records &amp; animates webcam\n- and a bunch of other stuff that's available in the editor (change background, generate subtitles, speed up video segments...)<p>It's a paid app but there's a free trial if you want to play around with it - I'd love to hear what you think!<p>PS: I'm aware of the warning when downloading / installing the app. It's because I can currently only sign the installer with an IV code signing cert. Unfortunately there isn't much I can do at the moment - apparently code signing is hard and quite gatekeep-ey."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "alternative"
+          ],
+          "value": "Show HN: I couldn't find a <em>Screen</em> Studio <em>alternative</em> for Windows, so I made one"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://getrapidemo.com/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_timkonie",
+        "story_41499972",
+        "show_hn"
+      ],
+      "author": "timkonie",
+      "children": [
+        41500366,
+        41501658
+      ],
+      "created_at": "2024-09-10T12:15:01Z",
+      "created_at_i": 1725970501,
+      "num_comments": 3,
+      "objectID": "41499972",
+      "points": 3,
+      "story_id": 41499972,
+      "story_text": "Hey HN!<p>I kept seeing those awesome animated screen recordings on X and wanted to make videos like that too. I couldn&#x27;t find any good screen recorders with automatic effects for Windows, so I decided to build my own!<p>It currently\n- makes the cursor smooth\n- follows the cursor\n- zooms in on clicks\n- records &amp; animates webcam\n- and a bunch of other stuff that&#x27;s available in the editor (change background, generate subtitles, speed up video segments...)<p>It&#x27;s a paid app but there&#x27;s a free trial if you want to play around with it - I&#x27;d love to hear what you think!<p>PS: I&#x27;m aware of the warning when downloading &#x2F; installing the app. It&#x27;s because I can currently only sign the installer with an IV code signing cert. Unfortunately there isn&#x27;t much I can do at the moment - apparently code signing is hard and quite gatekeep-ey.",
+      "title": "Show HN: I couldn't find a Screen Studio alternative for Windows, so I made one",
+      "updated_at": "2024-09-20T17:49:58Z",
+      "url": "https://getrapidemo.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "robert_shaw"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "recorder",
+            "alternative"
+          ],
+          "value": "<em>Alternative</em> to Arc's Sidebar/Edge's Vertical Tabs.<p>It allows you to have more control over your web browsing experience by effectively managing multiple tabs at once.<p>How do vertical tabs work?<p>Enabling the vertical tabs setting moves your open tabs from the top of your browser window (above the address bar) to the left side of the window. This allows the tabs to be displayed vertically, stacked one on top of the other, instead of horizontally.<p>Features<p><pre><code>     Manage tabs and tab groups efficiently with a vertical tabs panel.\n     You can now save, restore, and <em>reorder</em> tabs, including tab groups, using drag-and-drop functionality.\n     The Vertical Tabs Panel presents your open tabs in a side-by-side layout.\n     Efficiently search multiple tabs using fuzzy search.\n     To save memory, you can suspend open tabs.\n     Enable cross-browser cloud synchronization with a single login.\n     Dark Mode Support.\n     Space Backup Solution\n     Save your session as a JSON file\n     Cloud sync by login\n     AI-powered Tab Grouping\n     Group Guardian, Auto Grouping your tabs within URL matchers\n\n\n The advantages of vertical tabs\n</code></pre>\nVertical tabs are an effective solution for avoiding clutter in your browser window and maximizing your on-<em>screen</em> space. Additionally, they enhance tab visibility for easier identification.<p>PS: Side Space is a futuristic vertical tab manager that can only be used with Firefox version 139 or above."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Side Space: A Better Arc-Like Experience for Firefox Users"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://addons.mozilla.org/en-US/firefox/addon/side-space/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_robert_shaw",
+        "story_45062086",
+        "show_hn"
+      ],
+      "author": "robert_shaw",
+      "created_at": "2025-08-29T09:47:07Z",
+      "created_at_i": 1756460827,
+      "num_comments": 0,
+      "objectID": "45062086",
+      "points": 2,
+      "story_id": 45062086,
+      "story_text": "Alternative to Arc&#x27;s Sidebar&#x2F;Edge&#x27;s Vertical Tabs.<p>It allows you to have more control over your web browsing experience by effectively managing multiple tabs at once.<p>How do vertical tabs work?<p>Enabling the vertical tabs setting moves your open tabs from the top of your browser window (above the address bar) to the left side of the window. This allows the tabs to be displayed vertically, stacked one on top of the other, instead of horizontally.<p>Features<p><pre><code>     Manage tabs and tab groups efficiently with a vertical tabs panel.\n     You can now save, restore, and reorder tabs, including tab groups, using drag-and-drop functionality.\n     The Vertical Tabs Panel presents your open tabs in a side-by-side layout.\n     Efficiently search multiple tabs using fuzzy search.\n     To save memory, you can suspend open tabs.\n     Enable cross-browser cloud synchronization with a single login.\n     Dark Mode Support.\n     Space Backup Solution\n     Save your session as a JSON file\n     Cloud sync by login\n     AI-powered Tab Grouping\n     Group Guardian, Auto Grouping your tabs within URL matchers\n\n\n The advantages of vertical tabs\n</code></pre>\nVertical tabs are an effective solution for avoiding clutter in your browser window and maximizing your on-screen space. Additionally, they enhance tab visibility for easier identification.<p>PS: Side Space is a futuristic vertical tab manager that can only be used with Firefox version 139 or above.",
+      "title": "Show HN: Side Space: A Better Arc-Like Experience for Firefox Users",
+      "updated_at": "2026-03-05T22:33:54Z",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/side-space/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "neerajdotname2"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "recorder"
+          ],
+          "value": "Hi HN,<p>Today, we are launching neetoRecord <a href=\"https://www.neeto.com/neetorecord\" rel=\"nofollow\">https://www.neeto.com/neetorecord</a>.<p>neeto is a 100% remote company. We are building many products, which require a lot of communication. Very early on, \nwe had decided that jumping on a &quot;Zoom call&quot;  for every small discussion was not a scalable solution. So, we \nchose to use asynchronous communication.<p>However, with async communication, we found that written text didn't adequately express the message emotionally. A voice \ncan capture the emotion behind a change a person wants much more strongly than written texts. Secondly, writing \ntakes a long time.<p>We started using Loom for async communication and loved it so much that we wanted to get it for the whole company. However, at $15/user/month, getting 100+ Loom seats would cost us substantially.<p>Like any engineer, we wondered how hard it could be to build just the core of Loom. So, we started building it in \nJuly 2023, and after nine months of development, we are ready to present neetoRecord to the world.<p>We have been using neetoRecord internally for the last six months.\nHere is a real-world example <a href=\"https://drive.google.com/file/d/1pjlzSOf7VPvzFzLz4ynM5Kk-pIl7IblT/view\" rel=\"nofollow\">https://drive.google.com/file/d/1pjlzSOf7VPvzFzLz4ynM5Kk-pIl...</a> where we \ndiscussed the website revamp. As you can see, six videos were posted on this issue. It means we had six fewer \nmeetings regarding that issue. Adding up all the hours saved amounts to quite a lot in any given month.<p>We believe that neetoRecord will be an indispensable tool for an effective remote team. At neeto it already is.<p>Our roadmap is currently empty. We will work on improving performance and bug fixes. \nWe will listen to user feedback and feature requests to decide what is next. The most important thing for us is to keep the price competitive to have a wider audience.<p>We have written three blogs on how we built neetoRecord.  \n<a href=\"https://www.bigbinary.com/blog/build-web-based-screen-recorder-loom-alternative-part-1\" rel=\"nofollow\">https://www.bigbinary.com/blog/build-web-based-<em>screen</em>-<em>record</em>...</a><p>Please give neetoRecord a try. We would love to hear your feedback.<p><a href=\"https://www.neeto.com/neetorecord\" rel=\"nofollow\">https://www.neeto.com/neetorecord</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: NeetoRecord – an affordable Loom <em>alternative</em> for remote work"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.neeto.com/neetorecord"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_neerajdotname2",
+        "story_39755303",
+        "show_hn"
+      ],
+      "author": "neerajdotname2",
+      "children": [
+        39768319
+      ],
+      "created_at": "2024-03-19T13:04:20Z",
+      "created_at_i": 1710853460,
+      "num_comments": 2,
+      "objectID": "39755303",
+      "points": 9,
+      "story_id": 39755303,
+      "story_text": "Hi HN,<p>Today, we are launching neetoRecord <a href=\"https:&#x2F;&#x2F;www.neeto.com&#x2F;neetorecord\" rel=\"nofollow\">https:&#x2F;&#x2F;www.neeto.com&#x2F;neetorecord</a>.<p>neeto is a 100% remote company. We are building many products, which require a lot of communication. Very early on, \nwe had decided that jumping on a &quot;Zoom call&quot;  for every small discussion was not a scalable solution. So, we \nchose to use asynchronous communication.<p>However, with async communication, we found that written text didn&#x27;t adequately express the message emotionally. A voice \ncan capture the emotion behind a change a person wants much more strongly than written texts. Secondly, writing \ntakes a long time.<p>We started using Loom for async communication and loved it so much that we wanted to get it for the whole company. However, at $15&#x2F;user&#x2F;month, getting 100+ Loom seats would cost us substantially.<p>Like any engineer, we wondered how hard it could be to build just the core of Loom. So, we started building it in \nJuly 2023, and after nine months of development, we are ready to present neetoRecord to the world.<p>We have been using neetoRecord internally for the last six months.\nHere is a real-world example <a href=\"https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1pjlzSOf7VPvzFzLz4ynM5Kk-pIl7IblT&#x2F;view\" rel=\"nofollow\">https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1pjlzSOf7VPvzFzLz4ynM5Kk-pIl...</a> where we \ndiscussed the website revamp. As you can see, six videos were posted on this issue. It means we had six fewer \nmeetings regarding that issue. Adding up all the hours saved amounts to quite a lot in any given month.<p>We believe that neetoRecord will be an indispensable tool for an effective remote team. At neeto it already is.<p>Our roadmap is currently empty. We will work on improving performance and bug fixes. \nWe will listen to user feedback and feature requests to decide what is next. The most important thing for us is to keep the price competitive to have a wider audience.<p>We have written three blogs on how we built neetoRecord.  \n<a href=\"https:&#x2F;&#x2F;www.bigbinary.com&#x2F;blog&#x2F;build-web-based-screen-recorder-loom-alternative-part-1\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bigbinary.com&#x2F;blog&#x2F;build-web-based-screen-record...</a><p>Please give neetoRecord a try. We would love to hear your feedback.<p><a href=\"https:&#x2F;&#x2F;www.neeto.com&#x2F;neetorecord\" rel=\"nofollow\">https:&#x2F;&#x2F;www.neeto.com&#x2F;neetorecord</a>",
+      "title": "Show HN: NeetoRecord – an affordable Loom alternative for remote work",
+      "updated_at": "2025-01-15T11:09:56Z",
+      "url": "https://www.neeto.com/neetorecord"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "tehcolo"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "recorder",
+            "alternative"
+          ],
+          "value": "Hey! I built an open-source Loom <em>alternative</em> which allows you to <em>record</em> your <em>screen</em>, webcam and mic to easily create shareable videos.<p>Here's how to use it\n- Create an account with ScreenLink\n- Download the ScreenLink Desktop application\n- <em>Record</em> your <em>screen</em> &amp; instantly share!<p>Its built with ElectronJS for desktop and NextJS for web/APIs. I used TailwindCSS and shadcn/ui to make it look nice :D<p>Try it out and all feedback is appreciated"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: Open-Source Loom <em>Alternative</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.screenlink.io/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_tehcolo",
+        "story_38624539",
+        "show_hn"
+      ],
+      "author": "tehcolo",
+      "children": [
+        38629383,
+        38722221
+      ],
+      "created_at": "2023-12-13T09:00:36Z",
+      "created_at_i": 1702458036,
+      "num_comments": 3,
+      "objectID": "38624539",
+      "points": 6,
+      "story_id": 38624539,
+      "story_text": "Hey! I built an open-source Loom alternative which allows you to record your screen, webcam and mic to easily create shareable videos.<p>Here&#x27;s how to use it\n- Create an account with ScreenLink\n- Download the ScreenLink Desktop application\n- Record your screen &amp; instantly share!<p>Its built with ElectronJS for desktop and NextJS for web&#x2F;APIs. I used TailwindCSS and shadcn&#x2F;ui to make it look nice :D<p>Try it out and all feedback is appreciated",
+      "title": "Show HN: Open-Source Loom Alternative",
+      "updated_at": "2024-09-20T15:50:06Z",
+      "url": "https://www.screenlink.io/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "jayfk"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "recorder",
+            "alternative"
+          ],
+          "value": "Hey HN, we're excited to introduce Sorbay - an open source <em>alternative</em> to Loom for creating and sharing <em>screen</em> recordings.<p>With Sorbay, you can easily <em>record</em> your <em>screen</em>, camera, and microphone all at once. It is a complete solution that comes with its own backend service, allowing you to instantly share a link of your recording as soon as it is finished. The video is streamed directly to the backend service as the recording happens to make this possible.<p>With both founders based in different countries, we needed a tool to quickly share <em>screen</em> recordings to keep us up to date or to ask for feedback. Meetings are cool if you need to discuss something deeply, but for almost everything else a quick recording works better.<p>We had to settle for one of the proprietary solutions because none of the open source tools allowed us to quickly share something with each other. Doing the recording is one aspect, but having the ability to instantly share a link was crucial. Waiting on a 400mb video upload to a Dropbox is just too much interruption if you want to quickly share something.<p>The tipping point for us to actually build this open source tool came via an interaction from one of our day jobs. A third party provider sent a <em>screen</em> recording full of confidential information and to make things worse, all of it was uploaded by them to a different third party service. We strongly believe that information like this should stay within a company, ideally on infrastructure that they control themselves. Having a fully integrated open source solution is the best way to go for this.<p>Our goal with this first public release is to gather feedback. The critical code paths are working, but it is still a bit rough to use. We deliberately \ncut out all non-essential features, but have a clear roadmap on what we want to release this year.<p>There are a couple of known issues like audio glitches, non-working videos in Safari and crashing binaries that we hope to fix in the coming weeks. Later this \nyear, we plan on releasing a cloud hosted version of Sorbay that would let you connect your own S3 storage provider. Additionally, we will be releasing an on-prem option focused on features for enterprises (SSO, RBAC, compliance).<p>Both the Sorbay Client and the backend service are completely open source. For licensing we choose the AGPLv3 throughout the stack. The client is built \nwith Vue.js on top of Electron. The use of Electron might be a bit controversial here on Hackernews but given the resources we currently have that was \nthe only way that allowed us to get a working client out on all major platforms. The backend service is realized with Django. We use Keycloak for \nauthentication and Minio for S3 compatible storage. All of this is run alongside Postgres and Redis, running on Docker containers which are managed by Docker Compose.<p>We invite you to try Sorbay for yourself and join us on our issue tracker[1][2], Slack channel[3] or here on HN.<p>Thanks for checking out Sorbay!<p>[1]: <a href=\"https://github.com/sorbayhq/sorbay\">https://github.com/sorbayhq/sorbay</a><p>[2]: <a href=\"https://github.com/sorbayhq/sorbay-client\">https://github.com/sorbayhq/sorbay-client</a><p>[3]: <a href=\"https://join.slack.com/t/slack-oso6527/shared_invite/zt-1qd8gm543-KGdb5gD4WqikZEKEk8sSTA\" rel=\"nofollow\">https://join.slack.com/t/slack-oso6527/shared_invite/zt-1qd8...</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: Sorbay – Open-source <em>alternative</em> to Loom"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://sorbay.io/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_jayfk",
+        "story_35042662",
+        "show_hn"
+      ],
+      "author": "jayfk",
+      "children": [
+        35046602,
+        35047092,
+        35048023,
+        35048929,
+        35049082,
+        35049461,
+        35050137,
+        35050218,
+        35051186,
+        35052178,
+        35067708
+      ],
+      "created_at": "2023-03-06T16:05:21Z",
+      "created_at_i": 1678118721,
+      "num_comments": 14,
+      "objectID": "35042662",
+      "points": 93,
+      "story_id": 35042662,
+      "story_text": "Hey HN, we&#x27;re excited to introduce Sorbay - an open source alternative to Loom for creating and sharing screen recordings.<p>With Sorbay, you can easily record your screen, camera, and microphone all at once. It is a complete solution that comes with its own backend service, allowing you to instantly share a link of your recording as soon as it is finished. The video is streamed directly to the backend service as the recording happens to make this possible.<p>With both founders based in different countries, we needed a tool to quickly share screen recordings to keep us up to date or to ask for feedback. Meetings are cool if you need to discuss something deeply, but for almost everything else a quick recording works better.<p>We had to settle for one of the proprietary solutions because none of the open source tools allowed us to quickly share something with each other. Doing the recording is one aspect, but having the ability to instantly share a link was crucial. Waiting on a 400mb video upload to a Dropbox is just too much interruption if you want to quickly share something.<p>The tipping point for us to actually build this open source tool came via an interaction from one of our day jobs. A third party provider sent a screen recording full of confidential information and to make things worse, all of it was uploaded by them to a different third party service. We strongly believe that information like this should stay within a company, ideally on infrastructure that they control themselves. Having a fully integrated open source solution is the best way to go for this.<p>Our goal with this first public release is to gather feedback. The critical code paths are working, but it is still a bit rough to use. We deliberately \ncut out all non-essential features, but have a clear roadmap on what we want to release this year.<p>There are a couple of known issues like audio glitches, non-working videos in Safari and crashing binaries that we hope to fix in the coming weeks. Later this \nyear, we plan on releasing a cloud hosted version of Sorbay that would let you connect your own S3 storage provider. Additionally, we will be releasing an on-prem option focused on features for enterprises (SSO, RBAC, compliance).<p>Both the Sorbay Client and the backend service are completely open source. For licensing we choose the AGPLv3 throughout the stack. The client is built \nwith Vue.js on top of Electron. The use of Electron might be a bit controversial here on Hackernews but given the resources we currently have that was \nthe only way that allowed us to get a working client out on all major platforms. The backend service is realized with Django. We use Keycloak for \nauthentication and Minio for S3 compatible storage. All of this is run alongside Postgres and Redis, running on Docker containers which are managed by Docker Compose.<p>We invite you to try Sorbay for yourself and join us on our issue tracker[1][2], Slack channel[3] or here on HN.<p>Thanks for checking out Sorbay!<p>[1]: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;sorbayhq&#x2F;sorbay\">https:&#x2F;&#x2F;github.com&#x2F;sorbayhq&#x2F;sorbay</a><p>[2]: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;sorbayhq&#x2F;sorbay-client\">https:&#x2F;&#x2F;github.com&#x2F;sorbayhq&#x2F;sorbay-client</a><p>[3]: <a href=\"https:&#x2F;&#x2F;join.slack.com&#x2F;t&#x2F;slack-oso6527&#x2F;shared_invite&#x2F;zt-1qd8gm543-KGdb5gD4WqikZEKEk8sSTA\" rel=\"nofollow\">https:&#x2F;&#x2F;join.slack.com&#x2F;t&#x2F;slack-oso6527&#x2F;shared_invite&#x2F;zt-1qd8...</a>",
+      "title": "Show HN: Sorbay – Open-source alternative to Loom",
+      "updated_at": "2024-09-20T13:26:02Z",
+      "url": "https://sorbay.io/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "vaneyckseme"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "recorder",
+            "alternative"
+          ],
+          "value": "I’ve been a long-time Loom user, but I often just wanted a simple way to <em>record</em> my <em>screen</em> + camera and share the file anywhere, without being tied to a hosted platform. So I built Bloom.<p>Bloom features:<p>* <em>Screen</em> + camera overlay recording<p>* Saves videos locally (no cloud lock-in)<p>* Built with Electron (cross-platform support in progress)<p>* 100% open source<p>It’s still early — the basics work, but there are rough edges. I’d love feedback on:<p>* What features you’d expect from a Loom <em>alternative</em><p>* Cross-platform testing (I’ve only tried macOS so far)<p>* Any performance or UX issues you notice<p>Links:<p>- Mac OS DMG: <a href=\"https://github.com/thepublicdev/bloom/releases/tag/v1.0.0\" rel=\"nofollow\">https://github.com/thepublicdev/bloom/releases/tag/v1.0.0</a><p>- Repo: <a href=\"https://github.com/thepublicdev/bloom\" rel=\"nofollow\">https://github.com/thepublicdev/bloom</a><p>- Demo video: <a href=\"https://youtu.be/ijNySK5FaTI?si=3Sg9FmZeD-hRENMm\" rel=\"nofollow\">https://youtu.be/ijNySK5FaTI?si=3Sg9FmZeD-hRENMm</a><p>More updates coming soon."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: Bloom – an open-source <em>alternative</em> to Loom"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.thepublic.dev/posts/bloom"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_vaneyckseme",
+        "story_45282667",
+        "show_hn"
+      ],
+      "author": "vaneyckseme",
+      "created_at": "2025-09-17T23:22:34Z",
+      "created_at_i": 1758151354,
+      "num_comments": 0,
+      "objectID": "45282667",
+      "points": 3,
+      "story_id": 45282667,
+      "story_text": "I’ve been a long-time Loom user, but I often just wanted a simple way to record my screen + camera and share the file anywhere, without being tied to a hosted platform. So I built Bloom.<p>Bloom features:<p>* Screen + camera overlay recording<p>* Saves videos locally (no cloud lock-in)<p>* Built with Electron (cross-platform support in progress)<p>* 100% open source<p>It’s still early — the basics work, but there are rough edges. I’d love feedback on:<p>* What features you’d expect from a Loom alternative<p>* Cross-platform testing (I’ve only tried macOS so far)<p>* Any performance or UX issues you notice<p>Links:<p>- Mac OS DMG: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;thepublicdev&#x2F;bloom&#x2F;releases&#x2F;tag&#x2F;v1.0.0\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;thepublicdev&#x2F;bloom&#x2F;releases&#x2F;tag&#x2F;v1.0.0</a><p>- Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;thepublicdev&#x2F;bloom\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;thepublicdev&#x2F;bloom</a><p>- Demo video: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;ijNySK5FaTI?si=3Sg9FmZeD-hRENMm\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;ijNySK5FaTI?si=3Sg9FmZeD-hRENMm</a><p>More updates coming soon.",
+      "title": "Show HN: Bloom – an open-source alternative to Loom",
+      "updated_at": "2026-03-05T22:43:35Z",
+      "url": "https://www.thepublic.dev/posts/bloom"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "luizcamargodev"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "recorder"
+          ],
+          "value": "Hey, everyone!<p>I’ve been working on a web-based tool that I believe will be super helpful for anyone who needs smooth, dynamic zooms in their videos. You might have heard of <em>Screen</em> Studio, which allows you to add zoom effects, but I wanted to create something that’s easy to use, super fast, and works entirely in the browser, not just macOS.<p>So, I built Zoomify Studio, where you can simply <em>record</em> your <em>screen</em> or just upload your video, create stunning zoom transitions, and export your enhanced video, right from your Browser.<p>Key Features:\n* 100% Browser-Based: No downloads or installs required. Just open your browser, upload your video, and start zooming.\n* Smooth Zoom Transitions: Create cinematic zoom effects to highlight key points or focus on details in your videos.\n* Highly Customizable: Control the zoom intensity, point in video and duration. Make your zooms as subtle or dramatic as you need.\n* Video Cutting: Easily cut your video into sections, remove unwanted parts, and keep only the best content.<p>Who’s This For?\n* Indie Hackers who want to create magnetic and engaging product demos that captivate their audience and highlight key features in their products.\n* Content Creators looking for a fast and easy way to add professional-looking zoom effects and cut their videos.\n* Educators and Trainers who need to zoom in on key points in instructional videos or presentations and trim the content for better focus.<p>I’ve designed Zoomify Studio to be as user-friendly as possible. It’s intuitive, with a simple interface, so you can start editing right away without a steep learning curve. You can preview your zoom effects and cuts in real-time and make adjustments until it’s just right.<p>Your feedback and suggestions are always appreciated, especially since I’m still working on some additional features and improvements.<p>Check it out at: <a href=\"https://zoomify.studio\" rel=\"nofollow\">https://zoomify.studio</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "alternative"
+          ],
+          "value": "Show HN: I Built a Web-Based <em>Alternative</em> to <em>Screen</em> Studio for Smooth Zooms"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://zoomify.studio/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_luizcamargodev",
+        "story_42611377",
+        "show_hn"
+      ],
+      "author": "luizcamargodev",
+      "created_at": "2025-01-06T15:31:31Z",
+      "created_at_i": 1736177491,
+      "num_comments": 0,
+      "objectID": "42611377",
+      "points": 2,
+      "story_id": 42611377,
+      "story_text": "Hey, everyone!<p>I’ve been working on a web-based tool that I believe will be super helpful for anyone who needs smooth, dynamic zooms in their videos. You might have heard of Screen Studio, which allows you to add zoom effects, but I wanted to create something that’s easy to use, super fast, and works entirely in the browser, not just macOS.<p>So, I built Zoomify Studio, where you can simply record your screen or just upload your video, create stunning zoom transitions, and export your enhanced video, right from your Browser.<p>Key Features:\n* 100% Browser-Based: No downloads or installs required. Just open your browser, upload your video, and start zooming.\n* Smooth Zoom Transitions: Create cinematic zoom effects to highlight key points or focus on details in your videos.\n* Highly Customizable: Control the zoom intensity, point in video and duration. Make your zooms as subtle or dramatic as you need.\n* Video Cutting: Easily cut your video into sections, remove unwanted parts, and keep only the best content.<p>Who’s This For?\n* Indie Hackers who want to create magnetic and engaging product demos that captivate their audience and highlight key features in their products.\n* Content Creators looking for a fast and easy way to add professional-looking zoom effects and cut their videos.\n* Educators and Trainers who need to zoom in on key points in instructional videos or presentations and trim the content for better focus.<p>I’ve designed Zoomify Studio to be as user-friendly as possible. It’s intuitive, with a simple interface, so you can start editing right away without a steep learning curve. You can preview your zoom effects and cuts in real-time and make adjustments until it’s just right.<p>Your feedback and suggestions are always appreciated, especially since I’m still working on some additional features and improvements.<p>Check it out at: <a href=\"https:&#x2F;&#x2F;zoomify.studio\" rel=\"nofollow\">https:&#x2F;&#x2F;zoomify.studio</a>",
+      "title": "Show HN: I Built a Web-Based Alternative to Screen Studio for Smooth Zooms",
+      "updated_at": "2025-01-06T15:54:23Z",
+      "url": "https://zoomify.studio/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Yaramsa-Gautham"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "recorder"
+          ],
+          "value": "I built Videoyards, a browser-based <em>screen</em> recording and editing tool made for indie hackers and SaaS founders who want to create clean, professional demo videos without wasting time switching tools.<p>It works directly via a Chrome extension, no downloads, no setup. You can <em>record</em> your <em>screen</em>, camera, and mic, then instantly edit with auto zooms, cursor highlights, and silence removal right in your browser &amp; Exports are available in HD or 4K 60FPS.<p>The main benefit is speed. you can <em>record</em>, polish, and share a demo in minutes instead of hours. It’s built to help you show your product clearly, make your demos look professional, and save time so you can focus on building instead of editing.<p>Free plan includes 1-minute HD recordings with watermark. Early supporters can grab a $39.99 lifetime deal for unlimited 4K recordings, camera/mic support, and lifetime updates. Currently i had 200+ users using it and got an rating of 5.0. Still in the beta version and trying to make it better.<p>Here are the results after 6-weeks (1&amp;half month ) since launch:- 7000+ visitors, 250+ users signups, 150+ videos are exported, 13 total paid users, $705 in total revenue, 112 install on my chrome extension, 5-Five star review on my chrome extension, My extension got featured by chrome<p>Would love your feedback on the recording speed, editing flow, and overall UX compared to Loom or <em>Screen</em> Studio."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "alternative"
+          ],
+          "value": "Show HN: Videoyards – <em>Alternative</em> to <em>Screen</em> Studio for Windows"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://videoyards.com"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Yaramsa-Gautham",
+        "story_45679204",
+        "show_hn"
+      ],
+      "author": "Yaramsa-Gautham",
+      "children": [
+        45679263
+      ],
+      "created_at": "2025-10-23T07:32:24Z",
+      "created_at_i": 1761204744,
+      "num_comments": 2,
+      "objectID": "45679204",
+      "points": 1,
+      "story_id": 45679204,
+      "story_text": "I built Videoyards, a browser-based screen recording and editing tool made for indie hackers and SaaS founders who want to create clean, professional demo videos without wasting time switching tools.<p>It works directly via a Chrome extension, no downloads, no setup. You can record your screen, camera, and mic, then instantly edit with auto zooms, cursor highlights, and silence removal right in your browser &amp; Exports are available in HD or 4K 60FPS.<p>The main benefit is speed. you can record, polish, and share a demo in minutes instead of hours. It’s built to help you show your product clearly, make your demos look professional, and save time so you can focus on building instead of editing.<p>Free plan includes 1-minute HD recordings with watermark. Early supporters can grab a $39.99 lifetime deal for unlimited 4K recordings, camera&#x2F;mic support, and lifetime updates. Currently i had 200+ users using it and got an rating of 5.0. Still in the beta version and trying to make it better.<p>Here are the results after 6-weeks (1&amp;half month ) since launch:- 7000+ visitors, 250+ users signups, 150+ videos are exported, 13 total paid users, $705 in total revenue, 112 install on my chrome extension, 5-Five star review on my chrome extension, My extension got featured by chrome<p>Would love your feedback on the recording speed, editing flow, and overall UX compared to Loom or Screen Studio.",
+      "title": "Show HN: Videoyards – Alternative to Screen Studio for Windows",
+      "updated_at": "2026-03-05T22:53:20Z",
+      "url": "https://videoyards.com"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Keyboardian"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "screen",
+            "recorder",
+            "alternative"
+          ],
+          "value": "Hello HN! I'm Jia Yi, a co-founder of FutureNotes (<a href=\"https://www.futurenotes.ai/\" rel=\"nofollow noreferrer\">https://www.futurenotes.ai/</a>). Our platform converts videos directly into notes, using traditional machine learning for video parsing (generative AI is still too slow and expensive for the volume of data involved) and LLM technology for text summarization. Here are some samples we produced based on 'Introduction to Deep Learning' by MIT (it's a great lecture series, you may want to check it out!): <a href=\"https://www.futurenotes.ai/samples\" rel=\"nofollow noreferrer\">https://www.futurenotes.ai/samples</a>.<p>As an avid learner, I often turn to videos for knowledge, but over time I realised that video didn't suit my learning style - I prefer notes enriched with helpful images that can be skimmed through at my own pace. Moreover, I wanted to keep a personal <em>record</em> of the content I had encountered, something quickly referenceable for recapping what I've learnt, but a bunch of video links or thumbnails isn't an optimal format for that. With these issues in mind I developed the core scripts of FutureNotes' last year, primarily for my friends and myself.<p>This year I decided to build a web service around it, thinking that there might be others out there like me who prefer a more text-based means of information exchange. The current version of FutureNotes is a basic implementation, but it contains the core functionality of video-to-notes conversion. You can either upload an existing video or <em>record</em> your <em>screen</em>, and indicate the email(s) you'll like the notes to be delivered to (in both word and pdf formats). I am hoping the email functionality allows people to use it as a form of communication as well (perhaps an <em>alternative</em> to traditional email or Slack videos)? I look forward to hearing about how people use FutureNotes, and welcome suggestions on how it can be made more useful!<p>Videos less than a minute long will be processed into notes for free. In addition, to celebrate Cyber Monday (and the launch), we'll be having a 40% discount for the entire week (27 Nov to 3 Dec). I hope this encourages more people to give FutureNotes a try and feedback :)<p>One more thing, if there are any popular suggestions for specific videos that people would like to see as converted into notes, I'll do my best to process the video and upload it to samples page of our website (<a href=\"https://www.futurenotes.ai/samples\" rel=\"nofollow noreferrer\">https://www.futurenotes.ai/samples</a>) for everyone to view. Thank you so much for your time!"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: FutureNotes – Video to Notes Converter"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.futurenotes.ai/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Keyboardian",
+        "story_38434193",
+        "show_hn"
+      ],
+      "author": "Keyboardian",
+      "created_at": "2023-11-27T16:20:48Z",
+      "created_at_i": 1701102048,
+      "num_comments": 0,
+      "objectID": "38434193",
+      "points": 5,
+      "story_id": 38434193,
+      "story_text": "Hello HN! I&#x27;m Jia Yi, a co-founder of FutureNotes (<a href=\"https:&#x2F;&#x2F;www.futurenotes.ai&#x2F;\" rel=\"nofollow noreferrer\">https:&#x2F;&#x2F;www.futurenotes.ai&#x2F;</a>). Our platform converts videos directly into notes, using traditional machine learning for video parsing (generative AI is still too slow and expensive for the volume of data involved) and LLM technology for text summarization. Here are some samples we produced based on &#x27;Introduction to Deep Learning&#x27; by MIT (it&#x27;s a great lecture series, you may want to check it out!): <a href=\"https:&#x2F;&#x2F;www.futurenotes.ai&#x2F;samples\" rel=\"nofollow noreferrer\">https:&#x2F;&#x2F;www.futurenotes.ai&#x2F;samples</a>.<p>As an avid learner, I often turn to videos for knowledge, but over time I realised that video didn&#x27;t suit my learning style - I prefer notes enriched with helpful images that can be skimmed through at my own pace. Moreover, I wanted to keep a personal record of the content I had encountered, something quickly referenceable for recapping what I&#x27;ve learnt, but a bunch of video links or thumbnails isn&#x27;t an optimal format for that. With these issues in mind I developed the core scripts of FutureNotes&#x27; last year, primarily for my friends and myself.<p>This year I decided to build a web service around it, thinking that there might be others out there like me who prefer a more text-based means of information exchange. The current version of FutureNotes is a basic implementation, but it contains the core functionality of video-to-notes conversion. You can either upload an existing video or record your screen, and indicate the email(s) you&#x27;ll like the notes to be delivered to (in both word and pdf formats). I am hoping the email functionality allows people to use it as a form of communication as well (perhaps an alternative to traditional email or Slack videos)? I look forward to hearing about how people use FutureNotes, and welcome suggestions on how it can be made more useful!<p>Videos less than a minute long will be processed into notes for free. In addition, to celebrate Cyber Monday (and the launch), we&#x27;ll be having a 40% discount for the entire week (27 Nov to 3 Dec). I hope this encourages more people to give FutureNotes a try and feedback :)<p>One more thing, if there are any popular suggestions for specific videos that people would like to see as converted into notes, I&#x27;ll do my best to process the video and upload it to samples page of our website (<a href=\"https:&#x2F;&#x2F;www.futurenotes.ai&#x2F;samples\" rel=\"nofollow noreferrer\">https:&#x2F;&#x2F;www.futurenotes.ai&#x2F;samples</a>) for everyone to view. Thank you so much for your time!",
+      "title": "Show HN: FutureNotes – Video to Notes Converter",
+      "updated_at": "2024-09-20T15:47:26Z",
+      "url": "https://www.futurenotes.ai/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "sandhya6"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "recorder"
+          ],
+          "value": "Visual DB combines the familiar interface of a spreadsheet with the robustness and central management of a relational database.<p>Spreadsheets are a popular choice for storing tabular data due to their familiar, row-by-column interface and ease of use. However, they can quickly become unwieldy as data grows. Spreadsheets aren't ideal for large-scale structured data or maintaining data integrity. When individuals copy the spreadsheet and introduce inconsistent updates, it leads to the problem known as &quot;multiple versions of the truth.&quot; Visual DB provides a solution. It maintains the familiar interface of spreadsheets, but each row is backed by a database <em>record</em>. Updates sync to a centralized database, ensuring data consistency, scalability, and integrity.<p>Visual DB performs double duty: In addition to providing a spreadsheet interface for updating data, it also has features traditionally seen in business intelligence reporting tools, such as grouping, aggregation, sorting and filtering.<p>Visual DB is very good at helping you locate the <em>record</em> you want to update. It has advanced filtering that supports combining AND/OR conditions. It also has full-text filtering that instantly updates the <em>screen</em> as you type.<p>Visual DB can display up to 100,000 records at a time. If your database table has more rows than that, you can use query parameters to let the user fetch a subset of the records (up to 100K) to the client. To enable this, Visual DB has a query builder and supports parameter prompting.<p>Relational databases frequently function as bridges between various business applications. However, if a database is proprietary and is behind the firewall of another company, its effectiveness as an integration hub is compromised. Visual DB allows users to bring their own databases, ensuring they have complete control and ownership. This ensures interoperability with multiple applications beyond just Visual DB. This flexibility distinguishes Visual DB from competitors like Airtable.<p>Here are the main features of Visual DB:<p>- BYOD (Bring Your Own Database).<p>- Your database can be hosted in any cloud provider, including Azure, AWS and Google cloud.<p>- Supports MySQL, PostgreSQL, Oracle, SQL Server.<p>- No code. Build sheets and forms with zero coding or SQL knowledge.<p>- Role-based access control: Decide who can add/remove columns and who can only enter/update data.<p>- Full-text filtering that instantly updates the <em>screen</em> as you type.<p>- Advanced filtering that supports combining AND/OR conditions.<p>- Grouping with unlimited levels of nesting.<p>- Unlimited number of records per table (compare to 50,000 in Airtable).<p>- Use query parameters to determine which subset of rows (out of millions) to display.<p>- Display columns from lookup tables, not just the main table.<p>- Instant scrolling of up to 100,000 rows.<p>For more information visit <a href=\"https://visualdb.com\" rel=\"nofollow noreferrer\">https://visualdb.com</a> or go to <a href=\"https://app.visualdb.com\" rel=\"nofollow noreferrer\">https://app.visualdb.com</a> to start using Visual DB right away."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: Visual DB – Airtable <em>alternative</em> for your own database"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://visualdb.com/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_sandhya6",
+        "story_37223019",
+        "show_hn"
+      ],
+      "author": "sandhya6",
+      "children": [
+        37232428
+      ],
+      "created_at": "2023-08-22T14:15:27Z",
+      "created_at_i": 1692713727,
+      "num_comments": 5,
+      "objectID": "37223019",
+      "points": 10,
+      "story_id": 37223019,
+      "story_text": "Visual DB combines the familiar interface of a spreadsheet with the robustness and central management of a relational database.<p>Spreadsheets are a popular choice for storing tabular data due to their familiar, row-by-column interface and ease of use. However, they can quickly become unwieldy as data grows. Spreadsheets aren&#x27;t ideal for large-scale structured data or maintaining data integrity. When individuals copy the spreadsheet and introduce inconsistent updates, it leads to the problem known as &quot;multiple versions of the truth.&quot; Visual DB provides a solution. It maintains the familiar interface of spreadsheets, but each row is backed by a database record. Updates sync to a centralized database, ensuring data consistency, scalability, and integrity.<p>Visual DB performs double duty: In addition to providing a spreadsheet interface for updating data, it also has features traditionally seen in business intelligence reporting tools, such as grouping, aggregation, sorting and filtering.<p>Visual DB is very good at helping you locate the record you want to update. It has advanced filtering that supports combining AND&#x2F;OR conditions. It also has full-text filtering that instantly updates the screen as you type.<p>Visual DB can display up to 100,000 records at a time. If your database table has more rows than that, you can use query parameters to let the user fetch a subset of the records (up to 100K) to the client. To enable this, Visual DB has a query builder and supports parameter prompting.<p>Relational databases frequently function as bridges between various business applications. However, if a database is proprietary and is behind the firewall of another company, its effectiveness as an integration hub is compromised. Visual DB allows users to bring their own databases, ensuring they have complete control and ownership. This ensures interoperability with multiple applications beyond just Visual DB. This flexibility distinguishes Visual DB from competitors like Airtable.<p>Here are the main features of Visual DB:<p>- BYOD (Bring Your Own Database).<p>- Your database can be hosted in any cloud provider, including Azure, AWS and Google cloud.<p>- Supports MySQL, PostgreSQL, Oracle, SQL Server.<p>- No code. Build sheets and forms with zero coding or SQL knowledge.<p>- Role-based access control: Decide who can add&#x2F;remove columns and who can only enter&#x2F;update data.<p>- Full-text filtering that instantly updates the screen as you type.<p>- Advanced filtering that supports combining AND&#x2F;OR conditions.<p>- Grouping with unlimited levels of nesting.<p>- Unlimited number of records per table (compare to 50,000 in Airtable).<p>- Use query parameters to determine which subset of rows (out of millions) to display.<p>- Display columns from lookup tables, not just the main table.<p>- Instant scrolling of up to 100,000 rows.<p>For more information visit <a href=\"https:&#x2F;&#x2F;visualdb.com\" rel=\"nofollow noreferrer\">https:&#x2F;&#x2F;visualdb.com</a> or go to <a href=\"https:&#x2F;&#x2F;app.visualdb.com\" rel=\"nofollow noreferrer\">https:&#x2F;&#x2F;app.visualdb.com</a> to start using Visual DB right away.",
+      "title": "Show HN: Visual DB – Airtable alternative for your own database",
+      "updated_at": "2025-11-07T05:04:52Z",
+      "url": "https://visualdb.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "amatic"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "screen",
+            "recorder"
+          ],
+          "value": "Hi HN,<p>This was my M.A. thesis, and I would appreciate some feedback from HN. It is a robot arm with a visual system. It did a tracking task - looking at a computer <em>screen</em>, following a red dot by moving a mouse.<p>https://www.youtube.com/watch?v=wQ6FGeSjN9c<p>The interesting thing is it doesn't use traditional inverse kinematics, instead there are multiple cascades of feedback loops, no internal models.<p>First level are just standard position control loops, just like any servo.<p>Second level loops are controlling relationships between arm points, they operate in parallel, simultaneously. For example - one of the loops maintains distance from fingertip to base (reach), and another one maintains the height from the fingertip to the surface. If the setpoint for reach changes, then the arm will start extending the elbow. That will disturb the height control system, and it will compensate to maintain its setpoint.<p>Third level is the visual system, it was used to maintain distance of cursor marker to target marker. If the target moves up, then the control system maintaining vertical distance sets a new setpoint for the height control system, which sets the shoulder servo to move, and that disturbs the reach system which then starts the elbow servo and so on.<p>It is actually an M.A. in psychology, on theories of motor control, testing perceptual control theory. It was very low budget and my mechanics skills are not yet polished. Hopefully, next one will be better. I was gonna <em>record</em> it doing the tracking task, but a couple of gears broke, and now I need to replace the gearbox.<p>Anyway.. anyone here read about perceptual control theory? There are some interesting simulations of arms with 14 degrees of freedom, also not using traditional inverse kinematics. I'm kinda weirder out by the lack of people who have heard about the theory, it's been around for quite a while, and seems like a pretty interesting approach."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "alternative"
+          ],
+          "value": "Show HN: <em>Alternative</em> to inverse kinematics (?)"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        }
+      },
+      "_tags": [
+        "story",
+        "author_amatic",
+        "story_9701889",
+        "show_hn"
+      ],
+      "author": "amatic",
+      "children": [
+        9704442
+      ],
+      "created_at": "2015-06-11T19:48:58Z",
+      "created_at_i": 1434052138,
+      "num_comments": 2,
+      "objectID": "9701889",
+      "points": 4,
+      "story_id": 9701889,
+      "story_text": "Hi HN,<p>This was my M.A. thesis, and I would appreciate some feedback from HN. It is a robot arm with a visual system. It did a tracking task - looking at a computer screen, following a red dot by moving a mouse.<p>https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=wQ6FGeSjN9c<p>The interesting thing is it doesn&#x27;t use traditional inverse kinematics, instead there are multiple cascades of feedback loops, no internal models.<p>First level are just standard position control loops, just like any servo.<p>Second level loops are controlling relationships between arm points, they operate in parallel, simultaneously. For example - one of the loops maintains distance from fingertip to base (reach), and another one maintains the height from the fingertip to the surface. If the setpoint for reach changes, then the arm will start extending the elbow. That will disturb the height control system, and it will compensate to maintain its setpoint.<p>Third level is the visual system, it was used to maintain distance of cursor marker to target marker. If the target moves up, then the control system maintaining vertical distance sets a new setpoint for the height control system, which sets the shoulder servo to move, and that disturbs the reach system which then starts the elbow servo and so on.<p>It is actually an M.A. in psychology, on theories of motor control, testing perceptual control theory. It was very low budget and my mechanics skills are not yet polished. Hopefully, next one will be better. I was gonna record it doing the tracking task, but a couple of gears broke, and now I need to replace the gearbox.<p>Anyway.. anyone here read about perceptual control theory? There are some interesting simulations of arms with 14 degrees of freedom, also not using traditional inverse kinematics. I&#x27;m kinda weirder out by the lack of people who have heard about the theory, it&#x27;s been around for quite a while, and seems like a pretty interesting approach.",
+      "title": "Show HN: Alternative to inverse kinematics (?)",
+      "updated_at": "2023-09-07T02:57:15Z",
+      "url": ""
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 12,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=screen+recorder+alternative&tags=show_hn&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 24,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 45,
+      "roundTrip": 16
+    },
+    "afterFetch": {
+      "format": {
+        "highlighting": 1,
+        "total": 1
+      }
+    },
+    "fetch": {
+      "query": 21,
+      "scanning": 1,
+      "total": 23
+    },
+    "total": 24
+  },
+  "query": "screen recorder alternative",
+  "serverTimeMS": 71
+}
