@@ -1,0 +1,27 @@
+# The Customer Is the Builder
+
+> Research code, datasets, and notebooks for The Customer Is the Builder: How AI Coding Agents Are Rewriting the Economics of Software, by Ripon Chandra Malo, Zimeng Yu, and Tong Qiu, University of Utah. The study examines AI coding agents, software economics, and organizations' build-versus-buy decisions.
+
+This repository accompanies an empirical position paper released as an arXiv preprint. It contains evidence about capability, public software creation, commercial alternatives, and purchasing indicators. It does not establish a causal customer substitution rate. Benchmark projections are an extrapolation, not a forecast of customer switching. Candidate alternatives require independent workflow validation. Source definitions and limitations should accompany any interpretation of the results.
+
+## Paper and citation
+
+- [Paper on arXiv](https://arxiv.org/abs/2610.30307): Manuscript, authors, abstract, and versions.
+- [Paper DOI](https://doi.org/10.48550/arXiv.2610.30307): Identifier for citing the paper.
+- [Citation metadata](https://raw.githubusercontent.com/riponcm/The-Customer-Is-the-Builder/main/CITATION.cff): Structured authorship and preferred paper citation.
+- [BibTeX citations](https://raw.githubusercontent.com/riponcm/The-Customer-Is-the-Builder/main/CITATION.bib): Separate entries for the paper and research materials.
+
+## Research context
+
+- [Research summary](https://raw.githubusercontent.com/riponcm/The-Customer-Is-the-Builder/main/docs/RESEARCH_SUMMARY.md): Definitions, evidence, limitations, and answers to common questions.
+- [Data documentation](https://raw.githubusercontent.com/riponcm/The-Customer-Is-the-Builder/main/docs/DATA.md): Sources, measures, and interpretation limits.
+
+## Data and reproduction
+
+- [Repository README](https://raw.githubusercontent.com/riponcm/The-Customer-Is-the-Builder/main/README.md): Setup, reproduction commands, and repository layout.
+- [Archived code and data](https://doi.org/10.5281/zenodo.23524847): Zenodo archive; this DOI identifies the research materials, not the paper.
+- [Processed datasets](https://github.com/riponcm/The-Customer-Is-the-Builder/tree/main/data/processed): Tables used in the analyses and plots.
+- [Analysis notebooks](https://github.com/riponcm/The-Customer-Is-the-Builder/tree/main/notebooks): Module inspection and reproducible analysis.
+- [Figure scripts](https://github.com/riponcm/The-Customer-Is-the-Builder/tree/main/plots): One script per figure.
+
+The snapshot figure workflow reads included processed data without network requests. Collection modules can contact upstream services when explicitly run. Third-party source materials retain their original terms.

@@ -2,6 +2,23 @@ cff-version: 1.2.0
 message: "Please cite the associated paper when using this repository."
 title: "The Customer Is the Builder: How AI Coding Agents Are Rewriting the Economics of Software"
 type: software
+url: "https://github.com/riponcm/The-Customer-Is-the-Builder"
+doi: "10.5281/zenodo.23524847"
+repository-code: "https://github.com/riponcm/The-Customer-Is-the-Builder"
+abstract: >-
+  Research code, datasets, and notebooks for a study of how AI coding agents
+  could change organizations' software build-versus-buy decisions. Public
+  evidence connects agent capability, software creation, open-source
+  alternatives, and purchasing indicators. Projections are conditional
+  extrapolations, not forecasts of customer switching.
+keywords:
+  - AI coding agents
+  - software economics
+  - build versus buy
+  - software substitution
+  - open-source software
+  - developer productivity
+  - reproducible research
 authors:
   - family-names: Malo
     given-names: Ripon Chandra
@@ -12,3 +29,24 @@ authors:
   - family-names: Qiu
     given-names: Tong
     affiliation: University of Utah
+preferred-citation:
+  type: article
+  title: "The Customer Is the Builder: How AI Coding Agents Are Rewriting the Economics of Software"
+  authors:
+    - family-names: Malo
+      given-names: Ripon Chandra
+      affiliation: University of Utah
+    - family-names: Yu
+      given-names: Zimeng
+      affiliation: University of Utah
+    - family-names: Qiu
+      given-names: Tong
+      affiliation: University of Utah
+  year: 2026
+  journal: arXiv
+  doi: "10.48550/arXiv.2610.30307"
+  url: "https://arxiv.org/abs/2610.30307"
+  identifiers:
+    - type: other
+      value: "arXiv:2610.30307"
+      description: arXiv preprint identifier
